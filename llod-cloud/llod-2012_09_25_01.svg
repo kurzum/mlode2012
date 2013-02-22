@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-596.3029130189706 -255.98439408346388 1007.5465139346721 786.3243692956903">
+  <title>LOD Cloud</title>
+  <style type="text/css">
+.dataset circle { fill: #fff; stroke: #2F5CD0; stroke-width: 1; }
+
+.dataset.media circle { fill: #E2EAFF; stroke: #2866C4; }
+.dataset.geographic circle { fill: #FFEFA6; stroke: #996633; }
+.dataset.publications circle { fill: #E4FFC9; stroke: #30C32D; }
+.dataset.usergeneratedcontent circle { fill: #FFE9D8; stroke: #FF5D33; }
+.dataset.government circle { fill: #C5FFE5; stroke: #11C2A2; }
+.dataset.crossdomain circle { fill: #E6F6F4; stroke: #2E4439; }
+.dataset.lifesciences circle { fill: #F4D6E2; stroke: #C31A8A; }
+
+.dataset circle { stroke-width: 2; }
+.dataset.legal circle { fill: #FFF; stroke: #EB0; }
+#.dataset.legal text { fill: #996633; }
+.dataset.business circle { fill: #FFF; stroke: #EB0; }
+#.dataset.business text { fill: #607; }
+.dataset.eu-institution circle { fill: #FFF; stroke: #EB0; }
+#.dataset.eu-institution text { fill: #30C32D; }
+#.dataset.thirdparty circle { fill: #FFF; stroke: #28C466; }
+#.dataset.thirdparty text { fill: #050; }
+.dataset.producer circle { fill: #FFF; stroke: #2866C4; }
+#.dataset.producer text { fill: #007; }
+.dataset.non-eu circle { fill: #FFF; stroke: #DDD; }
+.dataset.non-eu text { fill: #999; }
+.shadow.weak { fill-opacity: 0.2; }
+#.links.weak, .weak .arrowhead { stroke-opacity: 0.4; fill-opacity: 0.4; }
+.links.weak, .weak .arrowhead { stroke: #AAA; fill: #AAA; }
+
+.shadow { fill-opacity: 0.6; }
+.links { stroke: #363636; stroke-linecap: square; }
+.width1 { stroke-width: 1; }
+.width2 { stroke-width: 2; }
+.width3 { stroke-width: 4; }
+.arrowhead { fill: #363636; }
+
+
+#.label, .footer-text, #layer-legend text { font-family: Verdana, 'Bitstream Vera Sans', 'DejaVu Sans', Geneva, sans-serif; text-rendering: geometricPrecision; }
+.label, .footer-text, #layer-legend text { font-family: Helvetica, sans-serif; text-rendering: geometricPrecision; font-weight: bold; }
+.label { text-anchor: middle; }
+.footer-text { text-anchor: end; }
+#layer-legend text { text-anchor: end; fill: #363636; }
+  </style>
+  <defs id="defs">
+    
+    
+    
+    
+  <circle id="shadow-size1" cx="0" cy="0" r="21" filter="url(#shadow-filter1)" class="shadow"/><circle id="shadow-size1-weak" cx="0" cy="0" r="21" filter="url(#shadow-filter1)" class="shadow weak"/><filter id="shadow-filter1" filterUnits="userSpaceOnUse" x="-29" y="-29" width="58" height="58">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter><circle id="shadow-size2" cx="0" cy="0" r="24" filter="url(#shadow-filter2)" class="shadow"/><circle id="shadow-size2-weak" cx="0" cy="0" r="24" filter="url(#shadow-filter2)" class="shadow weak"/><filter id="shadow-filter2" filterUnits="userSpaceOnUse" x="-32" y="-32" width="64" height="64">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter><circle id="shadow-size3" cx="0" cy="0" r="29" filter="url(#shadow-filter3)" class="shadow"/><circle id="shadow-size3-weak" cx="0" cy="0" r="29" filter="url(#shadow-filter3)" class="shadow weak"/><filter id="shadow-filter3" filterUnits="userSpaceOnUse" x="-37" y="-37" width="74" height="74">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter><circle id="shadow-size4" cx="0" cy="0" r="36" filter="url(#shadow-filter4)" class="shadow"/><circle id="shadow-size4-weak" cx="0" cy="0" r="36" filter="url(#shadow-filter4)" class="shadow weak"/><filter id="shadow-filter4" filterUnits="userSpaceOnUse" x="-44" y="-44" width="88" height="88">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter><circle id="shadow-size5" cx="0" cy="0" r="45" filter="url(#shadow-filter5)" class="shadow"/><circle id="shadow-size5-weak" cx="0" cy="0" r="45" filter="url(#shadow-filter5)" class="shadow weak"/><filter id="shadow-filter5" filterUnits="userSpaceOnUse" x="-53" y="-53" width="106" height="106">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter><marker id="arrowhead-start-width1" viewBox="0 0 13 10" refX="13" refY="5" orient="auto" markerUnits="userSpaceOnUse" markerWidth="7" markerHeight="7" overflow="visible">
+      <path id="arrowhead-start" class="arrowhead" d="M 13 0 L 0 5 L 13 10 z"/>
+    </marker><marker id="arrowhead-start-width1-weak" viewBox="0 0 13 10" refX="13" refY="5" orient="auto" markerUnits="userSpaceOnUse" markerWidth="7" markerHeight="7" overflow="visible" class="weak">
+      <path id="arrowhead-start" class="arrowhead" d="M 13 0 L 0 5 L 13 10 z"/>
+    </marker><marker id="arrowhead-end-width1" viewBox="0 0 13 10" refX="0" refY="5" orient="auto" markerUnits="userSpaceOnUse" markerWidth="7" markerHeight="7" overflow="visible">
+      <path id="arrowhead-end" class="arrowhead" d="M 0 0 L 13 5 L 0 10 z"/>
+    </marker><marker id="arrowhead-end-width1-weak" viewBox="0 0 13 10" refX="0" refY="5" orient="auto" markerUnits="userSpaceOnUse" markerWidth="7" markerHeight="7" overflow="visible" class="weak">
+      <path id="arrowhead-end" class="arrowhead" d="M 0 0 L 13 5 L 0 10 z"/>
+    </marker><marker id="arrowhead-start-width2" viewBox="0 0 13 10" refX="13" refY="5" orient="auto" markerUnits="userSpaceOnUse" markerWidth="10" markerHeight="10" overflow="visible">
+      <path id="arrowhead-start" class="arrowhead" d="M 13 0 L 0 5 L 13 10 z"/>
+    </marker><marker id="arrowhead-start-width2-weak" viewBox="0 0 13 10" refX="13" refY="5" orient="auto" markerUnits="userSpaceOnUse" markerWidth="10" markerHeight="10" overflow="visible" class="weak">
+      <path id="arrowhead-start" class="arrowhead" d="M 13 0 L 0 5 L 13 10 z"/>
+    </marker><marker id="arrowhead-end-width2" viewBox="0 0 13 10" refX="0" refY="5" orient="auto" markerUnits="userSpaceOnUse" markerWidth="10" markerHeight="10" overflow="visible">
+      <path id="arrowhead-end" class="arrowhead" d="M 0 0 L 13 5 L 0 10 z"/>
+    </marker><marker id="arrowhead-end-width2-weak" viewBox="0 0 13 10" refX="0" refY="5" orient="auto" markerUnits="userSpaceOnUse" markerWidth="10" markerHeight="10" overflow="visible" class="weak">
+      <path id="arrowhead-end" class="arrowhead" d="M 0 0 L 13 5 L 0 10 z"/>
+    </marker><marker id="arrowhead-start-width3" viewBox="0 0 13 10" refX="13" refY="5" orient="auto" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="14" overflow="visible">
+      <path id="arrowhead-start" class="arrowhead" d="M 13 0 L 0 5 L 13 10 z"/>
+    </marker><marker id="arrowhead-start-width3-weak" viewBox="0 0 13 10" refX="13" refY="5" orient="auto" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="14" overflow="visible" class="weak">
+      <path id="arrowhead-start" class="arrowhead" d="M 13 0 L 0 5 L 13 10 z"/>
+    </marker><marker id="arrowhead-end-width3" viewBox="0 0 13 10" refX="0" refY="5" orient="auto" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="14" overflow="visible">
+      <path id="arrowhead-end" class="arrowhead" d="M 0 0 L 13 5 L 0 10 z"/>
+    </marker><marker id="arrowhead-end-width3-weak" viewBox="0 0 13 10" refX="0" refY="5" orient="auto" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="14" overflow="visible" class="weak">
+      <path id="arrowhead-end" class="arrowhead" d="M 0 0 L 13 5 L 0 10 z"/>
+    </marker></defs>
+
+  <g id="layer-shadows" transform="translate(2 4)">
+    <use id="shadow-eurovoc-in-skos" x="-70.04233443814145" y="351.17316815877" xlink:href="#shadow-size1"/>
+    <use id="shadow-de-gaap-ontology-lexicon" x="49.88012271577635" y="-148.68317347572386" xlink:href="#shadow-size1"/>
+    <use id="shadow-openlibrary" x="-260.21426983474794" y="233.19113352554103" xlink:href="#shadow-size4"/>
+    <use id="shadow-lexvo" x="118.48645816788195" y="171.33466930621404" xlink:href="#shadow-size2"/>
+    <use id="shadow-mlsa" x="318.0988170605293" y="190.5224673490465" xlink:href="#shadow-size2"/>
+    <use id="shadow-french-timebank" x="-483.2768803526349" y="252.40298706011225" xlink:href="#shadow-size1"/>
+    <use id="shadow-gutenberg" x="243.80422152033972" y="-178.23003819858036" xlink:href="#shadow-size3"/>
+    <use id="shadow-marc-codes" x="-217.50580014398074" y="139.24832301687962" xlink:href="#shadow-size2"/>
+    <use id="shadow-bluk-bnb" x="-319.3713041879964" y="325.7039930234633" xlink:href="#shadow-size4"/>
+    <use id="shadow-dbpedia-pl" x="265.4138975356241" y="262.45701733563146" xlink:href="#shadow-size1"/>
+    <use id="shadow-dbpedia-ja" x="-567.3029130189706" y="217.40457757312737" xlink:href="#shadow-size1"/>
+    <use id="shadow-jmdict" x="-404.04618814045597" y="276.15233233304946" xlink:href="#shadow-size1"/>
+    <use id="shadow-simple-ontology-lexicon" x="-386.40669604206914" y="406.41214537908553" xlink:href="#shadow-size2"/>
+    <use id="shadow-apertium" x="-327.54169424398214" y="-214.23747444767855" xlink:href="#shadow-size1"/>
+    <use id="shadow-wold" x="-95.29140852048617" y="37.28115589456266" xlink:href="#shadow-size3"/>
+    <use id="shadow-saldo" x="-313.9673516468504" y="6.872736136967313" xlink:href="#shadow-size1"/>
+    <use id="shadow-ids" x="117.01305958611763" y="311.58318611421845" xlink:href="#shadow-size3"/>
+    <use id="shadow-omegawiki" x="135.40939045300982" y="395.10070603161284" xlink:href="#shadow-size1"/>
+    <use id="shadow-gemet-annotated" x="370.18959430254216" y="266.09250891980815" xlink:href="#shadow-size1"/>
+    <use id="shadow-rosetta-project" x="-475.4263214164139" y="167.40162299387637" xlink:href="#shadow-size1"/>
+    <use id="shadow-opencyc" x="-164.18828567060697" y="211.59147214676824" xlink:href="#shadow-size3"/>
+    <use id="shadow-wikiword_thesaurus" x="-146.22432067266632" y="377.58546514325377" xlink:href="#shadow-size1"/>
+    <use id="shadow-geowordnet" x="-63.16645013542044" y="-56.39652039152637" xlink:href="#shadow-size4"/>
+    <use id="shadow-phoible" x="133.74701460013023" y="-166.49733958480633" xlink:href="#shadow-size1"/>
+    <use id="shadow-wals" x="175.9403640101816" y="240.21642427786244" xlink:href="#shadow-size3"/>
+    <use id="shadow-dbpedia-pt" x="2.039010466278387" y="23.258636509800294" xlink:href="#shadow-size3"/>
+    <use id="shadow-conceptnet" x="196.28561388278524" y="-93.2995501220975" xlink:href="#shadow-size1"/>
+    <use id="shadow-alpino-rdf" x="-297.7218044277449" y="445.71517058501945" xlink:href="#shadow-size1"/>
+    <use id="shadow-cornetto" x="192.2055043529557" y="-2.475908865412751" xlink:href="#shadow-size3"/>
+    <use id="shadow-wiktionary-en" x="-406.4061100980951" y="-133.79255844026804" xlink:href="#shadow-size1"/>
+    <use id="shadow-opus" x="-120.83977865969037" y="-197.65302467788118" xlink:href="#shadow-size1"/>
+    <use id="shadow-pali-english-lexicon" x="-237.14051738070145" y="380.96529765967114" xlink:href="#shadow-size2"/>
+    <use id="shadow-core" x="-237.4470245282767" y="-45.562690976850924" xlink:href="#shadow-size4"/>
+    <use id="shadow-o-anc" x="284.4866599661798" y="-77.4252975401673" xlink:href="#shadow-size1"/>
+    <use id="shadow-heartfailure" x="-395.5918268775775" y="154.6171303879897" xlink:href="#shadow-size1"/>
+    <use id="shadow-bible-ontology" x="-43.49340744108165" y="-149.54208512214808" xlink:href="#shadow-size2"/>
+    <use id="shadow-multext-east" x="-460.2472874338406" y="344.2750974937588" xlink:href="#shadow-size1"/>
+    <use id="shadow-fao-geopolitical-ontology" x="42.031259670094016" y="357.564941079895" xlink:href="#shadow-size2"/>
+    <use id="shadow-glottolog-langdoc" x="225.69965519805663" y="162.54050203679176" xlink:href="#shadow-size3"/>
+    <use id="shadow-talkbank" x="-350.6809920682561" y="220.69834801348236" xlink:href="#shadow-size1"/>
+    <use id="shadow-lemonwiktionary" x="-103.05261421248045" y="462.18730272718824" xlink:href="#shadow-size3"/>
+    <use id="shadow-eu-dgt-tm" x="-198.6380677613841" y="461.93887001276363" xlink:href="#shadow-size1"/>
+    <use id="shadow-sentiws" x="306.82370948404457" y="352.1494769960634" xlink:href="#shadow-size2"/>
+    <use id="shadow-dbpedia-el" x="-131.35721958047336" y="125.8959471443625" xlink:href="#shadow-size3"/>
+    <use id="shadow-dbpedia-spotlight" x="4.14013940679903" y="-226.98439408346388" xlink:href="#shadow-size1"/>
+    <use id="shadow-isocat" x="-144.12755421461458" y="-107.37132964074134" xlink:href="#shadow-size1"/>
+    <use id="shadow-sanskrit-english-lexicon" x="-293.68530533890214" y="-129.543527202683" xlink:href="#shadow-size3"/>
+    <use id="shadow-olia" x="-359.70708799396635" y="76.33943664706604" xlink:href="#shadow-size2"/>
+    <use id="shadow-ontos-news-portal" x="-187.54009781259776" y="50.47224505105861" xlink:href="#shadow-size3"/>
+    <use id="shadow-asjp" x="156.12011650618174" y="90.75295553406997" xlink:href="#shadow-size3"/>
+    <use id="shadow-printed-book-auction-catalogues" x="-108.6043926866061" y="282.087634903659" xlink:href="#shadow-size2"/>
+    <use id="shadow-rkb-explorer-wordnet" x="-193.83389015519498" y="303.86097586791504" xlink:href="#shadow-size3"/>
+    <use id="shadow-lingvoj" x="20.396150037791067" y="184.68623634777373" xlink:href="#shadow-size2"/>
+    <use id="shadow-zhishi-me" x="-8.633806443014791" y="279.3361619441038" xlink:href="#shadow-size4"/>
+    <use id="shadow-dbpedia-es" x="329.4069492528433" y="105.33851935487262" xlink:href="#shadow-size1"/>
+    <use id="shadow-wiktionary" x="144.30284497185397" y="482.8244649181403" xlink:href="#shadow-size1"/>
+    <use id="shadow-dbpedia-cs" x="382.24360091570156" y="31.152640003162933" xlink:href="#shadow-size1"/>
+    <use id="shadow-masc" x="-21.95439050801882" y="411.5988841410532" xlink:href="#shadow-size1"/>
+    <use id="shadow-yago" x="-70.83204022622641" y="201.2400928162693" xlink:href="#shadow-size3"/>
+    <use id="shadow-lemonwordnet" x="-406.3326509843934" y="6.221217530576061" xlink:href="#shadow-size1"/>
+    <use id="shadow-dbpedia-ru" x="293.2008185869882" y="6.475277554522613" xlink:href="#shadow-size1"/>
+    <use id="shadow-framenet" x="207.55515023633177" y="328.84140001038253" xlink:href="#shadow-size1"/>
+    <use id="shadow-dbpedia-ko" x="-267.9267882769323" y="68.44353311763864" xlink:href="#shadow-size1"/>
+    <use id="shadow-gemet" x="34.46778491825868" y="-62.98996813663017" xlink:href="#shadow-size3"/>
+    <use id="shadow-lexinfo" x="-11.058012037118939" y="501.3399752122265" xlink:href="#shadow-size1"/>
+    <use id="shadow-dbpedia-live" x="119.36099961046115" y="-70.52048178941021" xlink:href="#shadow-size1"/>
+    <use id="shadow-vu-wordnet" x="95.75799008417556" y="15.593218221868556" xlink:href="#shadow-size3"/>
+    <use id="shadow-asit" x="-206.93731145603329" y="-161.58730795164283" xlink:href="#shadow-size1"/>
+    <use id="shadow-gold" x="-544.6667955187278" y="108.28240580400559" xlink:href="#shadow-size1"/>
+    <use id="shadow-wiktionary-dbpedia-org" x="77.17381241358436" y="240.58115764437048" xlink:href="#shadow-size1"/>
+    <use id="shadow-wordnet" x="-464.2920581916869" y="-58.35845719764163" xlink:href="#shadow-size1"/>
+    <use id="shadow-data-bnf-fr" x="-305.37808759072516" y="145.31271628176486" xlink:href="#shadow-size3"/>
+    <use id="shadow-dbpedia" x="-33.799909081427806" y="116.21334780910257" xlink:href="#shadow-size4"/>
+    <use id="shadow-dbpedia-it" x="-354.64064724358013" y="-61.71268734293074" xlink:href="#shadow-size1"/>
+    <use id="shadow-jrc-names" x="61.52277781686567" y="103.5317761997443" xlink:href="#shadow-size3"/>
+    <use id="shadow-dbpedia-de" x="-149.33640543957483" y="-25.932460906507277" xlink:href="#shadow-size1"/>
+    <use id="shadow-multilingualeulaw" x="60.28987373643064" y="443.32495969925793" xlink:href="#shadow-size1"/>
+    <use id="shadow-ietflang" x="-449.6090493429929" y="81.1676282081146" xlink:href="#shadow-size1"/>
+    <use id="shadow-open-data-thesaurus" x="245.54230860507485" y="75.41741831439737" xlink:href="#shadow-size2"/>
+    <use id="shadow-lcc" x="226.4086206380061" y="416.8585617419297" xlink:href="#shadow-size1"/>
+    <use id="shadow-dbpedia-in-french" x="-520.8679374813868" y="15.68688897141752" xlink:href="#shadow-size1"/>
+  </g>
+
+  <g id="layer-links">
+    <line x1="80.83365983646297" y1="176.45978177458895" x2="58.04894836921005" y2="179.5611238793988" marker-end="url(#arrowhead-end-width3-weak)" marker-start="url(#arrowhead-start-width3-weak)" class="links width3 from-lexvo to-lingvoj bidi weak"/>
+    <line x1="95.91927877061671" y1="163.1662903941136" x2="9.453851429997215" y2="131.86940739062845" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-lexvo to-dbpedia weak"/>
+    <line x1="94.78039838753463" y1="175.07936284382154" x2="-32.30969308316202" y2="195.15496581765711" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-lexvo to-yago weak"/>
+    <line x1="295.1290049200984" y1="183.56633838004998" x2="263.02559992625686" y2="173.84421161141114" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-mlsa to-glottolog-langdoc weak"/>
+    <line x1="294.6006804214994" y1="195.40484120747664" x2="107.52557223899794" y2="234.27475807723144" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-mlsa to-wiktionary-dbpedia-org weak"/>
+    <line x1="294.2089354007346" y1="188.22604528831712" x2="152.33045718592444" y2="174.58793389224735" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-mlsa to-lexvo weak"/>
+    <line x1="295.4431620571857" y1="198.44214514359547" x2="212.75580339061497" y2="227.3469478617204" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-mlsa to-wals weak"/>
+    <line x1="-193.93192243570022" y1="143.75079897961774" x2="-10.053442002071279" y2="178.870538229237" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-marc-codes to-lingvoj weak"/>
+    <line x1="-193.69227740433283" y1="136.2623332767311" x2="-79.44249433241964" y2="121.93649481105389" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-marc-codes to-dbpedia weak"/>
+    <line x1="-77.46911448200818" y1="60.158346176719945" x2="-62.06975479763429" y2="79.92539080981861" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-wold to-dbpedia weak"/>
+    <line x1="-72.07134770207156" y1="54.654375964230994" x2="147.1154609252531" y2="218.64966832930864" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-wold to-wals weak"/>
+    <line x1="134.10004143778158" y1="288.15168912403647" x2="204.48822945116345" y2="191.62787761081074" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-ids to-glottolog-langdoc weak"/>
+    <line x1="117.31770595316519" y1="282.58478632059115" x2="118.16080170655528" y2="202.33295874078118" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-ids to-lexvo weak"/>
+    <line x1="135.47743476219384" y1="289.22101159211303" x2="153.01907068815598" y2="267.97636506392433" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-ids to-wals weak"/>
+    <line x1="102.8223860584393" y1="286.29238176103803" x2="92.34315308110259" y2="267.6161554012185" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-ids to-wiktionary-dbpedia-org weak"/>
+    <line x1="-30.373957267009715" y1="-41.54214691179887" x2="56.58917915801832" y2="-2.149505656694849" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-geowordnet to-vu-wordnet weak"/>
+    <line x1="191.58333516040747" y1="215.7972217193594" x2="204.66255606499428" y2="195.3801192706407" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-wals to-glottolog-langdoc weak"/>
+    <line x1="157.3650118266515" y1="217.94634813839173" x2="140.26445727960692" y2="197.4444137455935" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-wals to-lexvo weak"/>
+    <line x1="-8.39346822031779" y1="50.317154363772204" x2="-15.812876863158564" y2="69.56073081949583" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-dbpedia-pt to-dbpedia weak"/>
+    <line x1="149.94082747466462" y1="5.442240436895633" x2="138.02266696246664" y2="7.6750689195601245" marker-end="url(#arrowhead-end-width3-weak)" marker-start="url(#arrowhead-start-width3-weak)" class="links width3 from-cornetto to-vu-wordnet bidi weak"/>
+    <line x1="-42.61858297417903" y1="-125.55803454364678" x2="-35.367302917961666" y2="73.24192385595438" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-bible-ontology to-dbpedia weak"/>
+    <line x1="34.837337170029535" y1="334.6684898469404" x2="-20.910797935478882" y2="157.23615626814612" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-fao-geopolitical-ontology to-dbpedia weak"/>
+    <line x1="196.79672322382928" y1="164.91126632140265" x2="152.37265427559674" y2="168.5551525587392" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-glottolog-langdoc to-lexvo weak"/>
+    <line x1="-141.73216042519252" y1="152.97657864491245" x2="-150.235779017364" y2="175.1726918529252" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-dbpedia-el to-opencyc weak"/>
+    <line x1="-102.49900713918726" y1="123.03175883113998" x2="-83.5554477733004" y2="121.15160352155519" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-dbpedia-el to-dbpedia weak"/>
+    <line x1="-113.1953827259687" y1="148.50452255437798" x2="-97.76166038980227" y2="167.7170327255567" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-dbpedia-el to-yago weak"/>
+    <line x1="-341.4401344654125" y1="60.77285677910357" x2="-165.43899999792737" y2="-89.21031979478508" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-olia to-isocat weak"/>
+    <line x1="-383.35698734935164" y1="80.4238289494958" x2="-517.0752462707783" y2="103.51728145117085" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-olia to-gold weak"/>
+    <line x1="-160.8756350867096" y1="61.87428116482882" x2="-76.09526375007802" y2="98.12735949070847" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-ontos-news-portal to-dbpedia weak"/>
+    <line x1="143.84871129568958" y1="117.02865940970203" x2="132.87362289742447" y2="140.52867165892127" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-asjp to-lexvo weak"/>
+    <line x1="-98.737978410288" y1="260.2094752614938" x2="-52.71053644437085" y2="158.14648712325254" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-printed-book-auction-catalogues to-dbpedia weak"/>
+    <line x1="-184.9630006394987" y1="276.2510624453722" x2="-175.2004243797472" y2="245.86584742992483" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-rkb-explorer-wordnet to-opencyc weak"/>
+    <line x1="-168.49127049067658" y1="289.7630459298154" x2="-6.6942365001423525" y2="199.75643731608716" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-rkb-explorer-wordnet to-lingvoj weak"/>
+    <line x1="-175.01569158279943" y1="281.7957225838512" x2="-61.70275524049708" y2="148.93079233374894" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-rkb-explorer-wordnet to-dbpedia weak"/>
+    <line x1="5.501246736022882" y1="165.86757923226799" x2="-7.113207332426459" y2="149.9301084743837" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-lingvoj to-dbpedia weak"/>
+    <line x1="-14.122840172153934" y1="243.75708791567564" x2="-26.176251124290072" y2="165.62872840414173" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-zhishi-me to-dbpedia weak"/>
+    <line x1="-53.661871883143846" y1="161.81693567392205" x2="-53.765221108267994" y2="162.05422820718078" marker-end="url(#arrowhead-end-width3-weak)" marker-start="url(#arrowhead-start-width3-weak)" class="links width3 from-yago to-dbpedia bidi weak"/>
+    <line x1="24.143951569111817" y1="-35.88981195665506" x2="-17.4241734241605" y2="73.22689317879717" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-gemet to-dbpedia weak"/>
+    <line x1="99.94580787464544" y1="44.28924899537143" x2="112.99897278726623" y2="133.73297380989993" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-vu-wordnet to-lexvo weak"/>
+    <line x1="63.1923166595073" y1="224.91215076841547" x2="-0.5106334764824396" y2="153.52050703756686" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-wiktionary-dbpedia-org to-dbpedia weak"/>
+    <line x1="-62.855974573492006" y1="137.46764286024168" x2="-129.482429666197" y2="186.204397502352" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-dbpedia to-opencyc weak"/>
+    <line x1="32.77605895915703" y1="107.356191830381" x2="15.763399293931911" y2="109.61952775628065" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-jrc-names to-dbpedia weak"/>
+    <line x1="221.79422801001974" y1="78.88565533783837" x2="8.74873531804593" y2="109.99942314210406" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-open-data-thesaurus to-dbpedia weak"/>
+  </g>
+
+  <g id="layer-datasets">
+    <a id="dataset-eurovoc-in-skos" class="dataset thirdparty" xlink:href="http://thedatahub.org/dataset/eurovoc-in-skos" target="_blank" transform="translate(-70.04233443814145 351.17316815877)"><circle r="21"/><text class="label" x="0" y="-2.25" font-size="9">EUROVOC</text><text class="label" x="0" y="7.75" font-size="9">SKOS</text></a>
+    <a id="dataset-de-gaap-ontology-lexicon" class="dataset" xlink:href="http://thedatahub.org/dataset/de-gaap-ontology-lexicon" target="_blank" transform="translate(49.88012271577635 -148.68317347572386)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">GAAP</text></a>
+    <a id="dataset-openlibrary" class="dataset producer" xlink:href="http://thedatahub.org/dataset/openlibrary" target="_blank" transform="translate(-260.21426983474794 233.19113352554103)"><circle r="36"/><text class="label" x="0" y="-3" font-size="12">The Open</text><text class="label" x="0" y="10" font-size="12">Library</text></a>
+    <a id="dataset-lexvo" class="dataset thirdparty" xlink:href="http://thedatahub.org/dataset/lexvo" target="_blank" transform="translate(118.48645816788195 171.33466930621404)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">Lexvo</text></a>
+    <a id="dataset-mlsa" class="dataset" xlink:href="http://thedatahub.org/dataset/mlsa" target="_blank" transform="translate(318.0988170605293 190.5224673490465)"><circle r="24"/><text class="label" x="0" y="3" font-size="10"> MLSA</text></a>
+    <a id="dataset-french-timebank" class="dataset" xlink:href="http://thedatahub.org/dataset/french-timebank" target="_blank" transform="translate(-483.2768803526349 252.40298706011225)"><circle r="21"/><text class="label" x="0" y="-2.25" font-size="9">French</text><text class="label" x="0" y="7.75" font-size="9">TimeBank</text></a>
+    <a id="dataset-gutenberg" class="dataset" xlink:href="http://thedatahub.org/dataset/gutenberg" target="_blank" transform="translate(243.80422152033972 -178.23003819858036)"><circle r="29"/><text class="label" x="0" y="-2.75" font-size="11">Project</text><text class="label" x="0" y="9.25" font-size="11">Gutenberg</text></a>
+    <a id="dataset-marc-codes" class="dataset thirdparty" xlink:href="http://thedatahub.org/dataset/marc-codes" target="_blank" transform="translate(-217.50580014398074 139.24832301687962)"><circle r="24"/><text class="label" x="0" y="-8" font-size="10">MARC</text><text class="label" x="0" y="3" font-size="10">Codes</text><text class="label" x="0" y="14" font-size="10">List</text></a>
+    <a id="dataset-bluk-bnb" class="dataset producer" xlink:href="http://thedatahub.org/dataset/bluk-bnb" target="_blank" transform="translate(-319.3713041879964 325.7039930234633)"><circle r="36"/><text class="label" x="0" y="3.5" font-size="12">BNB</text></a>
+    <a id="dataset-dbpedia-pl" class="dataset" xlink:href="http://thedatahub.org/dataset/dbpedia-pl" target="_blank" transform="translate(265.4138975356241 262.45701733563146)"><circle r="21"/><text class="label" x="0" y="-2.25" font-size="9">DBpedia</text><text class="label" x="0" y="7.75" font-size="9">Polish</text></a>
+    <a id="dataset-dbpedia-ja" class="dataset" xlink:href="http://thedatahub.org/dataset/dbpedia-ja" target="_blank" transform="translate(-567.3029130189706 217.40457757312737)"><circle r="21"/><text class="label" x="0" y="-2.25" font-size="9">DBpedia</text><text class="label" x="0" y="7.75" font-size="9">Japanese</text></a>
+    <a id="dataset-jmdict" class="dataset" xlink:href="http://thedatahub.org/dataset/jmdict" target="_blank" transform="translate(-404.04618814045597 276.15233233304946)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">JMDict</text></a>
+    <a id="dataset-simple-ontology-lexicon" class="dataset" xlink:href="http://thedatahub.org/dataset/simple-ontology-lexicon" target="_blank" transform="translate(-386.40669604206914 406.41214537908553)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">SIMPLE</text></a>
+    <a id="dataset-apertium" class="dataset" xlink:href="http://thedatahub.org/dataset/apertium" target="_blank" transform="translate(-327.54169424398214 -214.23747444767855)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">Apertium</text></a>
+    <a id="dataset-wold" class="dataset producer" xlink:href="http://thedatahub.org/dataset/wold" target="_blank" transform="translate(-95.29140852048617 37.28115589456266)"><circle r="29"/><text class="label" x="0" y="-8" font-size="10">World</text><text class="label" x="0" y="3" font-size="10">Loanword</text><text class="label" x="0" y="14" font-size="10">Database</text></a>
+    <a id="dataset-saldo" class="dataset" xlink:href="http://thedatahub.org/dataset/saldo" target="_blank" transform="translate(-313.9673516468504 6.872736136967313)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">SALDO</text></a>
+    <a id="dataset-ids" class="dataset producer" xlink:href="http://thedatahub.org/dataset/ids" target="_blank" transform="translate(117.01305958611763 311.58318611421845)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">ids</text></a>
+    <a id="dataset-omegawiki" class="dataset" xlink:href="http://thedatahub.org/dataset/omegawiki" target="_blank" transform="translate(135.40939045300982 395.10070603161284)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">OmegaWiki</text></a>
+    <a id="dataset-gemet-annotated" class="dataset" xlink:href="http://thedatahub.org/dataset/gemet-annotated" target="_blank" transform="translate(370.18959430254216 266.09250891980815)"><circle r="21"/><text class="label" x="0" y="-2.25" font-size="9">gemet</text><text class="label" x="0" y="7.75" font-size="9">annotated</text></a>
+    <a id="dataset-rosetta-project" class="dataset" xlink:href="http://thedatahub.org/dataset/rosetta-project" target="_blank" transform="translate(-475.4263214164139 167.40162299387637)"><circle r="21"/><text class="label" x="0" y="-7.25" font-size="9">The</text><text class="label" x="0" y="2.75" font-size="9">Rosetta</text><text class="label" x="0" y="12.75" font-size="9">Project</text></a>
+    <a id="dataset-opencyc" class="dataset producer" xlink:href="http://thedatahub.org/dataset/opencyc" target="_blank" transform="translate(-164.18828567060697 211.59147214676824)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">OpenCyc</text></a>
+    <a id="dataset-wikiword_thesaurus" class="dataset" xlink:href="http://thedatahub.org/dataset/wikiword_thesaurus" target="_blank" transform="translate(-146.22432067266632 377.58546514325377)"><circle r="21"/><text class="label" x="0" y="-2.25" font-size="9">WikiWord</text><text class="label" x="0" y="7.75" font-size="9">Thesaurus</text></a>
+    <a id="dataset-geowordnet" class="dataset producer" xlink:href="http://thedatahub.org/dataset/geowordnet" target="_blank" transform="translate(-63.16645013542044 -56.39652039152637)"><circle r="36"/><text class="label" x="0" y="3" font-size="10">GeoWordNet</text></a>
+    <a id="dataset-phoible" class="dataset" xlink:href="http://thedatahub.org/dataset/phoible" target="_blank" transform="translate(133.74701460013023 -166.49733958480633)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">phoible</text></a>
+    <a id="dataset-wals" class="dataset" xlink:href="http://thedatahub.org/dataset/wals" target="_blank" transform="translate(175.9403640101816 240.21642427786244)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">WALS</text></a>
+    <a id="dataset-dbpedia-pt" class="dataset producer" xlink:href="http://thedatahub.org/dataset/dbpedia-pt" target="_blank" transform="translate(2.039010466278387 23.258636509800294)"><circle r="29"/><text class="label" x="0" y="-0.75" font-size="11">DBpedia</text><text class="label" x="0" y="7.25" font-size="7">in Portuguese</text></a>
+    <a id="dataset-conceptnet" class="dataset" xlink:href="http://thedatahub.org/dataset/conceptnet" target="_blank" transform="translate(196.28561388278524 -93.2995501220975)"><circle r="21"/><text class="label" x="0" y="2.5" font-size="8">ConceptNet</text></a>
+    <a id="dataset-alpino-rdf" class="dataset" xlink:href="http://thedatahub.org/dataset/alpino-rdf" target="_blank" transform="translate(-297.7218044277449 445.71517058501945)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">ALPINO</text></a>
+    <a id="dataset-cornetto" class="dataset producer" xlink:href="http://thedatahub.org/dataset/cornetto" target="_blank" transform="translate(192.2055043529557 -2.475908865412751)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">Cornetto</text></a>
+    <a id="dataset-wiktionary-en" class="dataset" xlink:href="http://thedatahub.org/dataset/wiktionary-en" target="_blank" transform="translate(-406.4061100980951 -133.79255844026804)"><circle r="21"/><text class="label" x="0" y="-2.25" font-size="9">Wiktionary</text><text class="label" x="0" y="7.75" font-size="9">EN</text></a>
+    <a id="dataset-opus" class="dataset" xlink:href="http://thedatahub.org/dataset/opus" target="_blank" transform="translate(-120.83977865969037 -197.65302467788118)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">OPUS</text></a>
+    <a id="dataset-pali-english-lexicon" class="dataset thirdparty" xlink:href="http://thedatahub.org/dataset/pali-english-lexicon" target="_blank" transform="translate(-237.14051738070145 380.96529765967114)"><circle r="24"/><text class="label" x="0" y="-8" font-size="10">Pali</text><text class="label" x="0" y="3" font-size="10">English</text><text class="label" x="0" y="14" font-size="10">Lexicon</text></a>
+    <a id="dataset-core" class="dataset producer" xlink:href="http://thedatahub.org/dataset/core" target="_blank" transform="translate(-237.4470245282767 -45.562690976850924)"><circle r="36"/><text class="label" x="0" y="3.5" font-size="12">CORE</text></a>
+    <a id="dataset-o-anc" class="dataset" xlink:href="http://thedatahub.org/dataset/o-anc" target="_blank" transform="translate(284.4866599661798 -77.4252975401673)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">ANC</text></a>
+    <a id="dataset-heartfailure" class="dataset" xlink:href="http://thedatahub.org/dataset/heartfailure" target="_blank" transform="translate(-395.5918268775775 154.6171303879897)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">heartfailure</text></a>
+    <a id="dataset-bible-ontology" class="dataset thirdparty" xlink:href="http://thedatahub.org/dataset/bible-ontology" target="_blank" transform="translate(-43.49340744108165 -149.54208512214808)"><circle r="24"/><text class="label" x="0" y="-2.5" font-size="10">Bible</text><text class="label" x="0" y="8.5" font-size="10">Ontology</text></a>
+    <a id="dataset-multext-east" class="dataset" xlink:href="http://thedatahub.org/dataset/multext-east" target="_blank" transform="translate(-460.2472874338406 344.2750974937588)"><circle r="21"/><text class="label" x="0" y="-2.25" font-size="9">Multext</text><text class="label" x="0" y="7.75" font-size="9">East</text></a>
+    <a id="dataset-fao-geopolitical-ontology" class="dataset producer" xlink:href="http://thedatahub.org/dataset/fao-geopolitical-ontology" target="_blank" transform="translate(42.031259670094016 357.564941079895)"><circle r="24"/><text class="label" x="0" y="-6.5" font-size="8">FAO</text><text class="label" x="0" y="2.5" font-size="8">geopolitical</text><text class="label" x="0" y="11.5" font-size="8">ontology</text></a>
+    <a id="dataset-glottolog-langdoc" class="dataset producer" xlink:href="http://thedatahub.org/dataset/glottolog-langdoc" target="_blank" transform="translate(225.69965519805663 162.54050203679176)"><circle r="29"/><text class="label" x="0" y="-2.75" font-size="11">Glottolog</text><text class="label" x="0" y="9.25" font-size="11">Langdoc</text></a>
+    <a id="dataset-talkbank" class="dataset" xlink:href="http://thedatahub.org/dataset/talkbank" target="_blank" transform="translate(-350.6809920682561 220.69834801348236)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">TalkBank</text></a>
+    <a id="dataset-lemonwiktionary" class="dataset" xlink:href="http://thedatahub.org/dataset/lemonwiktionary" target="_blank" transform="translate(-103.05261421248045 462.18730272718824)"><circle r="29"/><text class="label" x="0" y="-2.75" font-size="11">Lemon</text><text class="label" x="0" y="9.25" font-size="11">Wiktionary</text></a>
+    <a id="dataset-eu-dgt-tm" class="dataset" xlink:href="http://thedatahub.org/dataset/eu-dgt-tm" target="_blank" transform="translate(-198.6380677613841 461.93887001276363)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">DGT</text></a>
+    <a id="dataset-sentiws" class="dataset" xlink:href="http://thedatahub.org/dataset/sentiws" target="_blank" transform="translate(306.82370948404457 352.1494769960634)"><circle r="24"/><text class="label" x="0" y="-2.5" font-size="10">Sentiment</text><text class="label" x="0" y="8.5" font-size="10">Wortschatz</text></a>
+    <a id="dataset-dbpedia-el" class="dataset producer" xlink:href="http://thedatahub.org/dataset/dbpedia-el" target="_blank" transform="translate(-131.35721958047336 125.8959471443625)"><circle r="29"/><text class="label" x="0" y="-2.75" font-size="11">DBpedia</text><text class="label" x="0" y="9.25" font-size="11">in Greek</text></a>
+    <a id="dataset-dbpedia-spotlight" class="dataset" xlink:href="http://thedatahub.org/dataset/dbpedia-spotlight" target="_blank" transform="translate(4.14013940679903 -226.98439408346388)"><circle r="21"/><text class="label" x="0" y="-2.25" font-size="9">DBpedia</text><text class="label" x="0" y="7.75" font-size="9">Spotlight</text></a>
+    <a id="dataset-isocat" class="dataset" xlink:href="http://thedatahub.org/dataset/isocat" target="_blank" transform="translate(-144.12755421461458 -107.37132964074134)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">ISOcat</text></a>
+    <a id="dataset-sanskrit-english-lexicon" class="dataset thirdparty" xlink:href="http://thedatahub.org/dataset/sanskrit-english-lexicon" target="_blank" transform="translate(-293.68530533890214 -129.543527202683)"><circle r="29"/><text class="label" x="0" y="-8.75" font-size="11">Sanskrit</text><text class="label" x="0" y="3.25" font-size="11">English</text><text class="label" x="0" y="15.25" font-size="11">Lexicon</text></a>
+    <a id="dataset-olia" class="dataset" xlink:href="http://thedatahub.org/dataset/olia" target="_blank" transform="translate(-359.70708799396635 76.33943664706604)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">OLiA</text></a>
+    <a id="dataset-ontos-news-portal" class="dataset producer" xlink:href="http://thedatahub.org/dataset/ontos-news-portal" target="_blank" transform="translate(-187.54009781259776 50.47224505105861)"><circle r="29"/><text class="label" x="0" y="-8.75" font-size="11">Ontos</text><text class="label" x="0" y="3.25" font-size="11">News</text><text class="label" x="0" y="15.25" font-size="11">Portal</text></a>
+    <a id="dataset-asjp" class="dataset producer" xlink:href="http://thedatahub.org/dataset/asjp" target="_blank" transform="translate(156.12011650618174 90.75295553406997)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">ASJP</text></a>
+    <a id="dataset-printed-book-auction-catalogues" class="dataset thirdparty" xlink:href="http://thedatahub.org/dataset/printed-book-auction-catalogues" target="_blank" transform="translate(-108.6043926866061 282.087634903659)"><circle r="24"/><text class="label" x="0" y="-8" font-size="10">Printed</text><text class="label" x="0" y="3" font-size="10">Book Action</text><text class="label" x="0" y="14" font-size="10">Catalogues</text></a>
+    <a id="dataset-rkb-explorer-wordnet" class="dataset thirdparty" xlink:href="http://thedatahub.org/dataset/rkb-explorer-wordnet" target="_blank" transform="translate(-193.83389015519498 303.86097586791504)"><circle r="29"/><text class="label" x="0" y="-2.75" font-size="11">WordNet</text><text class="label" x="0" y="9.25" font-size="11">(RKBExplorer)</text></a>
+    <a id="dataset-lingvoj" class="dataset producer" xlink:href="http://thedatahub.org/dataset/lingvoj" target="_blank" transform="translate(20.396150037791067 184.68623634777373)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">lingvoj</text></a>
+    <a id="dataset-zhishi-me" class="dataset" xlink:href="http://thedatahub.org/dataset/zhishi-me" target="_blank" transform="translate(-8.633806443014791 279.3361619441038)"><circle r="36"/><text class="label" x="0" y="3.5" font-size="12">Zhishi.me</text></a>
+    <a id="dataset-dbpedia-es" class="dataset" xlink:href="http://thedatahub.org/dataset/dbpedia-es" target="_blank" transform="translate(329.4069492528433 105.33851935487262)"><circle r="21"/><text class="label" x="0" y="-2.25" font-size="9">DBpedia</text><text class="label" x="0" y="7.75" font-size="9">Spanish</text></a>
+    <a id="dataset-wiktionary" class="dataset" xlink:href="http://thedatahub.org/dataset/wiktionary" target="_blank" transform="translate(144.30284497185397 482.8244649181403)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">Wiktionary</text></a>
+    <a id="dataset-dbpedia-cs" class="dataset" xlink:href="http://thedatahub.org/dataset/dbpedia-cs" target="_blank" transform="translate(382.24360091570156 31.152640003162933)"><circle r="21"/><text class="label" x="0" y="-2.25" font-size="9">DBpedia</text><text class="label" x="0" y="7.75" font-size="9">Czech</text></a>
+    <a id="dataset-masc" class="dataset" xlink:href="http://thedatahub.org/dataset/masc" target="_blank" transform="translate(-21.95439050801882 411.5988841410532)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">MASC</text></a>
+    <a id="dataset-yago" class="dataset producer" xlink:href="http://thedatahub.org/dataset/yago" target="_blank" transform="translate(-70.83204022622641 201.2400928162693)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">YAGO</text></a>
+    <a id="dataset-lemonwordnet" class="dataset" xlink:href="http://thedatahub.org/dataset/lemonwordnet" target="_blank" transform="translate(-406.3326509843934 6.221217530576061)"><circle r="21"/><text class="label" x="0" y="-2.25" font-size="9">Lemon</text><text class="label" x="0" y="7.75" font-size="9">WordNet</text></a>
+    <a id="dataset-dbpedia-ru" class="dataset" xlink:href="http://thedatahub.org/dataset/dbpedia-ru" target="_blank" transform="translate(293.2008185869882 6.475277554522613)"><circle r="21"/><text class="label" x="0" y="-2.25" font-size="9">DBpedia</text><text class="label" x="0" y="7.75" font-size="9">Russian</text></a>
+    <a id="dataset-framenet" class="dataset" xlink:href="http://thedatahub.org/dataset/framenet" target="_blank" transform="translate(207.55515023633177 328.84140001038253)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">FrameNet</text></a>
+    <a id="dataset-dbpedia-ko" class="dataset" xlink:href="http://thedatahub.org/dataset/dbpedia-ko" target="_blank" transform="translate(-267.9267882769323 68.44353311763864)"><circle r="21"/><text class="label" x="0" y="-2.25" font-size="9">DBpedia</text><text class="label" x="0" y="7.75" font-size="9">Korean</text></a>
+    <a id="dataset-gemet" class="dataset thirdparty" xlink:href="http://thedatahub.org/dataset/gemet" target="_blank" transform="translate(34.46778491825868 -62.98996813663017)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">GEMET</text></a>
+    <a id="dataset-lexinfo" class="dataset" xlink:href="http://thedatahub.org/dataset/lexinfo" target="_blank" transform="translate(-11.058012037118939 501.3399752122265)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">lexinfo</text></a>
+    <a id="dataset-dbpedia-live" class="dataset producer" xlink:href="http://thedatahub.org/dataset/dbpedia-live" target="_blank" transform="translate(119.36099961046115 -70.52048178941021)"><circle r="21"/><text class="label" x="0" y="-2.25" font-size="9">DBpedia</text><text class="label" x="0" y="7.75" font-size="9">Live</text></a>
+    <a id="dataset-vu-wordnet" class="dataset thirdparty" xlink:href="http://thedatahub.org/dataset/vu-wordnet" target="_blank" transform="translate(95.75799008417556 15.593218221868556)"><circle r="29"/><text class="label" x="0" y="-1.25" font-size="9">WordNet 3.0</text><text class="label" x="0" y="6.75" font-size="7">(VU Amsterdam)</text></a>
+    <a id="dataset-asit" class="dataset" xlink:href="http://thedatahub.org/dataset/asit" target="_blank" transform="translate(-206.93731145603329 -161.58730795164283)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">ASIt</text></a>
+    <a id="dataset-gold" class="dataset" xlink:href="http://thedatahub.org/dataset/gold" target="_blank" transform="translate(-544.6667955187278 108.28240580400559)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">gold</text></a>
+    <a id="dataset-wiktionary-dbpedia-org" class="dataset" xlink:href="http://thedatahub.org/dataset/wiktionary-dbpedia-org" target="_blank" transform="translate(77.17381241358436 240.58115764437048)"><circle r="21"/><text class="label" x="0" y="-2.25" font-size="9">wiktionary</text><text class="label" x="0" y="7.75" font-size="9">dbpedia.org</text></a>
+    <a id="dataset-wordnet" class="dataset" xlink:href="http://thedatahub.org/dataset/wordnet" target="_blank" transform="translate(-464.2920581916869 -58.35845719764163)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">Wordnet</text></a>
+    <a id="dataset-data-bnf-fr" class="dataset producer" xlink:href="http://thedatahub.org/dataset/data-bnf-fr" target="_blank" transform="translate(-305.37808759072516 145.31271628176486)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">data.bnf.fr</text></a>
+    <a id="dataset-dbpedia" class="dataset producer" xlink:href="http://thedatahub.org/dataset/dbpedia" target="_blank" transform="translate(-33.799909081427806 116.21334780910257)"><circle r="36"/><text class="label" x="0" y="3.5" font-size="12">DBpedia</text></a>
+    <a id="dataset-dbpedia-it" class="dataset" xlink:href="http://thedatahub.org/dataset/dbpedia-it" target="_blank" transform="translate(-354.64064724358013 -61.71268734293074)"><circle r="21"/><text class="label" x="0" y="-2.25" font-size="9">DBpedia</text><text class="label" x="0" y="7.75" font-size="9">Italian</text></a>
+    <a id="dataset-jrc-names" class="dataset" xlink:href="http://thedatahub.org/dataset/jrc-names" target="_blank" transform="translate(61.52277781686567 103.5317761997443)"><circle r="29"/><text class="label" x="0" y="-2.75" font-size="11">JRC</text><text class="label" x="0" y="9.25" font-size="11">Names</text></a>
+    <a id="dataset-dbpedia-de" class="dataset" xlink:href="http://thedatahub.org/dataset/dbpedia-de" target="_blank" transform="translate(-149.33640543957483 -25.932460906507277)"><circle r="21"/><text class="label" x="0" y="-2.25" font-size="9">DBpedia</text><text class="label" x="0" y="7.75" font-size="9">German</text></a>
+    <a id="dataset-multilingualeulaw" class="dataset" xlink:href="http://thedatahub.org/dataset/multilingualeulaw" target="_blank" transform="translate(60.28987373643064 443.32495969925793)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">DGT</text></a>
+    <a id="dataset-ietflang" class="dataset" xlink:href="http://thedatahub.org/dataset/ietflang" target="_blank" transform="translate(-449.6090493429929 81.1676282081146)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">ietflang</text></a>
+    <a id="dataset-open-data-thesaurus" class="dataset producer" xlink:href="http://thedatahub.org/dataset/open-data-thesaurus" target="_blank" transform="translate(245.54230860507485 75.41741831439737)"><circle r="24"/><text class="label" x="0" y="-2.5" font-size="10">Open Data</text><text class="label" x="0" y="8.5" font-size="10">Thesaurus</text></a>
+    <a id="dataset-lcc" class="dataset" xlink:href="http://thedatahub.org/dataset/lcc" target="_blank" transform="translate(226.4086206380061 416.8585617419297)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">LCC</text></a>
+    <a id="dataset-dbpedia-in-french" class="dataset" xlink:href="http://thedatahub.org/dataset/dbpedia-in-french" target="_blank" transform="translate(-520.8679374813868 15.68688897141752)"><circle r="21"/><text class="label" x="0" y="-2.25" font-size="9">DBpedia</text><text class="label" x="0" y="7.75" font-size="9">French</text></a>
+  </g>
+
+  <g id="layer-legend" transform="translate(411.24360091570156 530.3399752122265)">
+<!--    <g class="dataset legal">
+      <text x="-46" y="-254" font-size="12">Published by LATC</text>
+      <circle cx="-22" cy="-257" r="13"/>
+    </g>
+    <g class="dataset producer">
+      <text x="-46" y="-222" font-size="12">Published by EU</text>
+      <circle cx="-22" cy="-225" r="13"/>
+    </g>
+    <g class="dataset thirdparty">
+      <text x="-46" y="-190" font-size="12">Published by 3rd parties</text>
+      <circle cx="-22" cy="-193" r="13"/>
+    </g>
+    <g class="dataset non-eu">
+      <text x="-46" y="-158" font-size="12">Non-EU dataset</text>
+      <circle cx="-22" cy="-161" r="13"/>
+    </g>
+-->  </g>
+
+  <g id="layer-latc-logo" transform="translate(-450 420)">
+    <a xlink:href="http://richard.cyganiak.de/">
+        <text x="55" y="55" class="label" font="3">This image was produced</text>
+        <text x="55" y="70" class="label" font="3">with software provided</text>
+        <text x="55" y="85" class="label" font="3">by Richard Cyganiak</text>
+    </a>
+ </g>
+
+</svg>

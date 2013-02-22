@@ -1,0 +1,848 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="-596.7827883359521 -297.12011907777185 1169.3459451941085 911.4119661553942">
+  <title>LOD Cloud</title>
+  <style type="text/css">
+.dataset circle { fill: #fff; stroke: #2F5CD0; stroke-width: 1; }
+
+.dataset.media circle { fill: #E2EAFF; stroke: #2866C4; }
+.dataset.geographic circle { fill: #FFEFA6; stroke: #996633; }
+.dataset.publications circle { fill: #E4FFC9; stroke: #30C32D; }
+.dataset.usergeneratedcontent circle { fill: #FFE9D8; stroke: #FF5D33; }
+.dataset.government circle { fill: #C5FFE5; stroke: #11C2A2; }
+.dataset.crossdomain circle { fill: #E6F6F4; stroke: #2E4439; }
+.dataset.lifesciences circle { fill: #F4D6E2; stroke: #C31A8A; }
+
+.dataset circle { stroke-width: 2; }
+.dataset.legal circle { fill: #FFF; stroke: #EB0; }
+#.dataset.legal text { fill: #996633; }
+.dataset.business circle { fill: #FFF; stroke: #EB0; }
+#.dataset.business text { fill: #607; }
+.dataset.eu-institution circle { fill: #FFF; stroke: #EB0; }
+#.dataset.eu-institution text { fill: #30C32D; }
+.dataset.thirdparty circle { fill: #FFF; stroke: #28C466; }
+#.dataset.thirdparty text { fill: #050; }
+.dataset.producer circle { fill: #FFF; stroke: #2866C4; }
+#.dataset.producer text { fill: #007; }
+.dataset.non-eu circle { fill: #FFF; stroke: #DDD; }
+.dataset.non-eu text { fill: #999; }
+.shadow.weak { fill-opacity: 0.2; }
+#.links.weak, .weak .arrowhead { stroke-opacity: 0.4; fill-opacity: 0.4; }
+.links.weak, .weak .arrowhead { stroke: #AAA; fill: #AAA; }
+
+.shadow { fill-opacity: 0.6; }
+.links { stroke: #363636; stroke-linecap: square; }
+.width1 { stroke-width: 1; }
+.width2 { stroke-width: 2; }
+.width3 { stroke-width: 4; }
+.arrowhead { fill: #363636; }
+
+
+#.label, .footer-text, #layer-legend text { font-family: Verdana, 'Bitstream Vera Sans', 'DejaVu Sans', Geneva, sans-serif; text-rendering: geometricPrecision; }
+.label, .footer-text, #layer-legend text { font-family: Helvetica, sans-serif; text-rendering: geometricPrecision; font-weight: bold; }
+.label { text-anchor: middle; }
+.footer-text { text-anchor: end; }
+#layer-legend text { text-anchor: end; fill: #363636; }
+  </style>
+  <defs id="defs">
+    
+    
+    
+    
+  <circle id="shadow-size1" cx="0" cy="0" r="21" filter="url(#shadow-filter1)" class="shadow"/><circle id="shadow-size1-weak" cx="0" cy="0" r="21" filter="url(#shadow-filter1)" class="shadow weak"/><filter id="shadow-filter1" filterUnits="userSpaceOnUse" x="-29" y="-29" width="58" height="58">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter><circle id="shadow-size2" cx="0" cy="0" r="24" filter="url(#shadow-filter2)" class="shadow"/><circle id="shadow-size2-weak" cx="0" cy="0" r="24" filter="url(#shadow-filter2)" class="shadow weak"/><filter id="shadow-filter2" filterUnits="userSpaceOnUse" x="-32" y="-32" width="64" height="64">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter><circle id="shadow-size3" cx="0" cy="0" r="29" filter="url(#shadow-filter3)" class="shadow"/><circle id="shadow-size3-weak" cx="0" cy="0" r="29" filter="url(#shadow-filter3)" class="shadow weak"/><filter id="shadow-filter3" filterUnits="userSpaceOnUse" x="-37" y="-37" width="74" height="74">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter><circle id="shadow-size4" cx="0" cy="0" r="36" filter="url(#shadow-filter4)" class="shadow"/><circle id="shadow-size4-weak" cx="0" cy="0" r="36" filter="url(#shadow-filter4)" class="shadow weak"/><filter id="shadow-filter4" filterUnits="userSpaceOnUse" x="-44" y="-44" width="88" height="88">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter><circle id="shadow-size5" cx="0" cy="0" r="45" filter="url(#shadow-filter5)" class="shadow"/><circle id="shadow-size5-weak" cx="0" cy="0" r="45" filter="url(#shadow-filter5)" class="shadow weak"/><filter id="shadow-filter5" filterUnits="userSpaceOnUse" x="-53" y="-53" width="106" height="106">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter><marker id="arrowhead-start-width1" viewBox="0 0 13 10" refX="13" refY="5" orient="auto" markerUnits="userSpaceOnUse" markerWidth="7" markerHeight="7" overflow="visible">
+      <path id="arrowhead-start" class="arrowhead" d="M 13 0 L 0 5 L 13 10 z"/>
+    </marker><marker id="arrowhead-start-width1-weak" viewBox="0 0 13 10" refX="13" refY="5" orient="auto" markerUnits="userSpaceOnUse" markerWidth="7" markerHeight="7" overflow="visible" class="weak">
+      <path id="arrowhead-start" class="arrowhead" d="M 13 0 L 0 5 L 13 10 z"/>
+    </marker><marker id="arrowhead-end-width1" viewBox="0 0 13 10" refX="0" refY="5" orient="auto" markerUnits="userSpaceOnUse" markerWidth="7" markerHeight="7" overflow="visible">
+      <path id="arrowhead-end" class="arrowhead" d="M 0 0 L 13 5 L 0 10 z"/>
+    </marker><marker id="arrowhead-end-width1-weak" viewBox="0 0 13 10" refX="0" refY="5" orient="auto" markerUnits="userSpaceOnUse" markerWidth="7" markerHeight="7" overflow="visible" class="weak">
+      <path id="arrowhead-end" class="arrowhead" d="M 0 0 L 13 5 L 0 10 z"/>
+    </marker><marker id="arrowhead-start-width2" viewBox="0 0 13 10" refX="13" refY="5" orient="auto" markerUnits="userSpaceOnUse" markerWidth="10" markerHeight="10" overflow="visible">
+      <path id="arrowhead-start" class="arrowhead" d="M 13 0 L 0 5 L 13 10 z"/>
+    </marker><marker id="arrowhead-start-width2-weak" viewBox="0 0 13 10" refX="13" refY="5" orient="auto" markerUnits="userSpaceOnUse" markerWidth="10" markerHeight="10" overflow="visible" class="weak">
+      <path id="arrowhead-start" class="arrowhead" d="M 13 0 L 0 5 L 13 10 z"/>
+    </marker><marker id="arrowhead-end-width2" viewBox="0 0 13 10" refX="0" refY="5" orient="auto" markerUnits="userSpaceOnUse" markerWidth="10" markerHeight="10" overflow="visible">
+      <path id="arrowhead-end" class="arrowhead" d="M 0 0 L 13 5 L 0 10 z"/>
+    </marker><marker id="arrowhead-end-width2-weak" viewBox="0 0 13 10" refX="0" refY="5" orient="auto" markerUnits="userSpaceOnUse" markerWidth="10" markerHeight="10" overflow="visible" class="weak">
+      <path id="arrowhead-end" class="arrowhead" d="M 0 0 L 13 5 L 0 10 z"/>
+    </marker><marker id="arrowhead-start-width3" viewBox="0 0 13 10" refX="13" refY="5" orient="auto" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="14" overflow="visible">
+      <path id="arrowhead-start" class="arrowhead" d="M 13 0 L 0 5 L 13 10 z"/>
+    </marker><marker id="arrowhead-start-width3-weak" viewBox="0 0 13 10" refX="13" refY="5" orient="auto" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="14" overflow="visible" class="weak">
+      <path id="arrowhead-start" class="arrowhead" d="M 13 0 L 0 5 L 13 10 z"/>
+    </marker><marker id="arrowhead-end-width3" viewBox="0 0 13 10" refX="0" refY="5" orient="auto" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="14" overflow="visible">
+      <path id="arrowhead-end" class="arrowhead" d="M 0 0 L 13 5 L 0 10 z"/>
+    </marker><marker id="arrowhead-end-width3-weak" viewBox="0 0 13 10" refX="0" refY="5" orient="auto" markerUnits="userSpaceOnUse" markerWidth="14" markerHeight="14" overflow="visible" class="weak">
+      <path id="arrowhead-end" class="arrowhead" d="M 0 0 L 13 5 L 0 10 z"/>
+    </marker></defs>
+
+  <g id="layer-shadows" transform="translate(2 4)">
+    <use id="shadow-fishes-of-texas" x="-119.30950071564152" y="-186.07278381792423" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-john-goodwins-family-tree" x="274.875497554751" y="-73.05016654480767" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-dbtropes" x="-351.9701193118008" y="4.091864541233072" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-webnmasunotraveler" x="297.870787630042" y="380.7539260840895" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-rdf-book-mashup" x="-9.82405691383201" y="-78.19610031509691" xlink:href="#shadow-size4-weak"/>
+    <use id="shadow-ecco-tcp-linked-data" x="367.3547453177404" y="-10.30545979788547" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-lexvo" x="35.904719365023126" y="169.40398839689814" xlink:href="#shadow-size2"/>
+    <use id="shadow-openlibrary" x="229.7707679114185" y="222.47414453104037" xlink:href="#shadow-size4"/>
+    <use id="shadow-vivo-university-of-florida" x="30.977180512060205" y="367.9456766946845" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-brazilian-politicians" x="-392.0861263457548" y="-41.83301627852363" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-data-incubator-pokedex" x="411.31172863550137" y="446.6448238280366" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-marc-codes" x="144.0596308277937" y="154.5092154160807" xlink:href="#shadow-size2"/>
+    <use id="shadow-bluk-bnb" x="-114.91797995036355" y="-50.5016957541584" xlink:href="#shadow-size4"/>
+    <use id="shadow-reference-data-gov-uk" x="16.7884801064238" y="424.84194664825236" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-idreffr" x="3.9113802028017988" y="122.42686658044704" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-fu-berlin-sider" x="-249.53358719999025" y="180.79807738686233" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-geospecies" x="69.52035270808256" y="524.5799575334631" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-zbw-pressemappe20" x="-103.22847405925788" y="16.734597343046712" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-nytimes-linked-open-data" x="181.26704314023897" y="186.892772639438" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-lcsh" x="320.33234104568163" y="-40.544815517621835" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-austrian_ski_racers" x="-86.32408552569368" y="-228.0038344044797" xlink:href="#shadow-size1-weak"/>
+    <use id="shadow-finnish-municipalities" x="-63.83026259811971" y="-16.888392920828625" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-dbtune-musicbrainz" x="-206.15519201637989" y="95.21019027194995" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-linked-open-data-of-ecology" x="-51.994093862168526" y="-33.78575713723181" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-rkb-explorer-oai" x="-138.76369205120022" y="175.16115338063855" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-uk-legislation-api" x="268.59964420858796" y="221.0990265561413" xlink:href="#shadow-size4-weak"/>
+    <use id="shadow-open-election-data-project" x="-341.6631379068687" y="156.3787875078383" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-libris" x="458.81851230666246" y="71.8949121354556" xlink:href="#shadow-size4-weak"/>
+    <use id="shadow-data-incubator-climb" x="-269.29744023085266" y="544.652181855265" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-rkb-explorer-era" x="127.82982188568775" y="514.70392925103" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-scholarometer" x="-358.0948921124173" y="68.12780070613967" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-didactalia" x="420.152860962965" y="-28.91824546977213" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-rechtspraak" x="-103.53154539682643" y="452.5912963290744" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-my-experiment" x="-191.72590062998947" y="13.641250927442789" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-sztaki-lod" x="289.32401129551477" y="126.33243354207062" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-beneficiaries-of-the-european-commission" x="-498.51554374529474" y="237.39883065316778" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-education-data-gov-uk" x="-87.7648292525435" y="327.2466936613563" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-openlylocal" x="-391.8138080336893" y="523.7146571031941" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-rkb-explorer-southampton" x="413.45787255804953" y="27.72527734973958" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-world-factbook-fu-berlin" x="17.89682745568589" y="262.52769733290495" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-rdfize-lastfm" x="154.14641501485315" y="457.09148605680457" xlink:href="#shadow-size4-weak"/>
+    <use id="shadow-linked-crunchbase" x="-38.534402485457385" y="449.6068250791805" xlink:href="#shadow-size4-weak"/>
+    <use id="shadow-sears" x="108.49324206732776" y="-36.69343467165462" xlink:href="#shadow-size4-weak"/>
+    <use id="shadow-talis-openlibrary" x="-14.666704471933093" y="200.8360913568842" xlink:href="#shadow-size4-weak"/>
+    <use id="shadow-opencalais" x="92.48423915215766" y="469.86252446342655" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-lotico" x="447.8285295700122" y="-94.53781972650022" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-meducator" x="282.98457661492495" y="48.076445365482" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-eu-institutions" x="-318.7823947072606" y="362.54902823168044" xlink:href="#shadow-size1-weak"/>
+    <use id="shadow-vivo-indiana-university" x="-412.15637041862635" y="153.78160085700114" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-fu-berlin-drugbank" x="104.86474535874534" y="303.91082667766335" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-opencyc" x="-33.78920792872185" y="285.2986734864753" xlink:href="#shadow-size3"/>
+    <use id="shadow-event-media" x="-375.3073584775471" y="372.7761794737778" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-umbel" x="310.75372465249285" y="266.93864213442964" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-nomenclator-asturias-2010" x="350.57416092927156" y="358.2906585145156" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-dbtune-magnatune" x="-458.1808203748893" y="340.1183842989212" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-bbc-music" x="41.74131049435838" y="314.28392480636205" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-geowordnet" x="29.788744012654128" y="-115.79295403040942" xlink:href="#shadow-size4"/>
+    <use id="shadow-yahoo_geoplanet" x="-469.9105474500889" y="137.3280847891308" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-esd-standards" x="-272.92256973324993" y="-217.17347194408293" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-eutc-productions" x="-315.9163591572089" y="197.25185540394673" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-2000-us-census-rdf" x="470.9013170836281" y="364.07590534979965" xlink:href="#shadow-size4-weak"/>
+    <use id="shadow-w3c-wordnet" x="226.66642581138635" y="35.20324854107955" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-hellenic-police" x="-236.8861986572773" y="49.26099855048519" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-manchester-university-reading-lists" x="446.3923587405837" y="147.2787671478647" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-linked-edgar" x="30.58074652600025" y="570.5845748179319" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-gnoss" x="-298.71193555387754" y="-163.90437341462643" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-clean-energy-data-reegle" x="393.9251688489915" y="267.0472907939327" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-dbpedia-pt" x="75.32314996166201" y="414.62777641311044" xlink:href="#shadow-size3"/>
+    <use id="shadow-fu-berlin-stitch" x="487.39068539891133" y="515.209146153661" xlink:href="#shadow-size4-weak"/>
+    <use id="shadow-bbc-programmes" x="354.3418900520187" y="473.45047833608317" xlink:href="#shadow-size4-weak"/>
+    <use id="shadow-secold" x="-75.00699985520501" y="514.0356346742541" xlink:href="#shadow-size4-weak"/>
+    <use id="shadow-telegraphis" x="193.72202683215608" y="322.1753153994653" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-museums-in-italy" x="-262.32735783533025" y="99.53646870889708" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-taxonconcept" x="39.78919530322613" y="34.64794922603279" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-university-sussex-reading-lists" x="-47.180955737391564" y="34.60046943570171" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-psh-subject-headings" x="-272.883580696632" y="224.56227630212783" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-istat-immigration" x="482.1317690027244" y="-40.45040267650792" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-data-cnr-it" x="220.1264291516765" y="512.2713716918192" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-open-energy-info-wiki" x="-247.53131983231756" y="-83.34560966127144" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-cornetto" x="183.1461693637641" y="79.36692195067494" xlink:href="#shadow-size3"/>
+    <use id="shadow-pokepedia-fr" x="-311.01384963668346" y="105.9259607642262" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-dbpedia-lite" x="405.21660756738333" y="323.8488866113655" xlink:href="#shadow-size4-weak"/>
+    <use id="shadow-opencorporates" x="-197.9675865760353" y="332.540790430626" xlink:href="#shadow-size4-weak"/>
+    <use id="shadow-core" x="161.63246884362266" y="16.237743445144616" xlink:href="#shadow-size4"/>
+    <use id="shadow-st-andrews-resource-lists" x="449.19241977426833" y="272.4037179292689" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-bible-ontology" x="45.8508103792738" y="218.38563531051093" xlink:href="#shadow-size2"/>
+    <use id="shadow-semantic-xbrl" x="512.6368371903844" y="296.09803535101435" xlink:href="#shadow-size4-weak"/>
+    <use id="shadow-rkb-explorer-resex" x="-467.9839940441079" y="403.0323107741174" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-university-plymouth-reading-lists" x="427.9927430692553" y="495.04826721269484" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-datos-bne-es" x="-149.1516592903118" y="-33.90894513567991" xlink:href="#shadow-size4-weak"/>
+    <use id="shadow-lichfield-spending" x="-278.85664347076164" y="488.5681907357286" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-yovisto" x="-332.9818716946094" y="505.79841843433536" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-fao-geopolitical-ontology" x="-360.3275446935063" y="-104.36196469167571" xlink:href="#shadow-size2"/>
+    <use id="shadow-linkedct" x="-376.8436495108963" y="200.87491200986273" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-tcmgenedit_dataset" x="-399.8332045718497" y="33.126090451379326" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-lobid-organisations" x="97.66833157642972" y="30.429610867884588" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-geolinkeddata" x="173.60131965629503" y="-55.55535938717136" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-vivo-cornell-university" x="-149.73525078079774" y="117.15871781503895" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-bricklink" x="235.9118189803651" y="358.8822402633529" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-datos-bcn-cl" x="-178.7053710687815" y="270.77124943424315" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-thesaurus-w" x="136.07769063794333" y="564.9718340366613" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-government-web-integration-for-linked-data" x="-98.58481759275014" y="577.2918470776224" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-dbpedia-el" x="-84.44367297713183" y="194.70087433344415" xlink:href="#shadow-size3"/>
+    <use id="shadow-bibbase" x="196.09019883928798" y="137.9234503576879" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-data-incubator-moseley" x="-348.62667574267334" y="418.4199106699411" xlink:href="#shadow-size1-weak"/>
+    <use id="shadow-dbtune-john-peel-sessions" x="171.458547427161" y="237.5987370310168" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-fu-berlin-dblp" x="4.978623114411623" y="63.076048427394326" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-amsterdam-museum-as-edm-lod" x="333.70912516751036" y="216.08515392462522" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-los_metar" x="-490.8015588234365" y="449.3063623409088" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-linked-eurostat" x="87.35014578404078" y="355.3185459227248" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-farmers-markets-geographic-data-united-states" x="302.6046102712811" y="438.3531805480949" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-flickr-wrappr" x="-248.64885587870586" y="284.225406722074" xlink:href="#shadow-size4-weak"/>
+    <use id="shadow-linked-open-numbers" x="315.9089723627067" y="-194.73642136622607" xlink:href="#shadow-size4-weak"/>
+    <use id="shadow-nvd" x="74.43120890006082" y="-217.20881699712032" xlink:href="#shadow-size1-weak"/>
+    <use id="shadow-geonames-semantic-web" x="-156.81964761960586" y="52.19933997141155" xlink:href="#shadow-size4-weak"/>
+    <use id="shadow-rkb-explorer-os" x="-230.38500745098585" y="511.9876776966232" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-sec-rdfabout" x="348.47693775161633" y="-94.14490541068719" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-surge-radio" x="-11.770875893520472" y="-163.71187889854926" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-enipedia" x="-415.7189847834687" y="304.26310250908057" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-fu-berlin-cordis" x="91.90201958715907" y="163.05114597337027" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-data-incubator-nasa" x="185.66147640849508" y="556.7006379481246" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-data-incubator-our-airports" x="-460.2405201568518" y="66.02271977934033" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-dewey_decimal_classification" x="-163.75343331079864" y="-152.58093486856458" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-ontos-news-portal" x="-25.565751962361972" y="384.7074410280402" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-productontology" x="-296.8534535767707" y="411.97481321915967" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-normesh" x="364.5541236750934" y="40.352184528887356" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-printed-book-auction-catalogues" x="-47.842051847087795" y="-128.17519453159656" xlink:href="#shadow-size2"/>
+    <use id="shadow-radatana" x="397.73729863116216" y="392.85285086340593" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-rdfohloh" x="192.26917284895026" y="399.9633094985064" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-fu-berlin-dailymed" x="-154.66849865884205" y="431.0080056290806" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-uberblic" x="-520.5537113758057" y="325.86802653292455" xlink:href="#shadow-size4-weak"/>
+    <use id="shadow-bbc-wildlife-finder" x="-247.61555942222867" y="-140.0215781908863" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-rkb-explorer-wordnet" x="31.309887023407786" y="145.99626941068485" xlink:href="#shadow-size3"/>
+    <use id="shadow-data-gov-ie" x="92.46877671897806" y="-116.42072910889" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-lingvoj" x="-96.23320798414535" y="142.85603782614666" xlink:href="#shadow-size2"/>
+    <use id="shadow-zhishi-me" x="-92.8426240090017" y="82.77764043933404" xlink:href="#shadow-size4"/>
+    <use id="shadow-the-view-from" x="46.21459989207302" y="-57.41682257557401" xlink:href="#shadow-size1-weak"/>
+    <use id="shadow-world-bank-linked-data" x="-252.3532966426066" y="-17.265512785951767" xlink:href="#shadow-size4-weak"/>
+    <use id="shadow-lobid-resources" x="351.70583508154004" y="101.87596197384906" xlink:href="#shadow-size4-weak"/>
+    <use id="shadow-data-incubator-musicbrainz" x="287.72833931753536" y="510.42179180953235" xlink:href="#shadow-size4-weak"/>
+    <use id="shadow-eunis" x="-256.6986654099469" y="366.60000897179805" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-fu-berlin-eures" x="-103.63717640327567" y="-126.90901097099523" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-data-incubator-discogs" x="-499.4432518282188" y="-20.029087118000774" xlink:href="#shadow-size4-weak"/>
+    <use id="shadow-morelab" x="-228.97361914329912" y="226.69637699615905" xlink:href="#shadow-size1-weak"/>
+    <use id="shadow-socialsemweb-thesaurus" x="-198.42606680883105" y="551.2998272886716" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-yago" x="-127.58486142963724" y="235.22731270685145" xlink:href="#shadow-size3"/>
+    <use id="shadow-transport-data-gov-uk" x="252.33731257619706" y="293.5264741040441" xlink:href="#shadow-size4-weak"/>
+    <use id="shadow-gesis-thesoz" x="-393.962059495498" y="434.61325202608157" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-twarql" x="-85.05446734166955" y="394.4004796154235" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-uriburner" x="-150.8441937779203" y="501.43797817934393" xlink:href="#shadow-size4-weak"/>
+    <use id="shadow-gemeenschappelijke-thesaurus-audiovisuele-archieven" x="150.75658437997743" y="-141.12720057066122" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-googleart-wrapper" x="-310.20831537591806" y="261.3731053475882" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-rkb-explorer-cordis" x="43.04252987595262" y="-260.12011907777185" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-stw-thesaurus-for-economics" x="-38.97256653489087" y="92.99776741055267" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-rkb-explorer-unlocode" x="-489.46748623561757" y="-82.75142858573008" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-italian-public-schools-linkedopendata-it" x="320.76095525897176" y="15.151944070833963" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-pleiades" x="199.28140787995687" y="-165.0137256723472" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-linkedgeodata" x="422.05163385101287" y="210.3391937315056" xlink:href="#shadow-size4-weak"/>
+    <use id="shadow-temple-ov-thee-lemur-datasets" x="345.4152088300927" y="408.81270847066503" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-zaragoza-turismo" x="-153.17364340021223" y="-101.35502762520287" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-hellenic-fire-brigade" x="-57.699610093682054" y="336.9798771005773" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-gemet" x="56.903733831430316" y="92.6248017032376" xlink:href="#shadow-size3"/>
+    <use id="shadow-lista-encabezamientos-materia" x="215.54048196857474" y="-15.216877893010679" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-loc" x="244.81287136911988" y="99.62631135593" xlink:href="#shadow-size4-weak"/>
+    <use id="shadow-dbtune-classical" x="68.16707411078363" y="260.726677995686" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-govtrack" x="350.8592436627172" y="540.3703846961137" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-chronicling-america" x="-304.6676630190188" y="-101.93158407963793" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-productdb" x="131.73524087149076" y="392.97157108899506" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-tags2con-delicious" x="-5.901922813856797" y="-3.6659188107829244" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-vu-wordnet" x="49.68635645598171" y="-5.268172973831819" xlink:href="#shadow-size3"/>
+    <use id="shadow-linkedlccn" x="-201.45996422853497" y="153.84711388799045" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-dbpedia" x="-20.45282792355724" y="218.1965518008553" xlink:href="#shadow-size4"/>
+    <use id="shadow-rkb-explorer-courseware" x="-202.53634030895213" y="-116.42725655777389" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-semsol-crunchbase" x="368.94615713842495" y="167.14573879051983" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-oceandrilling-codices" x="117.17728607080282" y="248.06074752986103" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-freebase" x="-296.13248479888125" y="43.517945019687204" xlink:href="#shadow-size4-weak"/>
+    <use id="shadow-data-bnf-fr" x="357.13269118504076" y="227.59083975989003" xlink:href="#shadow-size3"/>
+    <use id="shadow-viaf" x="81.01669471762229" y="98.24914251861999" xlink:href="#shadow-size4-weak"/>
+    <use id="shadow-fu-berlin-project-gutenberg" x="-45.33182582550638" y="146.51116900522877" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-geological-survey-of-austria-thesaurus" x="-444.1349460270573" y="9.62065164517977" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-nottingham-trent-university-resource-lists" x="249.16605963613577" y="417.39481204802104" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-europeana-lod" x="-348.6659799107347" y="310.69849111545733" xlink:href="#shadow-size4-weak"/>
+    <use id="shadow-klappstuhlclub" x="-404.11385177761326" y="250.86394544031094" xlink:href="#shadow-size1-weak"/>
+    <use id="shadow-twc-logd" x="-225.3517050258667" y="439.90904415929754" xlink:href="#shadow-size5-weak"/>
+    <use id="shadow-linkedmdb" x="-181.7087839401641" y="210.08336906631547" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-data-incubator-smcjournals" x="216.77987579898033" y="457.9532710123195" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-rkb-explorer-wiki" x="-43.03813165118044" y="-204.81524902737308" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-agrovoc-skos" x="269.22576235177206" y="-8.450764356926486" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-fu-berlin-eurostat" x="242.19454703800503" y="161.13751821339" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-hungarian-national-library-catalog" x="-134.8254454457173" y="360.7661821548367" xlink:href="#shadow-size3-weak"/>
+    <use id="shadow-open-data-thesaurus" x="145.79753975262918" y="338.58845102083563" xlink:href="#shadow-size2"/>
+    <use id="shadow-revyu" x="-453.6394632831736" y="-137.02703441675422" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-environmental-applications-reference-thesaurus" x="296.1386825857362" y="-119.14223427831791" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-fu-berlin-diseasome" x="154.24745876720297" y="288.4333769937755" xlink:href="#shadow-size2-weak"/>
+    <use id="shadow-sudocfr" x="3.557543289985162" y="509.12091518748804" xlink:href="#shadow-size4-weak"/>
+    <use id="shadow-mlsa" x="-446.06280958882684" y="192.7956933000589" xlink:href="#shadow-size1"/>
+    <use id="shadow-french-timebank" x="-354.2121051214476" y="250.27003281127054" xlink:href="#shadow-size1"/>
+    <use id="shadow-gutenberg" x="128.34612487508895" y="204.66784534885932" xlink:href="#shadow-size3"/>
+    <use id="shadow-apertium" x="2.525150178112041" y="-223.2183168176661" xlink:href="#shadow-size1"/>
+    <use id="shadow-wold" x="204.96037930947227" y="-109.69024738983482" xlink:href="#shadow-size3"/>
+    <use id="shadow-ids" x="-158.80271563984786" y="-222.87776880216526" xlink:href="#shadow-size1"/>
+    <use id="shadow-gemet-annotated" x="-6.264471201316852" y="331.61163179398244" xlink:href="#shadow-size1"/>
+    <use id="shadow-wortschatz" x="-103.8685585179648" y="278.91110162567196" xlink:href="#shadow-size1"/>
+    <use id="shadow-rosetta-project" x="304.7137294186525" y="173.11435578615453" xlink:href="#shadow-size1"/>
+    <use id="shadow-phoible" x="-68.854215294612" y="-85.27466643158748" xlink:href="#shadow-size1"/>
+    <use id="shadow-conceptnet" x="-518.1037416399338" y="164.23329694700087" xlink:href="#shadow-size1"/>
+    <use id="shadow-alpino-rdf" x="-371.2034932588156" y="118.53042749796622" xlink:href="#shadow-size1"/>
+    <use id="shadow-wiktionary-en" x="229.39714319668974" y="-63.558481278721835" xlink:href="#shadow-size1"/>
+    <use id="shadow-opus" x="135.7429629178484" y="70.58328397300446" xlink:href="#shadow-size1"/>
+    <use id="shadow-pali-english-lexicon" x="84.65368818146273" y="-170.8502946458546" xlink:href="#shadow-size2"/>
+    <use id="shadow-o-anc" x="137.83113697586603" y="-89.32536245324248" xlink:href="#shadow-size1"/>
+    <use id="shadow-heartfailure" x="-156.50407546960955" y="576.1545129122269" xlink:href="#shadow-size1"/>
+    <use id="shadow-glottolog-langdoc" x="309.51157683915056" y="322.858708713862" xlink:href="#shadow-size3"/>
+    <use id="shadow-talkbank" x="-427.1753235037765" y="378.6012524062228" xlink:href="#shadow-size1"/>
+    <use id="shadow-lemonwiktionary" x="513.52592479162" y="27.659745129144447" xlink:href="#shadow-size1"/>
+    <use id="shadow-eu-dgt-tm" x="-457.99718193633197" y="273.17530196577883" xlink:href="#shadow-size1"/>
+    <use id="shadow-sentiws" x="410.83044592975017" y="107.17956218391089" xlink:href="#shadow-size1"/>
+    <use id="shadow-dbpedia-spotlight" x="483.920501231251" y="196.44974628989172" xlink:href="#shadow-size1"/>
+    <use id="shadow-isocat" x="381.50869312055136" y="-160.6074426320254" xlink:href="#shadow-size1"/>
+    <use id="shadow-sanskrit-english-lexicon" x="-313.86687191338984" y="-42.44212903552279" xlink:href="#shadow-size3"/>
+    <use id="shadow-olia" x="-289.9626379193251" y="325.35877008566496" xlink:href="#shadow-size1"/>
+    <use id="shadow-asjp" x="142.5233681577575" y="121.58000807437355" xlink:href="#shadow-size3"/>
+    <use id="shadow-wiktionary" x="-140.41437605286728" y="306.27629397780396" xlink:href="#shadow-size1"/>
+    <use id="shadow-masc" x="-198.17081353115827" y="-64.81406246423295" xlink:href="#shadow-size1"/>
+    <use id="shadow-lemonwordnet" x="199.38588407118084" y="274.4386161480247" xlink:href="#shadow-size1"/>
+    <use id="shadow-framenet" x="-179.51566295779872" y="391.8883711031534" xlink:href="#shadow-size1"/>
+    <use id="shadow-lexinfo" x="543.5631568581564" y="167.77657546047973" xlink:href="#shadow-size1"/>
+    <use id="shadow-dbpedia-live" x="-406.36452534175663" y="90.10390559522743" xlink:href="#shadow-size1"/>
+    <use id="shadow-asit" x="352.30269291678655" y="293.4852292343637" xlink:href="#shadow-size1"/>
+    <use id="shadow-gold" x="42.34411885387521" y="464.4841771229752" xlink:href="#shadow-size1"/>
+    <use id="shadow-wiktionary-dbpedia-org" x="-73.14096198805946" y="248.52565581116977" xlink:href="#shadow-size1"/>
+    <use id="shadow-wordnet" x="243.6655144750188" y="560.0107072641978" xlink:href="#shadow-size1"/>
+    <use id="shadow-multilingualeulaw" x="-567.7827883359521" y="84.12439062108221" xlink:href="#shadow-size1"/>
+  </g>
+
+  <g id="layer-links">
+    <line x1="-112.4210413951194" y1="-157.90277976770244" x2="-31.37934960438541" y2="173.5130971005035" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-fishes-of-texas to-dbpedia weak"/>
+    <line x1="257.78726101632634" y1="-56.19809925302269" x2="12.299625441756518" y2="185.8967561582673" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-john-goodwins-family-tree to-dbpedia weak"/>
+    <line x1="-327.6089696506858" y1="19.825090122427724" x2="-59.094651523946595" y2="193.24040087896032" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-dbtropes to-dbpedia weak"/>
+    <line x1="272.0435354790091" y1="367.56480002028354" x2="20.51453755739152" y2="239.11723452275433" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-webnmasunotraveler to-dbpedia weak"/>
+    <line x1="346.67718206337975" y1="1.878069159765273" x2="16.59447290717219" y2="196.36772908506435" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-ecco-tcp-linked-data to-dbpedia weak"/>
+    <line x1="-1.3508058225533048" y1="161.91894711458994" x2="-58.977682796568914" y2="150.3410791084548" marker-end="url(#arrowhead-end-width3-weak)" marker-start="url(#arrowhead-start-width3-weak)" class="links width3 from-lexvo to-lingvoj bidi weak"/>
+    <line x1="17.760113946495935" y1="185.11300791454957" x2="14.324332461953215" y2="188.08759772535672" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-lexvo to-dbpedia weak"/>
+    <line x1="13.641409096462624" y1="178.36752653124043" x2="-91.40698224322638" y2="220.66156323854528" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-lexvo to-yago weak"/>
+    <line x1="21.557443914503025" y1="340.5181619980766" x2="-6.4856322789034415" y2="258.8649356613429" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-vivo-university-of-florida to-dbpedia weak"/>
+    <line x1="-368.3249846569897" y1="-25.20748935013937" x2="-58.14291474021911" y2="191.82502632824583" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-brazilian-politicians to-dbpedia weak"/>
+    <line x1="390.09811784554597" y1="435.4206215288847" x2="17.554891408446224" y2="238.306580920169" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-data-incubator-pokedex to-dbpedia weak"/>
+    <line x1="120.08780317953244" y1="153.3466840392755" x2="-65.2695972718079" y2="144.3576408545201" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-marc-codes to-lingvoj weak"/>
+    <line x1="121.33733631691872" y1="146.78281054958165" x2="-113.26858314042877" y2="67.00828263220139" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-marc-codes to-geonames-semantic-web weak"/>
+    <line x1="160.1512702264291" y1="136.70306082098958" x2="294.1834270228992" y2="-11.609814300598714" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-marc-codes to-lcsh weak"/>
+    <line x1="121.67822979766416" y1="163.1736766185165" x2="22.44485738419111" y2="201.58966782952" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-marc-codes to-dbpedia weak"/>
+    <line x1="-86.24489925339137" y1="-28.733497773045645" x2="41.192971527383136" y2="68.01553421151897" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-bluk-bnb to-viaf weak"/>
+    <line x1="-78.9273960372203" y1="-49.67836739257071" x2="277.3435880383161" y2="-41.52823550507375" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-bluk-bnb to-lcsh weak"/>
+    <line x1="10.758198890792748" y1="391.38098867540873" x2="-12.294212161232906" y2="263.46725964646726" marker-end="url(#arrowhead-end-width2-weak)" marker-start="url(#arrowhead-start-width2-weak)" class="links width2 from-reference-data-gov-uk to-dbpedia bidi weak"/>
+    <line x1="20.23542666910753" y1="146.39612829135277" x2="14.514589512622514" y2="137.9959902929527" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-idreffr to-lexvo weak"/>
+    <line x1="-212.03007353424613" y1="186.92069633003894" x2="-69.79955643111529" y2="210.140474244044" marker-end="url(#arrowhead-end-width3-weak)" marker-start="url(#arrowhead-start-width3-weak)" class="links width3 from-fu-berlin-sider to-dbpedia bidi weak"/>
+    <line x1="58.02525080696567" y1="497.95548322348026" x2="-19.519426258369847" y2="318.3497450436954" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-geospecies to-opencyc weak"/>
+    <line x1="57.404502004622564" y1="483.32215631076747" x2="-6.364629431161859" y2="266.1707392691061" marker-end="url(#arrowhead-end-width3-weak)" marker-start="url(#arrowhead-start-width3-weak)" class="links width3 from-geospecies to-dbpedia bidi weak"/>
+    <line x1="-92.20714255143692" y1="43.55865840386882" x2="-37.93493997044567" y2="175.64804115265474" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-zbw-pressemappe20 to-dbpedia weak"/>
+    <line x1="143.71650307083723" y1="192.72003104251692" x2="28.955777430918715" y2="210.5291065336462" marker-end="url(#arrowhead-end-width3-weak)" marker-start="url(#arrowhead-start-width3-weak)" class="links width3 from-nytimes-linked-open-data to-dbpedia bidi weak"/>
+    <line x1="-83.25715677872024" y1="-207.22899510158766" x2="-27.170862321689526" y2="172.68976094690132" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-austrian_ski_racers to-dbpedia weak"/>
+    <line x1="-59.47534279173309" y1="6.713189091399741" x2="-28.25539257666661" y2="175.91038402894614" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-finnish-municipalities to-dbpedia weak"/>
+    <line x1="-170.3720652753583" y1="110.72043980688602" x2="-127.42875437375393" y2="129.33428182133062" marker-end="url(#arrowhead-end-width2-weak)" marker-start="url(#arrowhead-start-width2-weak)" class="links width2 from-dbtune-musicbrainz to-lingvoj bidi weak"/>
+    <line x1="-170.30455804198272" y1="118.95323227658365" x2="-62.13961161471673" y2="190.5883634233743" marker-end="url(#arrowhead-end-width3-weak)" marker-start="url(#arrowhead-start-width3-weak)" class="links width3 from-dbtune-musicbrainz to-dbpedia bidi weak"/>
+    <line x1="-48.39219804565819" y1="-5.010310198443783" x2="-26.166179908366757" y2="172.55273941519152" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-linked-open-data-of-ecology to-dbpedia weak"/>
+    <line x1="222.60196308990567" y1="220.6371481045789" x2="25.544853195125086" y2="218.65843025241756" marker-end="url(#arrowhead-end-width2-weak)" marker-start="url(#arrowhead-start-width2-weak)" class="links width2 from-uk-legislation-api to-dbpedia bidi weak"/>
+    <line x1="-318.09561680827846" y1="160.91441858493246" x2="-62.67796989186485" y2="210.07021278772828" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-open-election-data-project to-dbpedia weak"/>
+    <line x1="424.3869984296163" y1="82.40542364226528" x2="23.542995363779482" y2="204.76645376437634" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-libris to-dbpedia weak"/>
+    <line x1="-254.74809324672012" y1="525.5651050142368" x2="-46.52040793679464" y2="252.39423114103084" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-data-incubator-climb to-dbpedia weak"/>
+    <line x1="117.09501833487808" y1="493.2385153783481" x2="0.12221221549461347" y2="259.3385950568289" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-rkb-explorer-era to-dbpedia weak"/>
+    <line x1="-333.99864882991886" y1="84.26381817237493" x2="-66.1945006189784" y2="263.5985120663658" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-scholarometer to-opencyc weak"/>
+    <line x1="-331.59452066128904" y1="79.90618399724647" x2="-62.48789988051942" y2="199.51359899427212" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-scholarometer to-dbpedia weak"/>
+    <line x1="394.859384082579" y1="-14.732336006456814" x2="17.051292968049438" y2="197.16227225180134" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-didactalia to-dbpedia weak"/>
+    <line x1="-93.84335614669128" y1="425.25745303813625" x2="-35.82030052721986" y2="261.5536825382055" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-rechtspraak to-dbpedia weak"/>
+    <line x1="-173.1086210475721" y1="35.876288614618055" x2="-49.983685192219326" y2="182.9271816763704" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-my-experiment to-dbpedia weak"/>
+    <line x1="260.73401049038773" y1="131.191636559319" x2="73.36747904070683" y2="163.0367568570554" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-sztaki-lod to-lexvo weak"/>
+    <line x1="261.5207831391664" y1="134.57746259514485" x2="23.64884432444353" y2="205.11822985459952" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-sztaki-lod to-dbpedia weak"/>
+    <line x1="-469.5389094387996" y1="236.2349301988134" x2="-70.41254224510067" y2="220.20327672215595" marker-end="url(#arrowhead-end-width3)" class="links width3 from-beneficiaries-of-the-european-commission to-dbpedia"/>
+    <line x1="-65.17895833936745" y1="290.6560058420033" x2="-46.71546852027357" y2="260.74386321870765" marker-end="url(#arrowhead-end-width3-weak)" marker-start="url(#arrowhead-start-width3-weak)" class="links width3 from-education-data-gov-uk to-dbpedia bidi weak"/>
+    <line x1="-369.41870195024023" y1="505.2902378854531" x2="-53.65936453005065" y2="245.5155182271609" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-openlylocal to-dbpedia weak"/>
+    <line x1="391.4819291924962" y1="37.37193030265499" x2="18.92073727305916" y2="200.91296526021512" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-rkb-explorer-southampton to-dbpedia weak"/>
+    <line x1="132.90405908949964" y1="428.0266909475904" x2="9.050444194989382" y2="258.5643227858749" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-rdfize-lastfm to-dbpedia weak"/>
+    <line x1="-35.730038422668486" y1="413.71621987108546" x2="-23.80248499855506" y2="261.06588579941325" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-linked-crunchbase to-dbpedia weak"/>
+    <line x1="92.24238794168653" y1="-4.570082726580004" x2="-1.0420854957080508" y2="179.82699253312725" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-sears to-dbpedia weak"/>
+    <line x1="19.891440049902585" y1="190.7497318943269" x2="107.58158938807827" y2="165.1559281821134" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-talis-openlibrary to-marc-codes weak"/>
+    <line x1="21.193069045767885" y1="204.01046424915626" x2="179.9655269146116" y2="218.0652932917736" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-talis-openlibrary to-openlibrary weak"/>
+    <line x1="-26.049670499516914" y1="234.98910124495808" x2="-5.90792688831125" y2="174.5565947216498" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-talis-openlibrary to-dbpedia weak"/>
+    <line x1="80.61100147396678" y1="443.40451571300866" x2="-1.6194164340130754" y2="260.16442774979396" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-opencalais to-dbpedia weak"/>
+    <line x1="423.7120759025864" y1="-78.43202379749064" x2="15.306051652280985" y2="194.31554404404773" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-lotico to-dbpedia weak"/>
+    <line x1="262.0501746747793" y1="59.81317469730303" x2="19.671442461721654" y2="195.7011539148648" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-meducator to-dbpedia weak"/>
+    <line x1="-299.8790370182133" y1="353.4022764541402" x2="-59.15970319160647" y2="236.9256149643902" marker-end="url(#arrowhead-end-width1)" class="links width1 from-eu-institutions to-dbpedia"/>
+    <line x1="-383.54071889328213" y1="158.48739385925532" x2="-62.88293190941255" y2="211.21899665958185" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-vivo-indiana-university to-dbpedia weak"/>
+    <line x1="69.37266259096032" y1="279.63507620924946" x2="20.81703575991375" y2="246.4241686245923" marker-end="url(#arrowhead-end-width3-weak)" marker-start="url(#arrowhead-start-width3-weak)" class="links width3 from-fu-berlin-drugbank to-dbpedia bidi weak"/>
+    <line x1="-348.72041666175335" y1="361.1945334386238" x2="-62.625218389988675" y2="236.56743861523753" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-event-media to-dbpedia weak"/>
+    <line x1="286.78772768647764" y1="268.21574409784125" x2="9.149869968722044" y2="283.010532468696" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-umbel to-opencyc weak"/>
+    <line x1="287.00946923678043" y1="263.44431319264226" x2="22.088963029594083" y2="224.4572244882243" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-umbel to-dbpedia weak"/>
+    <line x1="328.12139767240456" y1="349.8128390937516" x2="26.323762194915787" y2="235.85867559411332" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-nomenclator-asturias-2010 to-dbpedia weak"/>
+    <line x1="-435.0609009118437" y1="333.67871629332615" x2="-61.876016961513926" y2="229.73429031087989" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-dbtune-magnatune to-dbpedia weak"/>
+    <line x1="25.98345963915537" y1="289.9386965998905" x2="6.7158804474824265" y2="260.1710831913235" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-bbc-music to-dbpedia weak"/>
+    <line x1="36.16723061592555" y1="-80.36253054081665" x2="42.06760856874085" y2="-47.58784547528985" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-geowordnet to-vu-wordnet weak"/>
+    <line x1="3.0333447208161495" y1="-91.70667974951833" x2="-119.65937082538647" y2="18.746181247951654" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-geowordnet to-geonames-semantic-web weak"/>
+    <line x1="-441.3688555504205" y1="142.46343516708976" x2="-62.77326763685875" y2="210.58206675767482" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-yahoo_geoplanet to-dbpedia weak"/>
+    <line x1="-260.8829368032001" y1="-196.4117947741224" x2="-42.02383692322982" y2="180.99854687134277" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-esd-standards to-dbpedia weak"/>
+    <line x1="-291.9764334422817" y1="198.94889894014943" x2="-63.34519482946851" y2="215.1560154651588" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-eutc-productions to-dbpedia weak"/>
+    <line x1="-219.52148766248814" y1="65.82803848124676" x2="-110.49073946931557" y2="169.85031443730176" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-hellenic-police to-dbpedia-el weak"/>
+    <line x1="-217.96712638248965" y1="64.0281480473028" x2="-54.3494990825518" y2="191.7387422857238" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-hellenic-police to-dbpedia weak"/>
+    <line x1="418.9960210558012" y1="156.78879771886528" x2="277.00583288518146" y2="206.0775400982808" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-manchester-university-reading-lists to-openlibrary weak"/>
+    <line x1="26.42426720530897" y1="541.8839880703292" x2="-14.28977237908391" y2="260.75259421971447" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-linked-edgar to-dbpedia weak"/>
+    <line x1="-281.640211823972" y1="-140.46175733002997" x2="-47.53211383995918" y2="181.01171249425408" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-gnoss to-dbpedia weak"/>
+    <line x1="370.09022507035417" y1="264.2374055526466" x2="22.251446346501268" y2="223.2309295248263" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-clean-energy-data-reegle to-dbpedia weak"/>
+    <line x1="62.613595481839255" y1="388.5611842897734" x2="1.4601970416544816" y2="263.1389520135054" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-dbpedia-pt to-dbpedia weak"/>
+    <line x1="456.31518632078814" y1="497.0346212067589" x2="16.66512930864542" y2="239.90501215409938" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-fu-berlin-stitch to-dbpedia weak"/>
+    <line x1="324.58707049569585" y1="453.1859597587602" x2="20.87331034911341" y2="246.34171649158156" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-bbc-programmes to-dbpedia weak"/>
+    <line x1="-68.47849745583957" y1="478.632546441425" x2="-28.794803211635262" y2="263.43383120947027" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-secold to-dbpedia weak"/>
+    <line x1="-68.6227198241265" y1="478.6062546559025" x2="-40.7055112957236" y2="323.68050183968955" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-secold to-opencyc weak"/>
+    <line x1="172.13188926850293" y1="311.6936189727158" x2="20.928269073444596" y2="238.28646995212523" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-telegraphis to-dbpedia weak"/>
+    <line x1="-240.78057590319636" y1="110.10700267691726" x2="-61.750826626813875" y2="197.93636169548327" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-museums-in-italy to-dbpedia weak"/>
+    <line x1="31.620922658643472" y1="62.47382427074186" x2="-23.649283266481362" y2="250.75620791373302" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-taxonconcept to-opencyc weak"/>
+    <line x1="30.74580161367689" y1="62.20184242782591" x2="-4.860769838127588" y2="170.6898393839706" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-taxonconcept to-dbpedia weak"/>
+    <line x1="-23.18182929014128" y1="50.880577843476274" x2="188.39296369202143" y2="194.40499210384286" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-university-sussex-reading-lists to-openlibrary weak"/>
+    <line x1="-248.89120825119906" y1="223.9572437082709" x2="-66.43820844397041" y2="219.35619760574775" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-psh-subject-headings to-dbpedia weak"/>
+    <line x1="456.3460728402505" y1="-27.180215284591547" x2="17.781135351835076" y2="198.52006704732406" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-istat-immigration to-dbpedia weak"/>
+    <line x1="201.76378663304664" y1="489.8255845652111" x2="11.206900556839088" y2="256.8961847777658" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-data-cnr-it to-dbpedia weak"/>
+    <line x1="-230.0860265274058" y1="-60.17964882418116" x2="-50.53091982857754" y2="178.25524001276858" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-open-energy-info-wiki to-dbpedia weak"/>
+    <line x1="146.83255188390385" y1="56.33821843687747" x2="85.99997393584196" y2="17.76053053996562" marker-end="url(#arrowhead-end-width3-weak)" marker-start="url(#arrowhead-start-width3-weak)" class="links width3 from-cornetto to-vu-wordnet bidi weak"/>
+    <line x1="203.5012460835632" y1="58.71090946687029" x2="196.48476033030494" y2="65.83112912051403" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-cornetto to-w3c-wordnet weak"/>
+    <line x1="-288.6269114254097" y1="114.5761051286059" x2="-60.562758885422795" y2="202.6983764813417" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-pokepedia-fr to-dbpedia weak"/>
+    <line x1="370.27675231944534" y1="315.17671760625853" x2="28.074748809689936" y2="230.241230974615" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-dbpedia-lite to-dbpedia weak"/>
+    <line x1="-167.70282539441382" y1="313.04606728256823" x2="-59.12446721118468" y2="243.1064758233735" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-opencorporates to-dbpedia weak"/>
+    <line x1="129.8112932335108" y1="33.07261151087128" x2="-100.75506562801107" y2="155.05283874657607" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-core to-rkb-explorer-oai weak"/>
+    <line x1="420.9152672678285" y1="265.96922912847504" x2="278.5244791294183" y2="233.56809073930557" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-st-andrews-resource-lists to-openlibrary weak"/>
+    <line x1="21.850907970592456" y1="218.31719282537762" x2="22.54699722533017" y2="218.31917792005248" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-bible-ontology to-dbpedia weak"/>
+    <line x1="477.0151708424323" y1="290.8925683599386" x2="22.095273547607746" y2="224.4141929290847" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-semantic-xbrl to-dbpedia weak"/>
+    <line x1="-445.80147373261383" y1="393.8706628530196" x2="-60.19651014831737" y2="234.61117099282214" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-rkb-explorer-resex to-dbpedia weak"/>
+    <line x1="413.8772627658022" y1="475.6381354304831" x2="256.8254384930371" y2="259.6768971136129" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-university-plymouth-reading-lists to-openlibrary weak"/>
+    <line x1="-124.91920874723421" y1="-7.285866037324325" x2="10.326021569552296" y2="141.30184934863394" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-datos-bne-es to-lexvo weak"/>
+    <line x1="-132.78330235592165" y1="-1.8453069879524762" x2="-43.18665699909914" y2="173.66372104012277" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-datos-bne-es to-dbpedia weak"/>
+    <line x1="-262.2744236603941" y1="471.21797499756974" x2="-50.1626384171324" y2="249.28235499838988" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-lichfield-spending to-dbpedia weak"/>
+    <line x1="-311.6424291339116" y1="486.16100029450143" x2="-52.094070341143606" y2="247.3141028357815" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-yovisto to-dbpedia weak"/>
+    <line x1="-342.91931306233715" y1="-87.84066112701831" x2="-51.64257626273542" y2="188.59588291417748" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-fao-geopolitical-ontology to-dbpedia weak"/>
+    <line x1="-347.8778415015461" y1="202.28273528196138" x2="-70.39387621554039" y2="215.76927029723697" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-linkedct to-dbpedia weak"/>
+    <line x1="-365.6802470901661" y1="49.786687537147635" x2="-65.39092987314098" y2="196.27471353010756" marker-end="url(#arrowhead-end-width3-weak)" marker-start="url(#arrowhead-start-width3-weak)" class="links width3 from-tcmgenedit_dataset to-dbpedia bidi weak"/>
+    <line x1="82.22634088141449" y1="54.976401358192334" x2="4.041364213363337" y2="179.2602634369188" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-lobid-organisations to-dbpedia weak"/>
+    <line x1="156.83038433044817" y1="-31.896624672562012" x2="4.4144210078709705" y2="183.11635894815873" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-geolinkeddata to-dbpedia weak"/>
+    <line x1="-126.88562605612937" y1="135.01633943556345" x2="-54.333305963582745" y2="191.71800939800866" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-vivo-cornell-university to-dbpedia weak"/>
+    <line x1="210.4883836784863" y1="344.93057593786176" x2="23.380681217613187" y2="242.25114546549503" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-bricklink to-dbpedia weak"/>
+    <line x1="-151.18437919777804" y1="261.6282189499801" x2="-64.10681502928685" y2="232.69928981037592" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-datos-bcn-cl to-dbpedia weak"/>
+    <line x1="126.20367912048968" y1="543.0971021170882" x2="-1.527639181770894" y2="260.12312131337046" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-thesaurus-w to-dbpedia weak"/>
+    <line x1="-92.4192495700014" y1="548.9548435141392" x2="-30.232694442399975" y2="263.1449022808631" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-government-web-integration-for-linked-data to-dbpedia weak"/>
+    <line x1="-58.63741693881282" y1="181.4707137416477" x2="191.9614607943367" y2="52.99553347487483" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-dbpedia-el to-w3c-wordnet weak"/>
+    <line x1="-60.27067738900993" y1="210.72168218750193" x2="-7.943271276444406" y2="245.40200617856732" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-dbpedia-el to-world-factbook-fu-berlin weak"/>
+    <line x1="-70.29125814259761" y1="220.01310762786636" x2="-52.82176580964716" y2="251.25808388363166" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-dbpedia-el to-opencyc weak"/>
+    <line x1="-72.17865652033083" y1="220.9795609694692" x2="54.29481503757094" y2="491.95813964046647" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-dbpedia-el to-geospecies weak"/>
+    <line x1="-97.57594085406069" y1="168.8446654000258" x2="-135.98915374585658" y2="93.21263690028198" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-dbpedia-el to-geonames-semantic-web weak"/>
+    <line x1="-56.70510203674483" y1="203.16087919071924" x2="429.7717118961578" y2="351.5317602165986" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-dbpedia-el to-2000-us-census-rdf weak"/>
+    <line x1="-113.08767088528543" y1="199.23092773684812" x2="-146.1507175714217" y2="204.4598544965726" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-dbpedia-el to-linkedmdb weak"/>
+    <line x1="-113.34138401558752" y1="192.26729739035903" x2="-218.64293057267554" y2="183.39948722257395" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-dbpedia-el to-fu-berlin-sider weak"/>
+    <line x1="-109.90537735406659" y1="208.58257488566687" x2="-204.74936557364595" y2="260.29144025272444" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-dbpedia-el to-flickr-wrappr weak"/>
+    <line x1="-55.4574859428867" y1="195.59583869908096" x2="376.0735440725551" y2="208.91959508256446" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-dbpedia-el to-linkedgeodata weak"/>
+    <line x1="-57.220713099657715" y1="204.69639610618992" x2="-67.38896564334019" y2="200.96289357198327" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-dbpedia-el to-dbpedia weak"/>
+    <line x1="-66.16839163576483" y1="172.1839009157336" x2="-64.86747139731247" y2="170.5810371414021" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-dbpedia-el to-fu-berlin-project-gutenberg weak"/>
+    <line x1="-106.89670219128638" y1="176.34708782743067" x2="-175.95973893527542" y2="119.8928686765887" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-dbpedia-el to-dbtune-musicbrainz weak"/>
+    <line x1="-55.45618592482348" y1="193.84905604750745" x2="147.28171349270505" y2="187.89145614708792" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-dbpedia-el to-nytimes-linked-open-data weak"/>
+    <line x1="-57.45037840335286" y1="205.3009709392867" x2="125.39255767109441" y2="277.1022392427024" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-dbpedia-el to-fu-berlin-diseasome weak"/>
+    <line x1="-55.59556753525422" y1="191.73661853909852" x2="211.35691708289454" y2="164.30620544182847" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-dbpedia-el to-fu-berlin-eurostat weak"/>
+    <line x1="-105.58029948681768" y1="214.55642821113906" x2="-96.24434626010304" y2="205.78631902613142" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-dbpedia-el to-yago weak"/>
+    <line x1="-108.04317556053884" y1="177.8466915346323" x2="-255.44368724128293" y2="72.57688087970763" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-dbpedia-el to-freebase weak"/>
+    <line x1="-110.25380800072972" y1="181.4782826788688" x2="-372.24306023627946" y2="47.26058497868394" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-dbpedia-el to-tcmgenedit_dataset weak"/>
+    <line x1="-104.97096210651308" y1="215.1857565883849" x2="-231.21651338726676" y2="341.1704999656647" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-dbpedia-el to-eunis weak"/>
+    <line x1="-59.32392093750974" y1="209.19218405575364" x2="73.68160489576618" y2="285.9216146085895" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-dbpedia-el to-fu-berlin-drugbank weak"/>
+    <line x1="-76.79484007680247" y1="166.72775589336243" x2="-21.165429835010087" y2="-36.71871780049301" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-dbpedia-el to-rdf-book-mashup weak"/>
+    <line x1="173.5866658395632" y1="146.2655725415389" x2="19.8660020342829" y2="203.25024955478884" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-bibbase to-dbpedia weak"/>
+    <line x1="-330.6998061249785" y1="407.4824820091374" x2="-57.16022761693233" y2="240.59223905869143" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-data-incubator-moseley to-dbpedia weak"/>
+    <line x1="147.58026894420863" y1="235.1846498970105" x2="25.313872502101418" y2="222.82355214103399" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-dbtune-john-peel-sessions to-dbpedia weak"/>
+    <line x1="-1.9781986249631247" y1="105.50955678207274" x2="-12.363500319633118" y2="168.85526301634548" marker-end="url(#arrowhead-end-width3-weak)" marker-start="url(#arrowhead-start-width3-weak)" class="links width3 from-fu-berlin-dblp to-dbpedia bidi weak"/>
+    <line x1="304.70964050623536" y1="216.25803937940427" x2="22.546407953505707" y2="217.9402044023899" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-amsterdam-museum-as-edm-lod to-dbpedia weak"/>
+    <line x1="-469.2613662603772" y1="438.72240729818844" x2="-61.73819700275419" y2="238.48246563273614" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-los_metar to-dbpedia weak"/>
+    <line x1="69.42671527644237" y1="332.52050568152663" x2="6.123293173916309" y2="252.0005425033215" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-linked-eurostat to-dbpedia weak"/>
+    <line x1="282.7720169960301" y1="424.83769890745515" x2="15.080568361267524" y2="242.41178974033468" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-farmers-markets-geographic-data-united-states to-dbpedia weak"/>
+    <line x1="-200.61907508207696" y1="270.32791930068095" x2="-68.48260872018611" y2="232.0940392222484" marker-end="url(#arrowhead-end-width3-weak)" marker-start="url(#arrowhead-start-width3-weak)" class="links width3 from-flickr-wrappr to-dbpedia bidi weak"/>
+    <line x1="293.17289416827657" y1="-166.8245825099852" x2="6.704154364234171" y2="184.8574109447897" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-linked-open-numbers to-dbpedia weak"/>
+    <line x1="69.95980601121568" y1="-196.69037270410368" x2="-10.658326357515776" y2="173.25138811139016" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-nvd to-dbpedia weak"/>
+    <line x1="-216.431709619223" y1="492.46063287109666" x2="-45.45248653879901" y2="253.18250711325703" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-rkb-explorer-os to-dbpedia weak"/>
+    <line x1="326.3437687972844" y1="-75.40663355763212" x2="12.365319146658976" y2="190.41221767391144" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-sec-rdfabout to-dbpedia weak"/>
+    <line x1="-12.316328707897759" y1="-139.7180780069171" x2="-19.40737669600074" y2="172.208433425227" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-surge-radio to-dbpedia weak"/>
+    <line x1="-387.3829421799944" y1="298.0931195614469" x2="-65.39965412217168" y2="227.98342130399843" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-enipedia to-dbpedia weak"/>
+    <line x1="65.86868644491955" y1="175.8286874233196" x2="24.432229218235037" y2="196.1663079216323" marker-end="url(#arrowhead-end-width3)" class="links width3 from-fu-berlin-cordis to-dbpedia"/>
+    <line x1="173.17973019654968" y1="536.2017108664311" x2="1.9103007061784467" y2="254.92379615555615" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-data-incubator-nasa to-dbpedia weak"/>
+    <line x1="-432.83476135621174" y1="75.50556663886195" x2="-63.924031538365625" y2="203.15479471333828" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-data-incubator-our-airports to-dbpedia weak"/>
+    <line x1="-24.67569038727673" y1="355.7211030324852" x2="-21.86464973231314" y2="264.17488103518394" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-ontos-news-portal to-dbpedia weak"/>
+    <line x1="-273.1077544238566" y1="395.327237667768" x2="-61.39368853202984" y2="246.89926826877203" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-productontology to-dbpedia weak"/>
+    <line x1="342.76630462804343" y1="50.41652460526616" x2="18.583681202407206" y2="200.16460916400973" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-normesh to-dbpedia weak"/>
+    <line x1="-45.950165869802476" y1="-104.24987807707602" x2="-24.078942713354092" y2="172.33969526302423" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-printed-book-auction-catalogues to-dbpedia weak"/>
+    <line x1="370.9774010873493" y1="381.6766313127422" x2="25.684926462326985" y2="237.4658958537238" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-radatana to-dbpedia weak"/>
+    <line x1="170.22175136574455" y1="381.12422231409437" x2="14.518944084286346" y2="248.0792418175089" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-rdfohloh to-dbpedia weak"/>
+    <line x1="-134.39745159382895" y1="398.86637140043536" x2="-47.12525827225868" y2="260.4881757859149" marker-end="url(#arrowhead-end-width3-weak)" marker-start="url(#arrowhead-start-width3-weak)" class="links width3 from-fu-berlin-dailymed to-dbpedia bidi weak"/>
+    <line x1="-485.3601508523782" y1="318.2908702270377" x2="-65.42237748127025" y2="227.87847374726633" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-uberblic to-dbpedia weak"/>
+    <line x1="-234.7625502116207" y1="-119.75337268985521" x2="-43.48113609256322" y2="181.88268361150793" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-bbc-wildlife-finder to-dbpedia weak"/>
+    <line x1="56.53548968222335" y1="131.6900130695047" x2="195.35188457975326" y2="52.962739171510066" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-rkb-explorer-wordnet to-w3c-wordnet weak"/>
+    <line x1="19.032069330233817" y1="172.26897754466268" x2="-18.547779068229996" y2="252.684277182227" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-rkb-explorer-wordnet to-opencyc weak"/>
+    <line x1="2.318672798061076" y1="145.28247830675124" x2="-65.24259967429198" y2="143.61905590276527" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-rkb-explorer-wordnet to-lingvoj weak"/>
+    <line x1="5.3637139983530595" y1="116.8793309494743" x2="-179.9165997230069" y2="-91.04325892492375" marker-end="url(#arrowhead-end-width2-weak)" marker-start="url(#arrowhead-start-width2-weak)" class="links width2 from-rkb-explorer-wordnet to-rkb-explorer-courseware bidi weak"/>
+    <line x1="14.412701660729677" y1="169.56500138377362" x2="4.601619338344786" y2="183.24981128903403" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-rkb-explorer-wordnet to-dbpedia weak"/>
+    <line x1="83.19606059835817" y1="-88.94316124442288" x2="-6.703628158500209" y2="177.4539511742317" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-data-gov-ie to-dbpedia weak"/>
+    <line x1="-73.27644731854815" y1="149.85511917604458" x2="281.10124212609645" y2="257.8981620574782" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-lingvoj to-umbel weak"/>
+    <line x1="-79.2133212842472" y1="159.7771328475284" x2="-50.94679159420809" y2="187.87958988754633" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-lingvoj to-dbpedia weak"/>
+    <line x1="-75.87108694534635" y1="114.5261353595184" x2="-44.02440717863411" y2="174.10141996726594" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-zhishi-me to-dbpedia weak"/>
+    <line x1="41.27734767231103" y1="-37.00546445029349" x2="-10.34321623547315" y2="176.4018661157571" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-the-view-from to-dbpedia weak"/>
+    <line x1="-227.0921755268692" y1="8.383576086287839" x2="-50.62583370068802" y2="187.56014009234693" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-world-bank-linked-data to-dbpedia weak"/>
+    <line x1="326.11006285531766" y1="127.19110455972722" x2="265.3204515589496" y2="187.3142242728763" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-lobid-resources to-openlibrary weak"/>
+    <line x1="319.0027594841194" y1="116.92617281853127" x2="163.77445677229463" y2="188.36345026712024" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-lobid-resources to-gutenberg weak"/>
+    <line x1="317.34510811605963" y1="112.61562874725064" x2="23.45254542122325" y2="204.47364425706428" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-lobid-resources to-dbpedia weak"/>
+    <line x1="261.6052237452472" y1="485.6511876021886" x2="15.82927703795417" y2="252.60016875549934" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-data-incubator-musicbrainz to-dbpedia weak"/>
+    <line x1="-220.2867727531617" y1="343.72701019265344" x2="-62.79223798958651" y2="244.79306200916307" marker-end="url(#arrowhead-end-width3-weak)" marker-start="url(#arrowhead-start-width3-weak)" class="links width3 from-eunis to-dbpedia bidi weak"/>
+    <line x1="-91.28177876636965" y1="-100.67269741070369" x2="22.69722533936492" y2="141.35827390141412" marker-end="url(#arrowhead-end-width1)" class="links width1 from-fu-berlin-eures to-lexvo"/>
+    <line x1="-96.84163265198674" y1="-98.71644838572607" x2="-31.231966287670716" y2="173.47731459663532" marker-end="url(#arrowhead-end-width2)" class="links width2 from-fu-berlin-eures to-dbpedia"/>
+    <line x1="-467.20977131647066" y1="-3.99778230214897" x2="-61.64005302190213" y2="197.71210675837807" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-data-incubator-discogs to-dbpedia weak"/>
+    <line x1="-207.99104402184528" y1="225.8410751356758" x2="-63.417148410343685" y2="219.94788418184487" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-morelab to-dbpedia weak"/>
+    <line x1="-187.11621133961222" y1="530.1317577199702" x2="-40.716318972574356" y2="256.12267644477856" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-socialsemweb-thesaurus to-dbpedia weak"/>
+    <line x1="-85.11811071171961" y1="228.47638066288582" x2="-69.8327706188103" y2="226.04647278221069" marker-end="url(#arrowhead-end-width3-weak)" marker-start="url(#arrowhead-start-width3-weak)" class="links width3 from-yago to-dbpedia bidi weak"/>
+    <line x1="204.14119211476728" y1="280.21730536714136" x2="27.74329253787255" y2="231.505720537758" marker-end="url(#arrowhead-end-width3-weak)" marker-start="url(#arrowhead-start-width3-weak)" class="links width3 from-transport-data-gov-uk to-dbpedia bidi weak"/>
+    <line x1="-373.19603699078544" y1="422.5811155020153" x2="-60.25437105758971" y2="241.2581468053157" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-gesis-thesoz to-dbpedia weak"/>
+    <line x1="-75.07196345983928" y1="367.17274345816566" x2="-37.66404151291979" y2="265.14092448578253" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-twarql to-dbpedia weak"/>
+    <line x1="-135.79003398673476" y1="468.7367202068828" x2="-39.688698767849814" y2="259.9814925434446" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-uriburner to-dbpedia weak"/>
+    <line x1="138.28240164611887" y1="-114.9471554002971" x2="1.0543836865435594" y2="173.0585428864344" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-gemeenschappelijke-thesaurus-audiovisuele-archieven to-dbpedia weak"/>
+    <line x1="-286.47040757989515" y1="257.83591246798517" x2="-65.9504845326012" y2="224.9761714867611" marker-end="url(#arrowhead-end-width2)" class="links width2 from-googleart-wrapper to-dbpedia"/>
+    <line x1="39.22632896336093" y1="-231.37230854210262" x2="-14.794323122128148" y2="175.57048790313888" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-rkb-explorer-cordis to-dbpedia weak"/>
+    <line x1="-35.46063698432604" y1="116.739425963229" x2="-27.184026228806513" y2="172.691706241559" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-stw-thesaurus-for-economics to-dbpedia weak"/>
+    <line x1="-469.26821126728595" y1="-69.79036031364191" x2="-56.643195575151424" y2="194.9746378133641" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-rkb-explorer-unlocode to-dbpedia weak"/>
+    <line x1="187.34308476233815" y1="-144.1936286231178" x2="0.9366676621762053" y2="180.8938779209859" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-pleiades to-dbpedia weak"/>
+    <line x1="372.05951437521105" y1="211.2268819184039" x2="29.53929155224455" y2="217.30886361395704" marker-end="url(#arrowhead-end-width3-weak)" marker-start="url(#arrowhead-start-width3-weak)" class="links width3 from-linkedgeodata to-dbpedia bidi weak"/>
+    <line x1="324.1306983594252" y1="397.7235419544635" x2="20.342483811888883" y2="239.45078762357474" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-temple-ov-thee-lemur-datasets to-dbpedia weak"/>
+    <line x1="-143.96803766466877" y1="-79.19071344583496" x2="-38.09690558334886" y2="175.71494962373356" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-zaragoza-turismo to-dbpedia weak"/>
+    <line x1="-63.056894064437486" y1="308.47900854439666" x2="-77.79325149619399" y2="230.08126288594423" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-hellenic-fire-brigade to-dbpedia-el weak"/>
+    <line x1="-49.02268742763358" y1="309.30839334839277" x2="-33.31860980769805" y2="259.2266828816807" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-hellenic-fire-brigade to-dbpedia weak"/>
+    <line x1="95.72887678550427" y1="74.1421537707653" x2="230.4006193976981" y2="10.031883575545805" marker-end="url(#arrowhead-end-width3-weak)" marker-start="url(#arrowhead-start-width3-weak)" class="links width3 from-gemet to-agrovoc-skos bidi weak"/>
+    <line x1="41.693266990639316" y1="117.31572510608338" x2="3.6741194790767366" y2="179.03163881703097" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-gemet to-dbpedia weak"/>
+    <line x1="227.63047972879744" y1="5.515511119300715" x2="337.4864448246788" y2="193.90070761488403" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-lista-encabezamientos-materia to-data-bnf-fr weak"/>
+    <line x1="211.94673942171758" y1="114.31703532774098" x2="25.19457755894595" y2="197.79276850667344" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-loc to-dbpedia weak"/>
+    <line x1="46.529813379247784" y1="250.34260615292908" x2="21.01858847855314" y2="238.09935616613936" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-dbtune-classical to-dbpedia weak"/>
+    <line x1="328.95506749457195" y1="521.3649363616265" x2="12.025778118864991" y2="246.37704415888794" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-govtrack to-dbpedia weak"/>
+    <line x1="-285.86675347563397" y1="-79.85159765886627" x2="-118.27565365569998" y2="116.96915719489715" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-chronicling-america to-lingvoj weak"/>
+    <line x1="-285.4141143930829" y1="-80.2451628601577" x2="-50.9929395371108" y2="183.79740090099014" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-chronicling-america to-dbpedia weak"/>
+    <line x1="112.69111373506635" y1="371.10101504641347" x2="7.785015761485866" y2="250.62530731226943" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-productdb to-dbpedia weak"/>
+    <line x1="18.08811379692833" y1="-4.3573979595570425" x2="10.702546963455887" y2="-4.144519357073879" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-tags2con-delicious to-vu-wordnet weak"/>
+    <line x1="77.95659948294113" y1="1.196605382512062" x2="184.74847925417066" y2="25.617542702362762" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-vu-wordnet to-w3c-wordnet weak"/>
+    <line x1="47.40534474193668" y1="23.641980702003067" x2="38.89363126618559" y2="131.52171806304554" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-vu-wordnet to-lexvo weak"/>
+    <line x1="-172.46001747252856" y1="153.90268500273015" x2="106.0597005957853" y2="154.4363980933184" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-linkedlccn to-marc-codes weak"/>
+    <line x1="-172.82036354797356" y1="158.40488448971956" x2="184.34243579742449" y2="215.24457736967702" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-linkedlccn to-openlibrary weak"/>
+    <line x1="-174.1353258216406" y1="163.56123432848702" x2="-63.79535781035523" y2="202.7879469642056" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-linkedlccn to-dbpedia weak"/>
+    <line x1="8.478478269557058" y1="196.77274443707736" x2="192.1095878584998" y2="60.79279622559207" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-dbpedia to-w3c-wordnet weak"/>
+    <line x1="3.0998757398382537" y1="245.4228286330679" x2="-2.384667365571346" y2="239.08284783849965" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-dbpedia to-world-factbook-fu-berlin weak"/>
+    <line x1="-27.470480169206606" y1="253.50593521318825" x2="-25.407012190862893" y2="243.12357663285542" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-dbpedia to-opencyc weak"/>
+    <line x1="-43.304644581438566" y1="190.37939027357908" x2="-125.08101337254844" y2="90.83428653707297" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-dbpedia to-geonames-semantic-web weak"/>
+    <line x1="14.05829461736391" y1="228.44264476185873" x2="426.80377161467334" y2="350.9836754551842" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-dbpedia to-2000-us-census-rdf weak"/>
+    <line x1="-70.38966424141407" y1="215.68410706244293" x2="-138.7631047068072" y2="212.24407154135002" marker-end="url(#arrowhead-end-width3-weak)" marker-start="url(#arrowhead-start-width3-weak)" class="links width3 from-dbpedia to-linkedmdb bidi weak"/>
+    <line x1="-32.25626954178501" y1="184.18657141325306" x2="-34.18413096384682" y2="178.6317060379642" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-dbpedia to-fu-berlin-project-gutenberg weak"/>
+    <line x1="25.938271586135674" y1="236.84771493567803" x2="118.99022313983633" y2="274.25849301131024" marker-end="url(#arrowhead-end-width3-weak)" marker-start="url(#arrowhead-start-width3-weak)" class="links width3 from-dbpedia to-fu-berlin-diseasome bidi weak"/>
+    <line x1="28.40746578827991" y1="207.58185922909388" x2="205.06072381700878" y2="169.20468456792872" marker-end="url(#arrowhead-end-width3-weak)" marker-start="url(#arrowhead-start-width3-weak)" class="links width3 from-dbpedia to-fu-berlin-eurostat bidi weak"/>
+    <line x1="10.48406019724094" y1="199.7870718135983" x2="291.54278314488465" y2="32.53867516991011" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-dbpedia to-italian-public-schools-linkedopendata-it weak"/>
+    <line x1="-62.6881373839806" y1="191.4350377408797" x2="-253.8971753384579" y2="70.27945907966287" marker-end="url(#arrowhead-end-width3-weak)" marker-start="url(#arrowhead-start-width3-weak)" class="links width3 from-dbpedia to-freebase bidi weak"/>
+    <line x1="-56.02272172468129" y1="189.02837299283306" x2="-427.34867221277744" y2="-115.46794573256412" marker-end="url(#arrowhead-end-width2-weak)" marker-start="url(#arrowhead-start-width2-weak)" class="links width2 from-dbpedia to-revyu bidi weak"/>
+    <line x1="-19.162681351505853" y1="182.21967698073476" x2="-11.47257753367534" y2="-32.225649156054004" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-dbpedia to-rdf-book-mashup weak"/>
+    <line x1="-193.24171931419986" y1="-94.30012342752156" x2="-47.7311394208503" y2="252.1079737910968" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-rkb-explorer-courseware to-opencyc weak"/>
+    <line x1="-193.43208286718826" y1="-94.22112009881086" x2="-107.99287384642373" y2="114.17311156665272" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-rkb-explorer-courseware to-lingvoj weak"/>
+    <line x1="-191.06518897948376" y1="-95.34615869318354" x2="-41.00530738885473" y2="180.4262514601309" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-rkb-explorer-courseware to-dbpedia weak"/>
+    <line x1="340.19221030428025" y1="170.91542597371935" x2="22.182334623622808" y2="212.607015632663" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-semsol-crunchbase to-dbpedia weak"/>
+    <line x1="88.8368058013025" y1="241.9111802203617" x2="24.501037331512237" y2="227.95103787799212" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-oceandrilling-codices to-dbpedia weak"/>
+    <line x1="333.70816029753394" y1="210.49430933116741" x2="-136.2901902013079" y2="-132.53672677971727" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-data-bnf-fr to-dewey_decimal_classification weak"/>
+    <line x1="353.1895422277754" y1="198.86016666821297" x2="326.1790791547303" y2="2.055837687278597" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-data-bnf-fr to-lcsh weak"/>
+    <line x1="57.766037607537754" y1="125.73380995246892" x2="9.256345050439649" y2="183.07725452427053" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-viaf to-dbpedia weak"/>
+    <line x1="-422.6027276474895" y1="20.22082011811454" x2="-59.03138585361637" y2="199.20458328684717" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-geological-survey-of-austria-thesaurus to-dbpedia weak"/>
+    <line x1="246.2946375677693" y1="388.5373184752019" x2="234.7214956154986" y2="272.22844379452164" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-nottingham-trent-university-resource-lists to-openlibrary weak"/>
+    <line x1="-316.95890913590165" y1="293.6496887270275" x2="19.03139929482427" y2="112.98864900052874" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-europeana-lod to-gemet weak"/>
+    <line x1="-314.0158338879381" y1="300.9328687287955" x2="-64.72801450824187" y2="230.67484707270106" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-europeana-lod to-dbpedia weak"/>
+    <line x1="-383.1895645704178" y1="249.0823156047963" x2="-63.29779696686228" y2="221.84465098786146" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-klappstuhlclub to-dbpedia weak"/>
+    <line x1="-194.8096939859881" y1="406.86081331950925" x2="-51.673550319877535" y2="251.97918777041673" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-twc-logd to-dbpedia weak"/>
+    <line x1="-155.40830480558407" y1="222.30158486452103" x2="-166.5821235947042" y2="217.11064790261563" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-linkedmdb to-yago weak"/>
+    <line x1="-158.91435802252101" y1="192.15534220653302" x2="-126.10176608312594" y2="166.3479350906892" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-linkedmdb to-lingvoj weak"/>
+    <line x1="199.8993500371474" y1="440.89314645227904" x2="9.791447399726763" y2="248.7626083042611" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-data-incubator-smcjournals to-dbpedia weak"/>
+    <line x1="-41.75855425545157" y1="-180.84938410059985" x2="-22.745404090904806" y2="175.25771047371992" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-rkb-explorer-wiki to-dbpedia weak"/>
+    <line x1="246.38591071385795" y1="9.41935531693336" x2="15.7759022607203" y2="189.85084473197418" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-agrovoc-skos to-dbpedia weak"/>
+    <line x1="-116.67864550378633" y1="338.14553557107314" x2="-49.23740714179252" y2="254.0775774164803" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-hungarian-national-library-catalog to-dbpedia weak"/>
+    <line x1="125.8377283059195" y1="325.2615636493675" x2="-260.37115595685975" y2="67.39528489356763" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-open-data-thesaurus to-freebase weak"/>
+    <line x1="126.35913445340057" y1="324.51193158516116" x2="14.374314904227418" y2="243.41698245643866" marker-end="url(#arrowhead-end-width1-weak)" class="links width1 from-open-data-thesaurus to-dbpedia weak"/>
+    <line x1="278.1678403365994" y1="-103.23472570982614" x2="86.1063524862775" y2="66.77510027943839" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-environmental-applications-reference-thesaurus to-gemet weak"/>
+    <line x1="279.71480973544874" y1="-101.64205140505658" x2="11.026261706160483" y2="184.65453462710457" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-environmental-applications-reference-thesaurus to-dbpedia weak"/>
+    <line x1="6.969957944394662" y1="473.28301030695167" x2="32.30272611870189" y2="207.2328879930198" marker-end="url(#arrowhead-end-width3-weak)" class="links width3 from-sudocfr to-lexvo weak"/>
+    <line x1="284.2181643783714" y1="308.6726843909975" x2="65.55906500869531" y2="186.03587898232527" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-glottolog-langdoc to-lexvo weak"/>
+    <line x1="116.0633231900618" y1="133.448707257836" x2="66.92684105128704" y2="155.48896176801114" marker-end="url(#arrowhead-end-width2-weak)" class="links width2 from-asjp to-lexvo weak"/>
+  </g>
+
+  <g id="layer-datasets">
+    <a id="dataset-fishes-of-texas" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/fishes-of-texas" target="_blank" transform="translate(-119.30950071564152 -186.07278381792423)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">Fishes of Texas</text></a>
+    <a id="dataset-john-goodwins-family-tree" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/john-goodwins-family-tree" target="_blank" transform="translate(274.875497554751 -73.05016654480767)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">John Goodwin's Family Tree</text></a>
+    <a id="dataset-dbtropes" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/dbtropes" target="_blank" transform="translate(-351.9701193118008 4.091864541233072)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">DBTropes</text></a>
+    <a id="dataset-webnmasunotraveler" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/webnmasunotraveler" target="_blank" transform="translate(297.870787630042 380.7539260840895)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">El Viajero's tourism dataset</text></a>
+    <a id="dataset-rdf-book-mashup" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/rdf-book-mashup" target="_blank" transform="translate(-9.82405691383201 -78.19610031509691)"><circle r="36"/><text class="label" x="0" y="3.5" font-size="12">RDF Book Mashup</text></a>
+    <a id="dataset-ecco-tcp-linked-data" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/ecco-tcp-linked-data" target="_blank" transform="translate(367.3547453177404 -10.30545979788547)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">ECCO-TCP Eighteenth Century Texts Linked Data</text></a>
+    <a id="dataset-lexvo" class="dataset thirdparty" xlink:href="http://thedatahub.org/dataset/lexvo" target="_blank" transform="translate(35.904719365023126 169.40398839689814)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">Lexvo</text></a>
+    <a id="dataset-openlibrary" class="dataset producer" xlink:href="http://thedatahub.org/dataset/openlibrary" target="_blank" transform="translate(229.7707679114185 222.47414453104037)"><circle r="36"/><text class="label" x="0" y="3.5" font-size="12">The Open Library</text></a>
+    <a id="dataset-vivo-university-of-florida" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/vivo-university-of-florida" target="_blank" transform="translate(30.977180512060205 367.9456766946845)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">VIVO University of Florida</text></a>
+    <a id="dataset-brazilian-politicians" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/brazilian-politicians" target="_blank" transform="translate(-392.0861263457548 -41.83301627852363)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">Brazilian Politicians</text></a>
+    <a id="dataset-data-incubator-pokedex" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/data-incubator-pokedex" target="_blank" transform="translate(411.31172863550137 446.6448238280366)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">Pokedex data in RDF</text></a>
+    <a id="dataset-marc-codes" class="dataset thirdparty" xlink:href="http://thedatahub.org/dataset/marc-codes" target="_blank" transform="translate(144.0596308277937 154.5092154160807)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">MARC Codes List</text></a>
+    <a id="dataset-bluk-bnb" class="dataset producer" xlink:href="http://thedatahub.org/dataset/bluk-bnb" target="_blank" transform="translate(-114.91797995036355 -50.5016957541584)"><circle r="36"/><text class="label" x="0" y="3.5" font-size="12">British National Bibliography (BNB) - Linked Open Data</text></a>
+    <a id="dataset-reference-data-gov-uk" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/reference-data-gov-uk" target="_blank" transform="translate(16.7884801064238 424.84194664825236)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">reference.data.gov.uk</text></a>
+    <a id="dataset-idreffr" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/idreffr" target="_blank" transform="translate(3.9113802028017988 122.42686658044704)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">IdRef: Sudoc authority data</text></a>
+    <a id="dataset-fu-berlin-sider" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/fu-berlin-sider" target="_blank" transform="translate(-249.53358719999025 180.79807738686233)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">SIDER: Side Effect Resource</text></a>
+    <a id="dataset-geospecies" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/geospecies" target="_blank" transform="translate(69.52035270808256 524.5799575334631)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">GeoSpecies Knowledge Base</text></a>
+    <a id="dataset-zbw-pressemappe20" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/zbw-pressemappe20" target="_blank" transform="translate(-103.22847405925788 16.734597343046712)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">20th Century Press Archives</text></a>
+    <a id="dataset-nytimes-linked-open-data" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/nytimes-linked-open-data" target="_blank" transform="translate(181.26704314023897 186.892772639438)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">New York Times - Linked Open Data</text></a>
+    <a id="dataset-lcsh" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/lcsh" target="_blank" transform="translate(320.33234104568163 -40.544815517621835)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">Library of Congress Subject Headings</text></a>
+    <a id="dataset-austrian_ski_racers" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/austrian_ski_racers" target="_blank" transform="translate(-86.32408552569368 -228.0038344044797)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">Alpine Ski Racers of Austria</text></a>
+    <a id="dataset-finnish-municipalities" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/finnish-municipalities" target="_blank" transform="translate(-63.83026259811971 -16.888392920828625)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">Finnish municipalities and regional classifications</text></a>
+    <a id="dataset-dbtune-musicbrainz" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/dbtune-musicbrainz" target="_blank" transform="translate(-206.15519201637989 95.21019027194995)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">DBTune.org Musicbrainz D2R Server</text></a>
+    <a id="dataset-linked-open-data-of-ecology" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/linked-open-data-of-ecology" target="_blank" transform="translate(-51.994093862168526 -33.78575713723181)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">Linked Open Data of Ecology</text></a>
+    <a id="dataset-rkb-explorer-oai" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/rkb-explorer-oai" target="_blank" transform="translate(-138.76369205120022 175.16115338063855)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">Open Archive Initiative Harvest over OAI-PMH (RKBExplorer)</text></a>
+    <a id="dataset-uk-legislation-api" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/uk-legislation-api" target="_blank" transform="translate(268.59964420858796 221.0990265561413)"><circle r="36"/><text class="label" x="0" y="3.5" font-size="12">UK Legislation</text></a>
+    <a id="dataset-open-election-data-project" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/open-election-data-project" target="_blank" transform="translate(-341.6631379068687 156.3787875078383)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">Open Election Data Project</text></a>
+    <a id="dataset-libris" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/libris" target="_blank" transform="translate(458.81851230666246 71.8949121354556)"><circle r="36"/><text class="label" x="0" y="3.5" font-size="12">LIBRIS</text></a>
+    <a id="dataset-data-incubator-climb" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/data-incubator-climb" target="_blank" transform="translate(-269.29744023085266 544.652181855265)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">Climb Dataincubator</text></a>
+    <a id="dataset-rkb-explorer-era" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/rkb-explorer-era" target="_blank" transform="translate(127.82982188568775 514.70392925103)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">ERA - Australian Research Council publication ratings (RKBExplorer)</text></a>
+    <a id="dataset-scholarometer" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/scholarometer" target="_blank" transform="translate(-358.0948921124173 68.12780070613967)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">Scholarometer</text></a>
+    <a id="dataset-didactalia" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/didactalia" target="_blank" transform="translate(420.152860962965 -28.91824546977213)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">Didactalia, índice de recursos educativos para profesores, padres y alumnos (GNOSS)</text></a>
+    <a id="dataset-rechtspraak" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/rechtspraak" target="_blank" transform="translate(-103.53154539682643 452.5912963290744)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">Rechtspraak.nl</text></a>
+    <a id="dataset-my-experiment" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/my-experiment" target="_blank" transform="translate(-191.72590062998947 13.641250927442789)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">myExperiment</text></a>
+    <a id="dataset-sztaki-lod" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/sztaki-lod" target="_blank" transform="translate(289.32401129551477 126.33243354207062)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">National Digital Data Archive of Hungary (partial)</text></a>
+    <a id="dataset-beneficiaries-of-the-european-commission" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/beneficiaries-of-the-european-commission" target="_blank" transform="translate(-498.51554374529474 237.39883065316778)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">EU: fintrans.publicdata.eu</text></a>
+    <a id="dataset-education-data-gov-uk" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/education-data-gov-uk" target="_blank" transform="translate(-87.7648292525435 327.2466936613563)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">education.data.gov.uk</text></a>
+    <a id="dataset-openlylocal" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/openlylocal" target="_blank" transform="translate(-391.8138080336893 523.7146571031941)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">Openly Local :: Making Local Government More Transparent</text></a>
+    <a id="dataset-rkb-explorer-southampton" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/rkb-explorer-southampton" target="_blank" transform="translate(413.45787255804953 27.72527734973958)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">School of Electronics and Computer Science, University of Southampton (RKBExplorer)</text></a>
+    <a id="dataset-world-factbook-fu-berlin" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/world-factbook-fu-berlin" target="_blank" transform="translate(17.89682745568589 262.52769733290495)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">World Factbook (FU Berlin)</text></a>
+    <a id="dataset-rdfize-lastfm" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/rdfize-lastfm" target="_blank" transform="translate(154.14641501485315 457.09148605680457)"><circle r="36"/><text class="label" x="0" y="3.5" font-size="12">Last.FM RDFization of Events, Artists, and Users</text></a>
+    <a id="dataset-linked-crunchbase" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/linked-crunchbase" target="_blank" transform="translate(-38.534402485457385 449.6068250791805)"><circle r="36"/><text class="label" x="0" y="3.5" font-size="12">Linked Crunchbase (OntologyCentral)</text></a>
+    <a id="dataset-sears" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/sears" target="_blank" transform="translate(108.49324206732776 -36.69343467165462)"><circle r="36"/><text class="label" x="0" y="3.5" font-size="12">sears.com</text></a>
+    <a id="dataset-talis-openlibrary" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/talis-openlibrary" target="_blank" transform="translate(-14.666704471933093 200.8360913568842)"><circle r="36"/><text class="label" x="0" y="3.5" font-size="12">Open Library data mirror in the Talis Platform</text></a>
+    <a id="dataset-opencalais" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/opencalais" target="_blank" transform="translate(92.48423915215766 469.86252446342655)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">OpenCalais</text></a>
+    <a id="dataset-lotico" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/lotico" target="_blank" transform="translate(447.8285295700122 -94.53781972650022)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">Lotico</text></a>
+    <a id="dataset-meducator" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/meducator" target="_blank" transform="translate(282.98457661492495 48.076445365482)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">mEducator: Linked Educational Resources</text></a>
+    <a id="dataset-eu-institutions" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/eu-institutions" target="_blank" transform="translate(-318.7823947072606 362.54902823168044)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">Institutions and Bodies of the European Union</text></a>
+    <a id="dataset-vivo-indiana-university" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/vivo-indiana-university" target="_blank" transform="translate(-412.15637041862635 153.78160085700114)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">VIVO Indiana</text></a>
+    <a id="dataset-fu-berlin-drugbank" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/fu-berlin-drugbank" target="_blank" transform="translate(104.86474535874534 303.91082667766335)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">DrugBank</text></a>
+    <a id="dataset-opencyc" class="dataset producer" xlink:href="http://thedatahub.org/dataset/opencyc" target="_blank" transform="translate(-33.78920792872185 285.2986734864753)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">OpenCyc</text></a>
+    <a id="dataset-event-media" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/event-media" target="_blank" transform="translate(-375.3073584775471 372.7761794737778)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">EventMedia</text></a>
+    <a id="dataset-umbel" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/umbel" target="_blank" transform="translate(310.75372465249285 266.93864213442964)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">UMBEL (Upper Mapping and Binding Exchange Layer)</text></a>
+    <a id="dataset-nomenclator-asturias-2010" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/nomenclator-asturias-2010" target="_blank" transform="translate(350.57416092927156 358.2906585145156)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">Nomenclator Asturias 2010</text></a>
+    <a id="dataset-dbtune-magnatune" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/dbtune-magnatune" target="_blank" transform="translate(-458.1808203748893 340.1183842989212)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">DBTune.org Magnatune RDF server</text></a>
+    <a id="dataset-bbc-music" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/bbc-music" target="_blank" transform="translate(41.74131049435838 314.28392480636205)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">BBC Music</text></a>
+    <a id="dataset-geowordnet" class="dataset producer" xlink:href="http://thedatahub.org/dataset/geowordnet" target="_blank" transform="translate(29.788744012654128 -115.79295403040942)"><circle r="36"/><text class="label" x="0" y="3.5" font-size="12">GeoWordNet</text></a>
+    <a id="dataset-yahoo_geoplanet" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/yahoo_geoplanet" target="_blank" transform="translate(-469.9105474500889 137.3280847891308)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">Yahoo Geoplanet RDF</text></a>
+    <a id="dataset-esd-standards" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/esd-standards" target="_blank" transform="translate(-272.92256973324993 -217.17347194408293)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">ESD Standards: Controlled lists for the UK public sector</text></a>
+    <a id="dataset-eutc-productions" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/eutc-productions" target="_blank" transform="translate(-315.9163591572089 197.25185540394673)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">Edinburgh University Theatre Company Productions</text></a>
+    <a id="dataset-2000-us-census-rdf" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/2000-us-census-rdf" target="_blank" transform="translate(470.9013170836281 364.07590534979965)"><circle r="36"/><text class="label" x="0" y="3.5" font-size="12">2000 U.S. Census in RDF (rdfabout.com)</text></a>
+    <a id="dataset-w3c-wordnet" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/w3c-wordnet" target="_blank" transform="translate(226.66642581138635 35.20324854107955)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">WordNet 2.0 (W3C)</text></a>
+    <a id="dataset-hellenic-police" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/hellenic-police" target="_blank" transform="translate(-236.8861986572773 49.26099855048519)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">Hellenic Police</text></a>
+    <a id="dataset-manchester-university-reading-lists" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/manchester-university-reading-lists" target="_blank" transform="translate(446.3923587405837 147.2787671478647)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">Manchester University Reading Lists</text></a>
+    <a id="dataset-linked-edgar" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/linked-edgar" target="_blank" transform="translate(30.58074652600025 570.5845748179319)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">Linked EDGAR (OntologyCentral)</text></a>
+    <a id="dataset-gnoss" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/gnoss" target="_blank" transform="translate(-298.71193555387754 -163.90437341462643)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">gnoss.com, a Linked Open Data knowledge network</text></a>
+    <a id="dataset-clean-energy-data-reegle" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/clean-energy-data-reegle" target="_blank" transform="translate(393.9251688489915 267.0472907939327)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">Linked Clean Energy Data (reegle.info)</text></a>
+    <a id="dataset-dbpedia-pt" class="dataset producer" xlink:href="http://thedatahub.org/dataset/dbpedia-pt" target="_blank" transform="translate(75.32314996166201 414.62777641311044)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">DBpedia in Portuguese</text></a>
+    <a id="dataset-fu-berlin-stitch" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/fu-berlin-stitch" target="_blank" transform="translate(487.39068539891133 515.209146153661)"><circle r="36"/><text class="label" x="0" y="3.5" font-size="12">STITCH: Chemical-Protein Interactions</text></a>
+    <a id="dataset-bbc-programmes" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/bbc-programmes" target="_blank" transform="translate(354.3418900520187 473.45047833608317)"><circle r="36"/><text class="label" x="0" y="3.5" font-size="12">BBC Programmes</text></a>
+    <a id="dataset-secold" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/secold" target="_blank" transform="translate(-75.00699985520501 514.0356346742541)"><circle r="36"/><text class="label" x="0" y="3.5" font-size="12">Source Code Ecosystem Linked Data</text></a>
+    <a id="dataset-telegraphis" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/telegraphis" target="_blank" transform="translate(193.72202683215608 322.1753153994653)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">Telegraphis Linked Data</text></a>
+    <a id="dataset-museums-in-italy" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/museums-in-italy" target="_blank" transform="translate(-262.32735783533025 99.53646870889708)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">Italian Museums</text></a>
+    <a id="dataset-taxonconcept" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/taxonconcept" target="_blank" transform="translate(39.78919530322613 34.64794922603279)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">TaxonConcept Knowledge Base</text></a>
+    <a id="dataset-university-sussex-reading-lists" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/university-sussex-reading-lists" target="_blank" transform="translate(-47.180955737391564 34.60046943570171)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">University of Sussex Reading Lists</text></a>
+    <a id="dataset-psh-subject-headings" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/psh-subject-headings" target="_blank" transform="translate(-272.883580696632 224.56227630212783)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">Polythematic Structured Subject Heading System</text></a>
+    <a id="dataset-istat-immigration" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/istat-immigration" target="_blank" transform="translate(482.1317690027244 -40.45040267650792)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">ISTAT Immigration (LinkedOpenData.it)</text></a>
+    <a id="dataset-data-cnr-it" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/data-cnr-it" target="_blank" transform="translate(220.1264291516765 512.2713716918192)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">Open Data from the Italian National Research Council</text></a>
+    <a id="dataset-open-energy-info-wiki" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/open-energy-info-wiki" target="_blank" transform="translate(-247.53131983231756 -83.34560966127144)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">OpenEI - Open Energy Info</text></a>
+    <a id="dataset-cornetto" class="dataset producer" xlink:href="http://thedatahub.org/dataset/cornetto" target="_blank" transform="translate(183.1461693637641 79.36692195067494)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">Cornetto</text></a>
+    <a id="dataset-pokepedia-fr" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/pokepedia-fr" target="_blank" transform="translate(-311.01384963668346 105.9259607642262)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">Poképédia</text></a>
+    <a id="dataset-dbpedia-lite" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/dbpedia-lite" target="_blank" transform="translate(405.21660756738333 323.8488866113655)"><circle r="36"/><text class="label" x="0" y="3.5" font-size="12">dbpedia lite</text></a>
+    <a id="dataset-opencorporates" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/opencorporates" target="_blank" transform="translate(-197.9675865760353 332.540790430626)"><circle r="36"/><text class="label" x="0" y="3.5" font-size="12">OpenCorporates - The Open Database Of The Corporate World</text></a>
+    <a id="dataset-core" class="dataset producer" xlink:href="http://thedatahub.org/dataset/core" target="_blank" transform="translate(161.63246884362266 16.237743445144616)"><circle r="36"/><text class="label" x="0" y="3.5" font-size="12">CORE - Semantic Similarity of Open Access publications</text></a>
+    <a id="dataset-st-andrews-resource-lists" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/st-andrews-resource-lists" target="_blank" transform="translate(449.19241977426833 272.4037179292689)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">St. Andrews University Resource Lists</text></a>
+    <a id="dataset-bible-ontology" class="dataset thirdparty" xlink:href="http://thedatahub.org/dataset/bible-ontology" target="_blank" transform="translate(45.8508103792738 218.38563531051093)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">Bible Ontology</text></a>
+    <a id="dataset-semantic-xbrl" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/semantic-xbrl" target="_blank" transform="translate(512.6368371903844 296.09803535101435)"><circle r="36"/><text class="label" x="0" y="3.5" font-size="12">Semantic XBRL Financial Data</text></a>
+    <a id="dataset-rkb-explorer-resex" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/rkb-explorer-resex" target="_blank" transform="translate(-467.9839940441079 403.0323107741174)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">ReSIST Resilience Mechanisms (RKBExplorer.com)</text></a>
+    <a id="dataset-university-plymouth-reading-lists" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/university-plymouth-reading-lists" target="_blank" transform="translate(427.9927430692553 495.04826721269484)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">University of Plymouth Reading Lists</text></a>
+    <a id="dataset-datos-bne-es" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/datos-bne-es" target="_blank" transform="translate(-149.1516592903118 -33.90894513567991)"><circle r="36"/><text class="label" x="0" y="3.5" font-size="12">datos.bne.es</text></a>
+    <a id="dataset-lichfield-spending" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/lichfield-spending" target="_blank" transform="translate(-278.85664347076164 488.5681907357286)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">Lichfield District Council - Spending</text></a>
+    <a id="dataset-yovisto" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/yovisto" target="_blank" transform="translate(-332.9818716946094 505.79841843433536)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">Yovisto - academic video search</text></a>
+    <a id="dataset-fao-geopolitical-ontology" class="dataset producer" xlink:href="http://thedatahub.org/dataset/fao-geopolitical-ontology" target="_blank" transform="translate(-360.3275446935063 -104.36196469167571)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">FAO geopolitical ontology</text></a>
+    <a id="dataset-linkedct" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/linkedct" target="_blank" transform="translate(-376.8436495108963 200.87491200986273)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">LinkedCT</text></a>
+    <a id="dataset-tcmgenedit_dataset" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/tcmgenedit_dataset" target="_blank" transform="translate(-399.8332045718497 33.126090451379326)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">TCMGeneDIT Dataset</text></a>
+    <a id="dataset-lobid-organisations" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/lobid-organisations" target="_blank" transform="translate(97.66833157642972 30.429610867884588)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">lobid. Index of libraries and related organisations</text></a>
+    <a id="dataset-geolinkeddata" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/geolinkeddata" target="_blank" transform="translate(173.60131965629503 -55.55535938717136)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">GeoLinkedData</text></a>
+    <a id="dataset-vivo-cornell-university" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/vivo-cornell-university" target="_blank" transform="translate(-149.73525078079774 117.15871781503895)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">VIVO Cornell</text></a>
+    <a id="dataset-bricklink" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/bricklink" target="_blank" transform="translate(235.9118189803651 358.8822402633529)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">Bricklink</text></a>
+    <a id="dataset-datos-bcn-cl" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/datos-bcn-cl" target="_blank" transform="translate(-178.7053710687815 270.77124943424315)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">Datos.bcn.cl</text></a>
+    <a id="dataset-thesaurus-w" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/thesaurus-w" target="_blank" transform="translate(136.07769063794333 564.9718340366613)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">Thesaurus W for Local Archives</text></a>
+    <a id="dataset-government-web-integration-for-linked-data" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/government-web-integration-for-linked-data" target="_blank" transform="translate(-98.58481759275014 577.2918470776224)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">GovWILD - Government Web Integration for Linked Data</text></a>
+    <a id="dataset-dbpedia-el" class="dataset producer" xlink:href="http://thedatahub.org/dataset/dbpedia-el" target="_blank" transform="translate(-84.44367297713183 194.70087433344415)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">DBpedia in Greek</text></a>
+    <a id="dataset-bibbase" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/bibbase" target="_blank" transform="translate(196.09019883928798 137.9234503576879)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">BibBase</text></a>
+    <a id="dataset-data-incubator-moseley" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/data-incubator-moseley" target="_blank" transform="translate(-348.62667574267334 418.4199106699411)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">Moseley Folk Festival Data</text></a>
+    <a id="dataset-dbtune-john-peel-sessions" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/dbtune-john-peel-sessions" target="_blank" transform="translate(171.458547427161 237.5987370310168)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">DBTune.org John Peel sessions RDF server</text></a>
+    <a id="dataset-fu-berlin-dblp" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/fu-berlin-dblp" target="_blank" transform="translate(4.978623114411623 63.076048427394326)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">DBLP Bibliography Database in RDF (FU Berlin)</text></a>
+    <a id="dataset-amsterdam-museum-as-edm-lod" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/amsterdam-museum-as-edm-lod" target="_blank" transform="translate(333.70912516751036 216.08515392462522)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">Amsterdam Museum as Linked Open Data in the Europeana Data Model</text></a>
+    <a id="dataset-los_metar" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/los_metar" target="_blank" transform="translate(-490.8015588234365 449.3063623409088)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">Weather Stations</text></a>
+    <a id="dataset-linked-eurostat" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/linked-eurostat" target="_blank" transform="translate(87.35014578404078 355.3185459227248)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">Linked Eurostat (OntologyCentral)</text></a>
+    <a id="dataset-farmers-markets-geographic-data-united-states" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/farmers-markets-geographic-data-united-states" target="_blank" transform="translate(302.6046102712811 438.3531805480949)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">Farmers Markets Geographic Data (United States)</text></a>
+    <a id="dataset-flickr-wrappr" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/flickr-wrappr" target="_blank" transform="translate(-248.64885587870586 284.225406722074)"><circle r="36"/><text class="label" x="0" y="3.5" font-size="12">flickr™ wrappr</text></a>
+    <a id="dataset-linked-open-numbers" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/linked-open-numbers" target="_blank" transform="translate(315.9089723627067 -194.73642136622607)"><circle r="36"/><text class="label" x="0" y="3.5" font-size="12">Linked Open Numbers</text></a>
+    <a id="dataset-nvd" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/nvd" target="_blank" transform="translate(74.43120890006082 -217.20881699712032)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">Norsk inndeling av vitenskapsdisipliner</text></a>
+    <a id="dataset-geonames-semantic-web" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/geonames-semantic-web" target="_blank" transform="translate(-156.81964761960586 52.19933997141155)"><circle r="36"/><text class="label" x="0" y="3.5" font-size="12">GeoNames Semantic Web</text></a>
+    <a id="dataset-rkb-explorer-os" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/rkb-explorer-os" target="_blank" transform="translate(-230.38500745098585 511.9876776966232)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">Ordnance Survey (RKBExplorer)</text></a>
+    <a id="dataset-sec-rdfabout" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/sec-rdfabout" target="_blank" transform="translate(348.47693775161633 -94.14490541068719)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">U.S. Securities and Exchange Commission Corporate Ownership RDF Data (rdfabout)</text></a>
+    <a id="dataset-surge-radio" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/surge-radio" target="_blank" transform="translate(-11.770875893520472 -163.71187889854926)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">Surge Radio</text></a>
+    <a id="dataset-enipedia" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/enipedia" target="_blank" transform="translate(-415.7189847834687 304.26310250908057)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">Enipedia - Energy Industry Data</text></a>
+    <a id="dataset-fu-berlin-cordis" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/fu-berlin-cordis" target="_blank" transform="translate(91.90201958715907 163.05114597337027)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">Community Research and Development Information Service (CORDIS)</text></a>
+    <a id="dataset-data-incubator-nasa" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/data-incubator-nasa" target="_blank" transform="translate(185.66147640849508 556.7006379481246)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">NASA Space Flight &amp; Astronaut data in RDF</text></a>
+    <a id="dataset-data-incubator-our-airports" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/data-incubator-our-airports" target="_blank" transform="translate(-460.2405201568518 66.02271977934033)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">Airport data from Our Airports published as RDF</text></a>
+    <a id="dataset-dewey_decimal_classification" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/dewey_decimal_classification" target="_blank" transform="translate(-163.75343331079864 -152.58093486856458)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">Dewey Decimal Classification (DDC)</text></a>
+    <a id="dataset-ontos-news-portal" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/ontos-news-portal" target="_blank" transform="translate(-25.565751962361972 384.7074410280402)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">Ontos News Portal</text></a>
+    <a id="dataset-productontology" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/productontology" target="_blank" transform="translate(-296.8534535767707 411.97481321915967)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">Product Types Ontology</text></a>
+    <a id="dataset-normesh" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/normesh" target="_blank" transform="translate(364.5541236750934 40.352184528887356)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">Norwegian Medical Subject Headings (MeSH)</text></a>
+    <a id="dataset-printed-book-auction-catalogues" class="dataset thirdparty" xlink:href="http://thedatahub.org/dataset/printed-book-auction-catalogues" target="_blank" transform="translate(-47.842051847087795 -128.17519453159656)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">English Language Books listed in Printed Book Auction Catalogues from 17th Century Holland</text></a>
+    <a id="dataset-radatana" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/radatana" target="_blank" transform="translate(397.73729863116216 392.85285086340593)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">Rådata nå! </text></a>
+    <a id="dataset-rdfohloh" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/rdfohloh" target="_blank" transform="translate(192.26917284895026 399.9633094985064)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">RDFohloh</text></a>
+    <a id="dataset-fu-berlin-dailymed" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/fu-berlin-dailymed" target="_blank" transform="translate(-154.66849865884205 431.0080056290806)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">DailyMed</text></a>
+    <a id="dataset-uberblic" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/uberblic" target="_blank" transform="translate(-520.5537113758057 325.86802653292455)"><circle r="36"/><text class="label" x="0" y="3.5" font-size="12">Uberblic.org</text></a>
+    <a id="dataset-bbc-wildlife-finder" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/bbc-wildlife-finder" target="_blank" transform="translate(-247.61555942222867 -140.0215781908863)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">BBC Wildlife Finder</text></a>
+    <a id="dataset-rkb-explorer-wordnet" class="dataset thirdparty" xlink:href="http://thedatahub.org/dataset/rkb-explorer-wordnet" target="_blank" transform="translate(31.309887023407786 145.99626941068485)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">WordNet (RKBExplorer)</text></a>
+    <a id="dataset-data-gov-ie" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/data-gov-ie" target="_blank" transform="translate(92.46877671897806 -116.42072910889)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">DataGovIE - Irish Government Data</text></a>
+    <a id="dataset-lingvoj" class="dataset producer" xlink:href="http://thedatahub.org/dataset/lingvoj" target="_blank" transform="translate(-96.23320798414535 142.85603782614666)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">lingvoj – Languages of the World (Multilingual RDF Descriptions)</text></a>
+    <a id="dataset-zhishi-me" class="dataset" xlink:href="http://thedatahub.org/dataset/zhishi-me" target="_blank" transform="translate(-92.8426240090017 82.77764043933404)"><circle r="36"/><text class="label" x="0" y="3.5" font-size="12">Zhishi.me</text></a>
+    <a id="dataset-the-view-from" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/the-view-from" target="_blank" transform="translate(46.21459989207302 -57.41682257557401)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">The View From</text></a>
+    <a id="dataset-world-bank-linked-data" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/world-bank-linked-data" target="_blank" transform="translate(-252.3532966426066 -17.265512785951767)"><circle r="36"/><text class="label" x="0" y="3.5" font-size="12">World Bank Linked Data</text></a>
+    <a id="dataset-lobid-resources" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/lobid-resources" target="_blank" transform="translate(351.70583508154004 101.87596197384906)"><circle r="36"/><text class="label" x="0" y="3.5" font-size="12">lobid. Bibliographic Resources</text></a>
+    <a id="dataset-data-incubator-musicbrainz" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/data-incubator-musicbrainz" target="_blank" transform="translate(287.72833931753536 510.42179180953235)"><circle r="36"/><text class="label" x="0" y="3.5" font-size="12">Data Incubator: MusicBrainz</text></a>
+    <a id="dataset-eunis" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/eunis" target="_blank" transform="translate(-256.6986654099469 366.60000897179805)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">European Nature Information System</text></a>
+    <a id="dataset-fu-berlin-eures" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/fu-berlin-eures" target="_blank" transform="translate(-103.63717640327567 -126.90901097099523)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">European Employment Services (EURES)</text></a>
+    <a id="dataset-data-incubator-discogs" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/data-incubator-discogs" target="_blank" transform="translate(-499.4432518282188 -20.029087118000774)"><circle r="36"/><text class="label" x="0" y="3.5" font-size="12">Discogs in RDF</text></a>
+    <a id="dataset-morelab" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/morelab" target="_blank" transform="translate(-228.97361914329912 226.69637699615905)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">morelab</text></a>
+    <a id="dataset-socialsemweb-thesaurus" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/socialsemweb-thesaurus" target="_blank" transform="translate(-198.42606680883105 551.2998272886716)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">Social Semantic Web Thesaurus</text></a>
+    <a id="dataset-yago" class="dataset producer" xlink:href="http://thedatahub.org/dataset/yago" target="_blank" transform="translate(-127.58486142963724 235.22731270685145)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">YAGO</text></a>
+    <a id="dataset-transport-data-gov-uk" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/transport-data-gov-uk" target="_blank" transform="translate(252.33731257619706 293.5264741040441)"><circle r="36"/><text class="label" x="0" y="3.5" font-size="12">transport.data.gov.uk</text></a>
+    <a id="dataset-gesis-thesoz" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/gesis-thesoz" target="_blank" transform="translate(-393.962059495498 434.61325202608157)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">TheSoz Thesaurus for the Social Sciences (GESIS)</text></a>
+    <a id="dataset-twarql" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/twarql" target="_blank" transform="translate(-85.05446734166955 394.4004796154235)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">Twarql</text></a>
+    <a id="dataset-uriburner" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/uriburner" target="_blank" transform="translate(-150.8441937779203 501.43797817934393)"><circle r="36"/><text class="label" x="0" y="3.5" font-size="12">URIBurner</text></a>
+    <a id="dataset-gemeenschappelijke-thesaurus-audiovisuele-archieven" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/gemeenschappelijke-thesaurus-audiovisuele-archieven" target="_blank" transform="translate(150.75658437997743 -141.12720057066122)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">Gemeenschappelijke Thesaurus Audiovisuele Archieven – Common Thesaurus Audiovisual Archives</text></a>
+    <a id="dataset-googleart-wrapper" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/googleart-wrapper" target="_blank" transform="translate(-310.20831537591806 261.3731053475882)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">GoogleArt wrapper</text></a>
+    <a id="dataset-rkb-explorer-cordis" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/rkb-explorer-cordis" target="_blank" transform="translate(43.04252987595262 -260.12011907777185)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">Community R&amp;D Information Service (CORDIS) (RKBExplorer)</text></a>
+    <a id="dataset-stw-thesaurus-for-economics" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/stw-thesaurus-for-economics" target="_blank" transform="translate(-38.97256653489087 92.99776741055267)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">STW Thesaurus for Economics</text></a>
+    <a id="dataset-rkb-explorer-unlocode" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/rkb-explorer-unlocode" target="_blank" transform="translate(-489.46748623561757 -82.75142858573008)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">UN/LOCODE (RKBExplorer)</text></a>
+    <a id="dataset-italian-public-schools-linkedopendata-it" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/italian-public-schools-linkedopendata-it" target="_blank" transform="translate(320.76095525897176 15.151944070833963)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">Italian public schools (LinkedOpenData.it)</text></a>
+    <a id="dataset-pleiades" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/pleiades" target="_blank" transform="translate(199.28140787995687 -165.0137256723472)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">Pleiades</text></a>
+    <a id="dataset-linkedgeodata" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/linkedgeodata" target="_blank" transform="translate(422.05163385101287 210.3391937315056)"><circle r="36"/><text class="label" x="0" y="3.5" font-size="12">LinkedGeoData</text></a>
+    <a id="dataset-temple-ov-thee-lemur-datasets" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/temple-ov-thee-lemur-datasets" target="_blank" transform="translate(345.4152088300927 408.81270847066503)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">Temple ov thee Lemur</text></a>
+    <a id="dataset-zaragoza-turismo" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/zaragoza-turismo" target="_blank" transform="translate(-153.17364340021223 -101.35502762520287)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">Turismo de Zaragoza</text></a>
+    <a id="dataset-hellenic-fire-brigade" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/hellenic-fire-brigade" target="_blank" transform="translate(-57.699610093682054 336.9798771005773)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">Hellenic Fire Brigade</text></a>
+    <a id="dataset-gemet" class="dataset thirdparty" xlink:href="http://thedatahub.org/dataset/gemet" target="_blank" transform="translate(56.903733831430316 92.6248017032376)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">GEneral Multilingual Environmental Thesaurus</text></a>
+    <a id="dataset-lista-encabezamientos-materia" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/lista-encabezamientos-materia" target="_blank" transform="translate(215.54048196857474 -15.216877893010679)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">Lista de  Encabezamientos de Materia as Linked Open Data</text></a>
+    <a id="dataset-loc" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/loc" target="_blank" transform="translate(244.81287136911988 99.62631135593)"><circle r="36"/><text class="label" x="0" y="3.5" font-size="12">Linked Open Colors</text></a>
+    <a id="dataset-dbtune-classical" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/dbtune-classical" target="_blank" transform="translate(68.16707411078363 260.726677995686)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">DBTune.org/classical</text></a>
+    <a id="dataset-govtrack" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/govtrack" target="_blank" transform="translate(350.8592436627172 540.3703846961137)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">GovTrack.us U.S Congress Legislative Data</text></a>
+    <a id="dataset-chronicling-america" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/chronicling-america" target="_blank" transform="translate(-304.6676630190188 -101.93158407963793)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">Chronicling America</text></a>
+    <a id="dataset-productdb" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/productdb" target="_blank" transform="translate(131.73524087149076 392.97157108899506)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">ProductDB</text></a>
+    <a id="dataset-tags2con-delicious" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/tags2con-delicious" target="_blank" transform="translate(-5.901922813856797 -3.6659188107829244)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">tags2con delicious</text></a>
+    <a id="dataset-vu-wordnet" class="dataset thirdparty" xlink:href="http://thedatahub.org/dataset/vu-wordnet" target="_blank" transform="translate(49.68635645598171 -5.268172973831819)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">WordNet 3.0 (VU Amsterdam)</text></a>
+    <a id="dataset-linkedlccn" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/linkedlccn" target="_blank" transform="translate(-201.45996422853497 153.84711388799045)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">LinkedLCCN</text></a>
+    <a id="dataset-dbpedia" class="dataset producer" xlink:href="http://thedatahub.org/dataset/dbpedia" target="_blank" transform="translate(-20.45282792355724 218.1965518008553)"><circle r="36"/><text class="label" x="0" y="3.5" font-size="12">DBpedia</text></a>
+    <a id="dataset-rkb-explorer-courseware" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/rkb-explorer-courseware" target="_blank" transform="translate(-202.53634030895213 -116.42725655777389)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">Resilient Computing Courseware (RKBExplorer)</text></a>
+    <a id="dataset-semsol-crunchbase" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/semsol-crunchbase" target="_blank" transform="translate(368.94615713842495 167.14573879051983)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">Semantic CrunchBase</text></a>
+    <a id="dataset-oceandrilling-codices" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/oceandrilling-codices" target="_blank" transform="translate(117.17728607080282 248.06074752986103)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">Ocean Drilling - Codices</text></a>
+    <a id="dataset-freebase" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/freebase" target="_blank" transform="translate(-296.13248479888125 43.517945019687204)"><circle r="36"/><text class="label" x="0" y="3.5" font-size="12">Freebase</text></a>
+    <a id="dataset-data-bnf-fr" class="dataset producer" xlink:href="http://thedatahub.org/dataset/data-bnf-fr" target="_blank" transform="translate(357.13269118504076 227.59083975989003)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">data.bnf.fr - Bibliothèque nationale de France</text></a>
+    <a id="dataset-viaf" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/viaf" target="_blank" transform="translate(81.01669471762229 98.24914251861999)"><circle r="36"/><text class="label" x="0" y="3.5" font-size="12">VIAF: The Virtual International Authority File</text></a>
+    <a id="dataset-fu-berlin-project-gutenberg" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/fu-berlin-project-gutenberg" target="_blank" transform="translate(-45.33182582550638 146.51116900522877)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">Project Gutenberg in RDF (FU Berlin)</text></a>
+    <a id="dataset-geological-survey-of-austria-thesaurus" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/geological-survey-of-austria-thesaurus" target="_blank" transform="translate(-444.1349460270573 9.62065164517977)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">Geological Survey of Austria (GBA) - Thesaurus</text></a>
+    <a id="dataset-nottingham-trent-university-resource-lists" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/nottingham-trent-university-resource-lists" target="_blank" transform="translate(249.16605963613577 417.39481204802104)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">Nottingham Trent University Resource Lists</text></a>
+    <a id="dataset-europeana-lod" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/europeana-lod" target="_blank" transform="translate(-348.6659799107347 310.69849111545733)"><circle r="36"/><text class="label" x="0" y="3.5" font-size="12">Europeana Linked Open Data</text></a>
+    <a id="dataset-klappstuhlclub" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/klappstuhlclub" target="_blank" transform="translate(-404.11385177761326 250.86394544031094)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">Klappstuhlclub </text></a>
+    <a id="dataset-twc-logd" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/twc-logd" target="_blank" transform="translate(-225.3517050258667 439.90904415929754)"><circle r="45"/><text class="label" x="0" y="3.75" font-size="13">TWC: Linking Open Government Data</text></a>
+    <a id="dataset-linkedmdb" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/linkedmdb" target="_blank" transform="translate(-181.7087839401641 210.08336906631547)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">Linked Movie DataBase</text></a>
+    <a id="dataset-data-incubator-smcjournals" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/data-incubator-smcjournals" target="_blank" transform="translate(216.77987579898033 457.9532710123195)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">Scottish Mountaineering Council Journals Issues 1-36</text></a>
+    <a id="dataset-rkb-explorer-wiki" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/rkb-explorer-wiki" target="_blank" transform="translate(-43.03813165118044 -204.81524902737308)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">ReSIST Project Wiki (RKBExplorer)</text></a>
+    <a id="dataset-agrovoc-skos" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/agrovoc-skos" target="_blank" transform="translate(269.22576235177206 -8.450764356926486)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">AGROVOC </text></a>
+    <a id="dataset-fu-berlin-eurostat" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/fu-berlin-eurostat" target="_blank" transform="translate(242.19454703800503 161.13751821339)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">Eurostat in RDF (FU Berlin)</text></a>
+    <a id="dataset-hungarian-national-library-catalog" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/hungarian-national-library-catalog" target="_blank" transform="translate(-134.8254454457173 360.7661821548367)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">Hungarian National Library (NSZL) catalog</text></a>
+    <a id="dataset-open-data-thesaurus" class="dataset producer" xlink:href="http://thedatahub.org/dataset/open-data-thesaurus" target="_blank" transform="translate(145.79753975262918 338.58845102083563)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">Open Data Thesaurus</text></a>
+    <a id="dataset-revyu" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/revyu" target="_blank" transform="translate(-453.6394632831736 -137.02703441675422)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">Revyu.com - Review Anything</text></a>
+    <a id="dataset-environmental-applications-reference-thesaurus" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/environmental-applications-reference-thesaurus" target="_blank" transform="translate(296.1386825857362 -119.14223427831791)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">EARTh</text></a>
+    <a id="dataset-fu-berlin-diseasome" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/fu-berlin-diseasome" target="_blank" transform="translate(154.24745876720297 288.4333769937755)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">Diseasome</text></a>
+    <a id="dataset-sudocfr" class="dataset non-eu" xlink:href="http://thedatahub.org/dataset/sudocfr" target="_blank" transform="translate(3.557543289985162 509.12091518748804)"><circle r="36"/><text class="label" x="0" y="3.5" font-size="12">Sudoc bibliographic data</text></a>
+    <a id="dataset-mlsa" class="dataset" xlink:href="http://thedatahub.org/dataset/mlsa" target="_blank" transform="translate(-446.06280958882684 192.7956933000589)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9"> MLSA - A Multi-layered Reference Corpus for German Sentiment Analysis</text></a>
+    <a id="dataset-french-timebank" class="dataset" xlink:href="http://thedatahub.org/dataset/french-timebank" target="_blank" transform="translate(-354.2121051214476 250.27003281127054)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">French TimeBank</text></a>
+    <a id="dataset-gutenberg" class="dataset" xlink:href="http://thedatahub.org/dataset/gutenberg" target="_blank" transform="translate(128.34612487508895 204.66784534885932)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">Project Gutenberg</text></a>
+    <a id="dataset-apertium" class="dataset" xlink:href="http://thedatahub.org/dataset/apertium" target="_blank" transform="translate(2.525150178112041 -223.2183168176661)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">Apertium</text></a>
+    <a id="dataset-wold" class="dataset producer" xlink:href="http://thedatahub.org/dataset/wold" target="_blank" transform="translate(204.96037930947227 -109.69024738983482)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">World Loanword Database</text></a>
+    <a id="dataset-ids" class="dataset producer" xlink:href="http://thedatahub.org/dataset/ids" target="_blank" transform="translate(-158.80271563984786 -222.87776880216526)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">Intercontinental Dictionary Series</text></a>
+    <a id="dataset-gemet-annotated" class="dataset" xlink:href="http://thedatahub.org/dataset/gemet-annotated" target="_blank" transform="translate(-6.264471201316852 331.61163179398244)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">gemet-annotated</text></a>
+    <a id="dataset-wortschatz" class="dataset" xlink:href="http://thedatahub.org/dataset/wortschatz" target="_blank" transform="translate(-103.8685585179648 278.91110162567196)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">Wortschatz</text></a>
+    <a id="dataset-rosetta-project" class="dataset" xlink:href="http://thedatahub.org/dataset/rosetta-project" target="_blank" transform="translate(304.7137294186525 173.11435578615453)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">The Rosetta Project</text></a>
+    <a id="dataset-phoible" class="dataset" xlink:href="http://thedatahub.org/dataset/phoible" target="_blank" transform="translate(-68.854215294612 -85.27466643158748)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">phoible</text></a>
+    <a id="dataset-conceptnet" class="dataset" xlink:href="http://thedatahub.org/dataset/conceptnet" target="_blank" transform="translate(-518.1037416399338 164.23329694700087)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">ConceptNet</text></a>
+    <a id="dataset-alpino-rdf" class="dataset" xlink:href="http://thedatahub.org/dataset/alpino-rdf" target="_blank" transform="translate(-371.2034932588156 118.53042749796622)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">ALPINO RDF Treebank</text></a>
+    <a id="dataset-wiktionary-en" class="dataset" xlink:href="http://thedatahub.org/dataset/wiktionary-en" target="_blank" transform="translate(229.39714319668974 -63.558481278721835)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">Wiktionary - EN</text></a>
+    <a id="dataset-opus" class="dataset" xlink:href="http://thedatahub.org/dataset/opus" target="_blank" transform="translate(135.7429629178484 70.58328397300446)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">OPUS - an open source parallel corpus</text></a>
+    <a id="dataset-pali-english-lexicon" class="dataset thirdparty" xlink:href="http://thedatahub.org/dataset/pali-english-lexicon" target="_blank" transform="translate(84.65368818146273 -170.8502946458546)"><circle r="24"/><text class="label" x="0" y="3" font-size="10">Pali English Lexicon</text></a>
+    <a id="dataset-o-anc" class="dataset" xlink:href="http://thedatahub.org/dataset/o-anc" target="_blank" transform="translate(137.83113697586603 -89.32536245324248)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">American National Corpus - Open Portion</text></a>
+    <a id="dataset-heartfailure" class="dataset" xlink:href="http://thedatahub.org/dataset/heartfailure" target="_blank" transform="translate(-156.50407546960955 576.1545129122269)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">Meriterm Heart Failure Multilingual Terminology</text></a>
+    <a id="dataset-glottolog-langdoc" class="dataset producer" xlink:href="http://thedatahub.org/dataset/glottolog-langdoc" target="_blank" transform="translate(309.51157683915056 322.858708713862)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">Glottolog/Langdoc</text></a>
+    <a id="dataset-talkbank" class="dataset" xlink:href="http://thedatahub.org/dataset/talkbank" target="_blank" transform="translate(-427.1753235037765 378.6012524062228)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">TalkBank</text></a>
+    <a id="dataset-lemonwiktionary" class="dataset" xlink:href="http://thedatahub.org/dataset/lemonwiktionary" target="_blank" transform="translate(513.52592479162 27.659745129144447)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">LemonWiktionary</text></a>
+    <a id="dataset-eu-dgt-tm" class="dataset" xlink:href="http://thedatahub.org/dataset/eu-dgt-tm" target="_blank" transform="translate(-457.99718193633197 273.17530196577883)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">EU Directorate-General for Translation (DGT) - Acquis Communautaire</text></a>
+    <a id="dataset-sentiws" class="dataset" xlink:href="http://thedatahub.org/dataset/sentiws" target="_blank" transform="translate(410.83044592975017 107.17956218391089)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">SentimentWortschatz</text></a>
+    <a id="dataset-dbpedia-spotlight" class="dataset" xlink:href="http://thedatahub.org/dataset/dbpedia-spotlight" target="_blank" transform="translate(483.920501231251 196.44974628989172)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">DBpedia Spotlight</text></a>
+    <a id="dataset-isocat" class="dataset" xlink:href="http://thedatahub.org/dataset/isocat" target="_blank" transform="translate(381.50869312055136 -160.6074426320254)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">ISOcat</text></a>
+    <a id="dataset-sanskrit-english-lexicon" class="dataset thirdparty" xlink:href="http://thedatahub.org/dataset/sanskrit-english-lexicon" target="_blank" transform="translate(-313.86687191338984 -42.44212903552279)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">Sanskrit English Lexicon</text></a>
+    <a id="dataset-olia" class="dataset" xlink:href="http://thedatahub.org/dataset/olia" target="_blank" transform="translate(-289.9626379193251 325.35877008566496)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">Ontologies of Linguistic Annotations (OLiA)</text></a>
+    <a id="dataset-asjp" class="dataset producer" xlink:href="http://thedatahub.org/dataset/asjp" target="_blank" transform="translate(142.5233681577575 121.58000807437355)"><circle r="29"/><text class="label" x="0" y="3.25" font-size="11">Automated Similarity Judgment Program lexical data</text></a>
+    <a id="dataset-wiktionary" class="dataset" xlink:href="http://thedatahub.org/dataset/wiktionary" target="_blank" transform="translate(-140.41437605286728 306.27629397780396)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">Wiktionary</text></a>
+    <a id="dataset-masc" class="dataset" xlink:href="http://thedatahub.org/dataset/masc" target="_blank" transform="translate(-198.17081353115827 -64.81406246423295)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">Manually Annotated Sub-Corpus (MASC) of the Open American National Corpus</text></a>
+    <a id="dataset-lemonwordnet" class="dataset" xlink:href="http://thedatahub.org/dataset/lemonwordnet" target="_blank" transform="translate(199.38588407118084 274.4386161480247)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">LemonWordNet</text></a>
+    <a id="dataset-framenet" class="dataset" xlink:href="http://thedatahub.org/dataset/framenet" target="_blank" transform="translate(-179.51566295779872 391.8883711031534)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">FrameNet</text></a>
+    <a id="dataset-lexinfo" class="dataset" xlink:href="http://thedatahub.org/dataset/lexinfo" target="_blank" transform="translate(543.5631568581564 167.77657546047973)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">lexinfo</text></a>
+    <a id="dataset-dbpedia-live" class="dataset producer" xlink:href="http://thedatahub.org/dataset/dbpedia-live" target="_blank" transform="translate(-406.36452534175663 90.10390559522743)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">DBpedia-Live</text></a>
+    <a id="dataset-asit" class="dataset" xlink:href="http://thedatahub.org/dataset/asit" target="_blank" transform="translate(352.30269291678655 293.4852292343637)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">ASIt</text></a>
+    <a id="dataset-gold" class="dataset" xlink:href="http://thedatahub.org/dataset/gold" target="_blank" transform="translate(42.34411885387521 464.4841771229752)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">General Ontology of Linguistic Description</text></a>
+    <a id="dataset-wiktionary-dbpedia-org" class="dataset" xlink:href="http://thedatahub.org/dataset/wiktionary-dbpedia-org" target="_blank" transform="translate(-73.14096198805946 248.52565581116977)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">wiktionary.dbpedia.org</text></a>
+    <a id="dataset-wordnet" class="dataset" xlink:href="http://thedatahub.org/dataset/wordnet" target="_blank" transform="translate(243.6655144750188 560.0107072641978)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">Wordnet</text></a>
+    <a id="dataset-multilingualeulaw" class="dataset" xlink:href="http://thedatahub.org/dataset/multilingualeulaw" target="_blank" transform="translate(-567.7827883359521 84.12439062108221)"><circle r="21"/><text class="label" x="0" y="2.75" font-size="9">The DGT Multilingual Translation Memory of the Acquis Communautaire</text></a>
+  </g>
+
+  <g id="layer-legend" transform="translate(572.5631568581564 614.2918470776224)">
+<!--    <g class="dataset legal">
+      <text x="-46" y="-254" font-size="12">Published by LATC</text>
+      <circle cx="-22" cy="-257" r="13"/>
+    </g>
+    <g class="dataset producer">
+      <text x="-46" y="-222" font-size="12">Published by EU</text>
+      <circle cx="-22" cy="-225" r="13"/>
+    </g>
+    <g class="dataset thirdparty">
+      <text x="-46" y="-190" font-size="12">Published by 3rd parties</text>
+      <circle cx="-22" cy="-193" r="13"/>
+    </g>
+    <g class="dataset non-eu">
+      <text x="-46" y="-158" font-size="12">Non-EU dataset</text>
+      <circle cx="-22" cy="-161" r="13"/>
+    </g>
+-->  </g>
+
+  <g id="layer-latc-logo" transform="translate(-450 420)">
+<a xlink:href="http://richard.cyganiak.de/">
+      
+        <title>This image was produced with software provided by Richard Cyganiak</title>
+      
+    </a>
+ <!--   <a xlink:href="http://latc-project.eu/">
+      <image width="150" height="100" xlink:href="latc-logo.png">
+        <title>LATC logo</title>
+      </image>
+    </a>
+ --> </g>
+
+</svg>

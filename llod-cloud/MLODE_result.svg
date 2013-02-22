@@ -1,0 +1,3926 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="-523.53354 -327.60626 1157.78 885.02451"
+   id="svg2"
+   inkscape:version="0.48.3.1 r9886"
+   width="100%"
+   height="100%"
+   sodipodi:docname="MLODE_result.svg"
+   inkscape:export-filename="/home/sebastian/Dropbox/data_for_mlode/lod-clouds_snapshots/MLODE_result.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <metadata
+     id="metadata741">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>LOD Cloud</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="841"
+     id="namedview739"
+     showgrid="false"
+     inkscape:zoom="0.75422634"
+     inkscape:cx="661.48293"
+     inkscape:cy="436.80573"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <title
+     id="title4">LOD Cloud</title>
+  <style
+     type="text/css"
+     id="style6">
+.dataset circle { fill: #fff; stroke: #2F5CD0; stroke-width: 1; }
+
+.dataset.media circle { fill: #E2EAFF; stroke: #2866C4; }
+.dataset.geographic circle { fill: #FFEFA6; stroke: #996633; }
+.dataset.publications circle { fill: #E4FFC9; stroke: #30C32D; }
+.dataset.usergeneratedcontent circle { fill: #FFE9D8; stroke: #FF5D33; }
+.dataset.government circle { fill: #C5FFE5; stroke: #11C2A2; }
+.dataset.crossdomain circle { fill: #E6F6F4; stroke: #2E4439; }
+.dataset.lifesciences circle { fill: #F4D6E2; stroke: #C31A8A; }
+
+.dataset circle { stroke-width: 2; }
+.dataset.legal circle { fill: #FFF; stroke: #EB0; }
+#.dataset.legal text { fill: #996633; }
+.dataset.business circle { fill: #FFF; stroke: #EB0; }
+#.dataset.business text { fill: #607; }
+.dataset.eu-institution circle { fill: #FFF; stroke: #EB0; }
+#.dataset.eu-institution text { fill: #30C32D; }
+#.dataset.thirdparty circle { fill: #FFF; stroke: #28C466; }
+#.dataset.thirdparty text { fill: #050; }
+.dataset.producer circle { fill: #FFF; stroke: #2866C4; }
+#.dataset.producer text { fill: #007; }
+.dataset.non-eu circle { fill: #FFF; stroke: #DDD; }
+.dataset.non-eu text { fill: #999; }
+.shadow.weak { fill-opacity: 0.2; }
+#.links.weak, .weak .arrowhead { stroke-opacity: 0.4; fill-opacity: 0.4; }
+.links.weak, .weak .arrowhead { stroke: #AAA; fill: #AAA; }
+
+.shadow { fill-opacity: 0.6; }
+.links { stroke: #363636; stroke-linecap: square; }
+.width1 { stroke-width: 1; }
+.width2 { stroke-width: 2; }
+.width3 { stroke-width: 4; }
+.arrowhead { fill: #363636; }
+
+
+#.label, .footer-text, #layer-legend text { font-family: Verdana, 'Bitstream Vera Sans', 'DejaVu Sans', Geneva, sans-serif; text-rendering: geometricPrecision; }
+.label, .footer-text, #layer-legend text { font-family: Helvetica, sans-serif; text-rendering: geometricPrecision; font-weight: bold; }
+.label { text-anchor: middle; }
+.footer-text { text-anchor: end; }
+#layer-legend text { text-anchor: end; fill: #363636; }
+  </style>
+  <defs
+     id="defs">
+    <circle
+       id="shadow-size1"
+       cx="0"
+       cy="0"
+       r="21"
+       class="shadow"
+       sodipodi:cx="0"
+       sodipodi:cy="0"
+       sodipodi:rx="21"
+       sodipodi:ry="21"
+       style="fill-opacity:0.6;filter:url(#shadow-filter1)" />
+    <circle
+       id="shadow-size1-weak"
+       cx="0"
+       cy="0"
+       r="21"
+       class="shadow weak"
+       sodipodi:cx="0"
+       sodipodi:cy="0"
+       sodipodi:rx="21"
+       sodipodi:ry="21"
+       style="fill-opacity:0.2;filter:url(#shadow-filter1)" />
+    <filter
+       id="shadow-filter1"
+       filterUnits="userSpaceOnUse"
+       x="-29"
+       y="-29"
+       width="58"
+       height="58"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="4"
+         id="feGaussianBlur12" />
+    </filter>
+    <circle
+       id="shadow-size2"
+       cx="0"
+       cy="0"
+       r="24"
+       class="shadow"
+       sodipodi:cx="0"
+       sodipodi:cy="0"
+       sodipodi:rx="24"
+       sodipodi:ry="24"
+       style="fill-opacity:0.6;filter:url(#shadow-filter2)" />
+    <circle
+       id="shadow-size2-weak"
+       cx="0"
+       cy="0"
+       r="24"
+       class="shadow weak"
+       sodipodi:cx="0"
+       sodipodi:cy="0"
+       sodipodi:rx="24"
+       sodipodi:ry="24"
+       style="fill-opacity:0.2;filter:url(#shadow-filter2)" />
+    <filter
+       id="shadow-filter2"
+       filterUnits="userSpaceOnUse"
+       x="-32"
+       y="-32"
+       width="64"
+       height="64"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="4"
+         id="feGaussianBlur17" />
+    </filter>
+    <circle
+       id="shadow-size3"
+       cx="0"
+       cy="0"
+       r="29"
+       class="shadow"
+       sodipodi:cx="0"
+       sodipodi:cy="0"
+       sodipodi:rx="29"
+       sodipodi:ry="29"
+       style="fill-opacity:0.6;filter:url(#shadow-filter3)" />
+    <circle
+       id="shadow-size3-weak"
+       cx="0"
+       cy="0"
+       r="29"
+       class="shadow weak"
+       sodipodi:cx="0"
+       sodipodi:cy="0"
+       sodipodi:rx="29"
+       sodipodi:ry="29"
+       style="fill-opacity:0.2;filter:url(#shadow-filter3)" />
+    <filter
+       id="shadow-filter3"
+       filterUnits="userSpaceOnUse"
+       x="-37"
+       y="-37"
+       width="74"
+       height="74"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="4"
+         id="feGaussianBlur22" />
+    </filter>
+    <circle
+       id="shadow-size4"
+       cx="0"
+       cy="0"
+       r="36"
+       class="shadow"
+       sodipodi:cx="0"
+       sodipodi:cy="0"
+       sodipodi:rx="36"
+       sodipodi:ry="36"
+       style="fill-opacity:0.6;filter:url(#shadow-filter4)" />
+    <circle
+       id="shadow-size4-weak"
+       cx="0"
+       cy="0"
+       r="36"
+       class="shadow weak"
+       sodipodi:cx="0"
+       sodipodi:cy="0"
+       sodipodi:rx="36"
+       sodipodi:ry="36"
+       style="fill-opacity:0.2;filter:url(#shadow-filter4)" />
+    <filter
+       id="shadow-filter4"
+       filterUnits="userSpaceOnUse"
+       x="-44"
+       y="-44"
+       width="88"
+       height="88"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="4"
+         id="feGaussianBlur27" />
+    </filter>
+    <circle
+       id="shadow-size5"
+       cx="0"
+       cy="0"
+       r="45"
+       class="shadow"
+       sodipodi:cx="0"
+       sodipodi:cy="0"
+       sodipodi:rx="45"
+       sodipodi:ry="45"
+       style="fill-opacity:0.6;filter:url(#shadow-filter5)" />
+    <circle
+       id="shadow-size5-weak"
+       cx="0"
+       cy="0"
+       r="45"
+       class="shadow weak"
+       sodipodi:cx="0"
+       sodipodi:cy="0"
+       sodipodi:rx="45"
+       sodipodi:ry="45"
+       style="fill-opacity:0.2;filter:url(#shadow-filter5)" />
+    <filter
+       id="shadow-filter5"
+       filterUnits="userSpaceOnUse"
+       x="-53"
+       y="-53"
+       width="106"
+       height="106"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="4"
+         id="feGaussianBlur32" />
+    </filter>
+    <marker
+       id="arrowhead-start-width1"
+       viewBox="0 0 13 10"
+       refX="13"
+       refY="5"
+       orient="auto"
+       markerUnits="userSpaceOnUse"
+       markerWidth="7"
+       markerHeight="7"
+       overflow="visible"
+       style="overflow:visible">
+      <path
+         id="arrowhead-start"
+         class="arrowhead"
+         d="M 13,0 0,5 13,10 z"
+         inkscape:connector-curvature="0"
+         style="fill:#363636" />
+    </marker>
+    <marker
+       id="arrowhead-start-width1-weak"
+       viewBox="0 0 13 10"
+       refX="13"
+       refY="5"
+       orient="auto"
+       markerUnits="userSpaceOnUse"
+       markerWidth="7"
+       markerHeight="7"
+       overflow="visible"
+       class="weak"
+       style="overflow:visible">
+      <path
+         id="path37"
+         class="arrowhead"
+         d="M 13,0 0,5 13,10 z"
+         inkscape:connector-curvature="0"
+         style="fill:#aaaaaa;stroke:#aaaaaa" />
+    </marker>
+    <marker
+       id="arrowhead-end-width1"
+       viewBox="0 0 13 10"
+       refX="0"
+       refY="5"
+       orient="auto"
+       markerUnits="userSpaceOnUse"
+       markerWidth="7"
+       markerHeight="7"
+       overflow="visible"
+       style="overflow:visible">
+      <path
+         id="arrowhead-end"
+         class="arrowhead"
+         d="M 0,0 13,5 0,10 z"
+         inkscape:connector-curvature="0"
+         style="fill:#363636" />
+    </marker>
+    <marker
+       id="arrowhead-end-width1-weak"
+       viewBox="0 0 13 10"
+       refX="0"
+       refY="5"
+       orient="auto"
+       markerUnits="userSpaceOnUse"
+       markerWidth="7"
+       markerHeight="7"
+       overflow="visible"
+       class="weak"
+       style="overflow:visible">
+      <path
+         id="path42"
+         class="arrowhead"
+         d="M 0,0 13,5 0,10 z"
+         inkscape:connector-curvature="0"
+         style="fill:#aaaaaa;stroke:#aaaaaa" />
+    </marker>
+    <marker
+       id="arrowhead-start-width2"
+       viewBox="0 0 13 10"
+       refX="13"
+       refY="5"
+       orient="auto"
+       markerUnits="userSpaceOnUse"
+       markerWidth="10"
+       markerHeight="10"
+       overflow="visible"
+       style="overflow:visible">
+      <path
+         id="path45"
+         class="arrowhead"
+         d="M 13,0 0,5 13,10 z"
+         inkscape:connector-curvature="0"
+         style="fill:#363636" />
+    </marker>
+    <marker
+       id="arrowhead-start-width2-weak"
+       viewBox="0 0 13 10"
+       refX="13"
+       refY="5"
+       orient="auto"
+       markerUnits="userSpaceOnUse"
+       markerWidth="10"
+       markerHeight="10"
+       overflow="visible"
+       class="weak"
+       style="overflow:visible">
+      <path
+         id="path48"
+         class="arrowhead"
+         d="M 13,0 0,5 13,10 z"
+         inkscape:connector-curvature="0"
+         style="fill:#aaaaaa;stroke:#aaaaaa" />
+    </marker>
+    <marker
+       id="arrowhead-end-width2"
+       viewBox="0 0 13 10"
+       refX="0"
+       refY="5"
+       orient="auto"
+       markerUnits="userSpaceOnUse"
+       markerWidth="10"
+       markerHeight="10"
+       overflow="visible"
+       style="overflow:visible">
+      <path
+         id="path51"
+         class="arrowhead"
+         d="M 0,0 13,5 0,10 z"
+         inkscape:connector-curvature="0"
+         style="fill:#363636" />
+    </marker>
+    <marker
+       id="arrowhead-end-width2-weak"
+       viewBox="0 0 13 10"
+       refX="0"
+       refY="5"
+       orient="auto"
+       markerUnits="userSpaceOnUse"
+       markerWidth="10"
+       markerHeight="10"
+       overflow="visible"
+       class="weak"
+       style="overflow:visible">
+      <path
+         id="path54"
+         class="arrowhead"
+         d="M 0,0 13,5 0,10 z"
+         inkscape:connector-curvature="0"
+         style="fill:#aaaaaa;stroke:#aaaaaa" />
+    </marker>
+    <marker
+       id="arrowhead-start-width3"
+       viewBox="0 0 13 10"
+       refX="13"
+       refY="5"
+       orient="auto"
+       markerUnits="userSpaceOnUse"
+       markerWidth="14"
+       markerHeight="14"
+       overflow="visible"
+       style="overflow:visible">
+      <path
+         id="path57"
+         class="arrowhead"
+         d="M 13,0 0,5 13,10 z"
+         inkscape:connector-curvature="0"
+         style="fill:#363636" />
+    </marker>
+    <marker
+       id="arrowhead-start-width3-weak"
+       viewBox="0 0 13 10"
+       refX="13"
+       refY="5"
+       orient="auto"
+       markerUnits="userSpaceOnUse"
+       markerWidth="14"
+       markerHeight="14"
+       overflow="visible"
+       class="weak"
+       style="overflow:visible">
+      <path
+         id="path60"
+         class="arrowhead"
+         d="M 13,0 0,5 13,10 z"
+         inkscape:connector-curvature="0"
+         style="fill:#aaaaaa;stroke:#aaaaaa" />
+    </marker>
+    <marker
+       id="arrowhead-end-width3"
+       viewBox="0 0 13 10"
+       refX="0"
+       refY="5"
+       orient="auto"
+       markerUnits="userSpaceOnUse"
+       markerWidth="14"
+       markerHeight="14"
+       overflow="visible"
+       style="overflow:visible">
+      <path
+         id="path63"
+         class="arrowhead"
+         d="M 0,0 13,5 0,10 z"
+         inkscape:connector-curvature="0"
+         style="fill:#363636" />
+    </marker>
+    <marker
+       id="arrowhead-end-width3-weak"
+       viewBox="0 0 13 10"
+       refX="0"
+       refY="5"
+       orient="auto"
+       markerUnits="userSpaceOnUse"
+       markerWidth="14"
+       markerHeight="14"
+       overflow="visible"
+       class="weak"
+       style="overflow:visible">
+      <path
+         id="path66"
+         class="arrowhead"
+         d="M 0,0 13,5 0,10 z"
+         inkscape:connector-curvature="0"
+         style="fill:#aaaaaa;stroke:#aaaaaa" />
+    </marker>
+  </defs>
+  <g
+     id="layer-shadows"
+     transform="translate(2,4)">
+    <use
+       id="shadow-eurovoc-in-skos"
+       x="167.01628"
+       y="231.66034"
+       xlink:href="#shadow-size1"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-lexvo"
+       x="27.376436"
+       y="130.10081"
+       xlink:href="#shadow-size2"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-mlsa"
+       x="-245.94981"
+       y="201.53214"
+       xlink:href="#shadow-size2"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-french-timebank"
+       x="-383.79962"
+       y="284.92795"
+       xlink:href="#shadow-size1"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-de-gaap-ontology-lexicon"
+       x="-196.5426"
+       y="-8.9145632"
+       xlink:href="#shadow-size1"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-openlibrary"
+       x="240.72816"
+       y="292.54736"
+       xlink:href="#shadow-size4"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-gutenberg"
+       x="86.621376"
+       y="195.28278"
+       xlink:href="#shadow-size3"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-marc-codes"
+       x="246.6207"
+       y="190.37091"
+       xlink:href="#shadow-size2"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-bluk-bnb"
+       x="-231.81451"
+       y="-113.12308"
+       xlink:href="#shadow-size4"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-dbpedia-pl"
+       x="174.55673"
+       y="144.30484"
+       xlink:href="#shadow-size1"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-dbpedia-ja"
+       x="-54.254013"
+       y="307.98318"
+       xlink:href="#shadow-size1"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-jmdict"
+       x="102.32237"
+       y="286.79739"
+       xlink:href="#shadow-size1"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-apertium"
+       x="46.813591"
+       y="-298.60626"
+       xlink:href="#shadow-size1"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-saldo"
+       x="283.71851"
+       y="5.4477224"
+       xlink:href="#shadow-size1"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-wold"
+       x="275.29147"
+       y="-139.49283"
+       xlink:href="#shadow-size3"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-ids"
+       x="-145.56316"
+       y="-175.81671"
+       xlink:href="#shadow-size3"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-gemet-annotated"
+       x="-43.640961"
+       y="458.45892"
+       xlink:href="#shadow-size1"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-simple-lexicon-collection-of-instances"
+       x="-256.81317"
+       y="525.41827"
+       xlink:href="#shadow-size2"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-rosetta-project"
+       x="337.20947"
+       y="144.69125"
+       xlink:href="#shadow-size1"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-opencyc"
+       x="-113.12988"
+       y="370.34207"
+       xlink:href="#shadow-size3"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-geowordnet"
+       x="62.562023"
+       y="-186.72685"
+       xlink:href="#shadow-size4"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-phoible"
+       x="-74.187363"
+       y="-123.72176"
+       xlink:href="#shadow-size1"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-wals"
+       x="83.328583"
+       y="411.34634"
+       xlink:href="#shadow-size3"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-dbpedia-pt"
+       x="2.2541339"
+       y="369.77747"
+       xlink:href="#shadow-size3"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-conceptnet"
+       x="-398.23044"
+       y="191.83878"
+       xlink:href="#shadow-size1"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-alpino-rdf"
+       x="-278.60254"
+       y="126.90911"
+       xlink:href="#shadow-size1"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-cornetto"
+       x="196.13045"
+       y="47.606537"
+       xlink:href="#shadow-size3"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-wiktionary-en"
+       x="359.83511"
+       y="54.428707"
+       xlink:href="#shadow-size1"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-opus"
+       x="128.41191"
+       y="-4.1272554"
+       xlink:href="#shadow-size1"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-pali-english-lexicon"
+       x="162.99329"
+       y="-265.18414"
+       xlink:href="#shadow-size2"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-core"
+       x="209.13071"
+       y="-61.093529"
+       xlink:href="#shadow-size4"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-o-anc"
+       x="118.48442"
+       y="-103.42432"
+       xlink:href="#shadow-size1"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-heartfailure"
+       x="-126.467"
+       y="511.03854"
+       xlink:href="#shadow-size1"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-bible-ontology"
+       x="24.299726"
+       y="277.45474"
+       xlink:href="#shadow-size2"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-fao-geopolitical-ontology"
+       x="-372.90213"
+       y="19.971277"
+       xlink:href="#shadow-size2"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-glottolog-langdoc"
+       x="250.28162"
+       y="403.65686"
+       xlink:href="#shadow-size3"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-talkbank"
+       x="-398.89883"
+       y="394.45102"
+       xlink:href="#shadow-size1"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-lemonwiktionary"
+       x="467.15192"
+       y="2.5944519"
+       xlink:href="#shadow-size3"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-eu-dgt-tm"
+       x="-489.52713"
+       y="275.79224"
+       xlink:href="#shadow-size1"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-sentiws"
+       x="429.48785"
+       y="122.56171"
+       xlink:href="#shadow-size2"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-dbpedia-el"
+       x="-133.63777"
+       y="165.78171"
+       xlink:href="#shadow-size3"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-dbpedia-spotlight"
+       x="479.95496"
+       y="209.56348"
+       xlink:href="#shadow-size1"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-isocat"
+       x="358.83713"
+       y="-40.986687"
+       xlink:href="#shadow-size1"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-simple-lexicon-collection-of-lemon-instances"
+       x="-256.16235"
+       y="-235.99411"
+       xlink:href="#shadow-size2"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-sanskrit-english-lexicon"
+       x="-273.97058"
+       y="35.323521"
+       xlink:href="#shadow-size3"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-olia"
+       x="-288.39896"
+       y="396.73996"
+       xlink:href="#shadow-size2"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-ontos-news-portal"
+       x="-284.24274"
+       y="290.38193"
+       xlink:href="#shadow-size3"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-asjp"
+       x="107.41447"
+       y="87.982056"
+       xlink:href="#shadow-size3"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-printed-book-auction-catalogues"
+       x="-46.287861"
+       y="-215.67175"
+       xlink:href="#shadow-size2"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-rkb-explorer-wordnet"
+       x="-59.538391"
+       y="101.09365"
+       xlink:href="#shadow-size3"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-lingvoj"
+       x="-128.87741"
+       y="49.067436"
+       xlink:href="#shadow-size2"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-zhishi-me"
+       x="-56.412426"
+       y="-16.603519"
+       xlink:href="#shadow-size4"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-dbpedia-es"
+       x="-427.7178"
+       y="-71.505745"
+       xlink:href="#shadow-size1"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-wiktionary"
+       x="-201.50577"
+       y="341.37836"
+       xlink:href="#shadow-size1"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-dbpedia-cs"
+       x="-138.99484"
+       y="-68.594429"
+       xlink:href="#shadow-size1"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-masc"
+       x="-335.82434"
+       y="-150.49187"
+       xlink:href="#shadow-size1"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-yago"
+       x="-179.10954"
+       y="253.18066"
+       xlink:href="#shadow-size3"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-lemonwordnet"
+       x="169.80531"
+       y="436.39838"
+       xlink:href="#shadow-size1"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-dbpedia-ru"
+       x="-437.28256"
+       y="-181.16165"
+       xlink:href="#shadow-size1"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-framenet"
+       x="-196.80267"
+       y="436.79489"
+       xlink:href="#shadow-size1"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-dbpedia-ko"
+       x="-313.3385"
+       y="-53.753613"
+       xlink:href="#shadow-size1"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-gemet"
+       x="21.421618"
+       y="44.617767"
+       xlink:href="#shadow-size3"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-lexinfo"
+       x="533.24304"
+       y="106.45525"
+       xlink:href="#shadow-size1"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-dbpedia-live"
+       x="-360.95554"
+       y="111.29314"
+       xlink:href="#shadow-size1"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-vu-wordnet"
+       x="53.49004"
+       y="-40.617908"
+       xlink:href="#shadow-size3"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-asit"
+       x="432.46457"
+       y="292.80411"
+       xlink:href="#shadow-size1"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-gold"
+       x="38.256161"
+       y="518.55206"
+       xlink:href="#shadow-size1"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-dbpedia"
+       x="-27.154865"
+       y="198.57645"
+       xlink:href="#shadow-size4"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-wiktionary-dbpedia-org"
+       x="-101.52281"
+       y="249.0228"
+       xlink:href="#shadow-size1"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-data-bnf-fr"
+       x="343.84729"
+       y="236.2964"
+       xlink:href="#shadow-size3"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-dbpedia-it"
+       x="179.42096"
+       y="-171.21767"
+       xlink:href="#shadow-size1"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-jrc-names"
+       x="331.30475"
+       y="341.94296"
+       xlink:href="#shadow-size3"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-dbpedia-de"
+       x="2.8890495"
+       y="-109.5604"
+       xlink:href="#shadow-size1"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-multilingualeulaw"
+       x="-476.11041"
+       y="34.317627"
+       xlink:href="#shadow-size1"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-lcc"
+       x="-197.24051"
+       y="100.38908"
+       xlink:href="#shadow-size1"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-open-data-thesaurus"
+       x="156.04318"
+       y="346.08978"
+       xlink:href="#shadow-size2"
+       width="1085.7766"
+       height="885.02454" />
+    <use
+       id="shadow-dbpedia-in-french"
+       x="265.53348"
+       y="101.76115"
+       xlink:href="#shadow-size1"
+       width="1085.7766"
+       height="885.02454" />
+  </g>
+  <g
+     id="layer-links">
+    <line
+       x1="-6.3571005"
+       y1="112.60658"
+       x2="-95.143867"
+       y2="66.561676"
+       class="links width3 from-lexvo to-lingvoj bidi weak"
+       id="line154"
+       style="fill:#aaaaaa;stroke:#aaaaaa;stroke-width:4;stroke-linecap:square;marker-start:url(#arrowhead-start-width3-weak);marker-end:url(#arrowhead-end-width3-weak)" />
+    <line
+       x1="12.425455"
+       y1="148.87495"
+       x2="1.501183"
+       y2="162.5927"
+       class="links width2 from-lexvo to-dbpedia weak"
+       id="line156"
+       style="fill:#aaaaaa;stroke:#aaaaaa;stroke-width:2;stroke-linecap:square;marker-end:url(#arrowhead-end-width2-weak)" />
+    <line
+       x1="6.7609382"
+       y1="142.38907"
+       x2="-145.60936"
+       y2="233.21225"
+       class="links width2 from-lexvo to-yago weak"
+       id="line158"
+       style="fill:#aaaaaa;stroke:#aaaaaa;stroke-width:2;stroke-linecap:square;marker-end:url(#arrowhead-end-width2-weak)" />
+    <line
+       x1="-223.72292"
+       y1="210.58559"
+       x2="214.1629"
+       y2="388.94501"
+       class="links width2 from-mlsa to-glottolog-langdoc weak"
+       id="line160"
+       style="fill:#aaaaaa;stroke:#aaaaaa;stroke-width:2;stroke-linecap:square;marker-end:url(#arrowhead-end-width2-weak)" />
+    <line
+       x1="-223.15074"
+       y1="209.02896"
+       x2="-130.97162"
+       y2="239.3394"
+       class="links width2 from-mlsa to-wiktionary-dbpedia-org weak"
+       id="line162"
+       style="fill:#aaaaaa;stroke:#aaaaaa;stroke-width:2;stroke-linecap:square;marker-end:url(#arrowhead-end-width2-weak)" />
+    <line
+       x1="-222.72968"
+       y1="195.46376"
+       x2="-5.5187602"
+       y2="138.69768"
+       class="links width2 from-mlsa to-lexvo weak"
+       id="line164"
+       style="fill:#aaaaaa;stroke:#aaaaaa;stroke-width:2;stroke-linecap:square;marker-end:url(#arrowhead-end-width2-weak)" />
+    <line
+       x1="-225.70955"
+       y1="214.42911"
+       x2="50.438164"
+       y2="390.38876"
+       class="links width2 from-mlsa to-wals weak"
+       id="line166"
+       style="fill:#aaaaaa;stroke:#aaaaaa;stroke-width:2;stroke-linecap:square;marker-end:url(#arrowhead-end-width2-weak)" />
+    <line
+       x1="224.15848"
+       y1="181.91817"
+       x2="-99.863708"
+       y2="59.985561"
+       class="links width1 from-marc-codes to-lingvoj weak"
+       id="line168"
+       style="fill:#aaaaaa;stroke:#aaaaaa;stroke-width:1;stroke-linecap:square;marker-end:url(#arrowhead-end-width1-weak)" />
+    <line
+       x1="222.63147"
+       y1="191.0899"
+       x2="18.824488"
+       y2="197.19836"
+       class="links width2 from-marc-codes to-dbpedia weak"
+       id="line170"
+       style="fill:#aaaaaa;stroke:#aaaaaa;stroke-width:2;stroke-linecap:square;marker-end:url(#arrowhead-end-width2-weak)" />
+    <line
+       x1="255.95572"
+       y1="-117.87967"
+       x2="3.5156307"
+       y2="164.2935"
+       class="links width2 from-wold to-dbpedia weak"
+       id="line172"
+       style="fill:#aaaaaa;stroke:#aaaaaa;stroke-width:2;stroke-linecap:square;marker-end:url(#arrowhead-end-width2-weak)" />
+    <line
+       x1="265.74811"
+       y1="-112.10809"
+       x2="95.175514"
+       y2="377.3515"
+       class="links width1 from-wold to-wals weak"
+       id="line174"
+       style="fill:#aaaaaa;stroke:#aaaaaa;stroke-width:1;stroke-linecap:square;marker-end:url(#arrowhead-end-width1-weak)" />
+    <line
+       x1="-129.20526"
+       y1="-151.87053"
+       x2="229.97527"
+       y2="373.93057"
+       class="links width1 from-ids to-glottolog-langdoc weak"
+       id="line176"
+       style="fill:#aaaaaa;stroke:#aaaaaa;stroke-width:1;stroke-linecap:square;marker-end:url(#arrowhead-end-width1-weak)" />
+    <line
+       x1="-131.29164"
+       y1="-150.57144"
+       x2="12.120677"
+       y2="103.11449"
+       class="links width1 from-ids to-lexvo weak"
+       id="line178"
+       style="fill:#aaaaaa;stroke:#aaaaaa;stroke-width:1;stroke-linecap:square;marker-end:url(#arrowhead-end-width1-weak)" />
+    <line
+       x1="-135.03021"
+       y1="-148.79715"
+       x2="70.253204"
+       y2="377.80481"
+       class="links width1 from-ids to-wals weak"
+       id="line180"
+       style="fill:#aaaaaa;stroke:#aaaaaa;stroke-width:1;stroke-linecap:square;marker-end:url(#arrowhead-end-width1-weak)" />
+    <line
+       x1="-142.57295"
+       y1="-146.97128"
+       x2="-104.71925"
+       y2="218.18802"
+       class="links width2 from-ids to-wiktionary-dbpedia-org weak"
+       id="line182"
+       style="fill:#aaaaaa;stroke:#aaaaaa;stroke-width:2;stroke-linecap:square;marker-end:url(#arrowhead-end-width2-weak)" />
+    <line
+       x1="60.331059"
+       y1="-150.79605"
+       x2="56.1548"
+       y2="-83.535255"
+       class="links width3 from-geowordnet to-vu-wordnet weak"
+       id="line184"
+       style="fill:#aaaaaa;stroke:#aaaaaa;stroke-width:4;stroke-linecap:square;marker-end:url(#arrowhead-end-width3-weak)" />
+    <line
+       x1="112.29787"
+       y1="410.01208"
+       x2="211.32292"
+       y2="405.4512"
+       class="links width2 from-wals to-glottolog-langdoc weak"
+       id="line186"
+       style="fill:#aaaaaa;stroke:#aaaaaa;stroke-width:2;stroke-linecap:square;marker-end:url(#arrowhead-end-width2-weak)" />
+    <line
+       x1="77.670097"
+       y1="382.90375"
+       x2="34.010529"
+       y2="163.44731"
+       class="links width2 from-wals to-lexvo weak"
+       id="line188"
+       style="fill:#aaaaaa;stroke:#aaaaaa;stroke-width:2;stroke-linecap:square;marker-end:url(#arrowhead-end-width2-weak)" />
+    <line
+       x1="-2.6555884"
+       y1="341.19611"
+       x2="-18.689827"
+       y2="247.85468"
+       class="links width3 from-dbpedia-pt to-dbpedia weak"
+       id="line190"
+       style="fill:#aaaaaa;stroke:#aaaaaa;stroke-width:4;stroke-linecap:square;marker-end:url(#arrowhead-end-width3-weak)" />
+    <line
+       x1="159.56024"
+       y1="24.987518"
+       x2="90.060242"
+       y2="-17.998888"
+       class="links width3 from-cornetto to-vu-wordnet bidi weak"
+       id="line192"
+       style="fill:#aaaaaa;stroke:#aaaaaa;stroke-width:4;stroke-linecap:square;marker-start:url(#arrowhead-start-width3-weak);marker-end:url(#arrowhead-end-width3-weak)" />
+    <line
+       x1="11.187113"
+       y1="257.35352"
+       x2="-3.6614308"
+       y2="234.59116"
+       class="links width1 from-bible-ontology to-dbpedia weak"
+       id="line194"
+       style="fill:#aaaaaa;stroke:#aaaaaa;stroke-width:1;stroke-linecap:square;marker-end:url(#arrowhead-end-width1-weak)" />
+    <line
+       x1="-351.57913"
+       y1="30.986254"
+       x2="-65.358574"
+       y2="178.84128"
+       class="links width1 from-fao-geopolitical-ontology to-dbpedia weak"
+       id="line196"
+       style="fill:#aaaaaa;stroke:#aaaaaa;stroke-width:1;stroke-linecap:square;marker-end:url(#arrowhead-end-width1-weak)" />
+    <line
+       x1="231.96272"
+       y1="381.17535"
+       x2="48.85376"
+       y2="156.45844"
+       class="links width2 from-glottolog-langdoc to-lexvo weak"
+       id="line198"
+       style="fill:#aaaaaa;stroke:#aaaaaa;stroke-width:2;stroke-linecap:square;marker-end:url(#arrowhead-end-width2-weak)" />
+    <line
+       x1="-130.74492"
+       y1="194.63705"
+       x2="-117.02026"
+       y2="331.53659"
+       class="links width2 from-dbpedia-el to-opencyc weak"
+       id="line200"
+       style="fill:#aaaaaa;stroke:#aaaaaa;stroke-width:2;stroke-linecap:square;marker-end:url(#arrowhead-end-width2-weak)" />
+    <line
+       x1="-105.92243"
+       y1="174.3175"
+       x2="-74.939934"
+       y2="183.85954"
+       class="links width3 from-dbpedia-el to-dbpedia weak"
+       id="line202"
+       style="fill:#aaaaaa;stroke:#aaaaaa;stroke-width:4;stroke-linecap:square;marker-end:url(#arrowhead-end-width3-weak)" />
+    <line
+       x1="-147.02263"
+       y1="191.50806"
+       x2="-159.26303"
+       y2="215.03468"
+       class="links width3 from-dbpedia-el to-yago weak"
+       id="line204"
+       style="fill:#aaaaaa;stroke:#aaaaaa;stroke-width:4;stroke-linecap:square;marker-end:url(#arrowhead-end-width3-weak)" />
+    <line
+       x1="-268.51862"
+       y1="383.29483"
+       x2="335.64337"
+       y2="-25.300718"
+       class="links width1 from-olia to-isocat weak"
+       id="line206"
+       style="fill:#aaaaaa;stroke:#aaaaaa;stroke-width:1;stroke-linecap:square;marker-end:url(#arrowhead-end-width1-weak)" />
+    <line
+       x1="-265.91162"
+       y1="405.12564"
+       x2="12.020938"
+       y2="508.76877"
+       class="links width1 from-olia to-gold weak"
+       id="line208"
+       style="fill:#aaaaaa;stroke:#aaaaaa;stroke-width:1;stroke-linecap:square;marker-end:url(#arrowhead-end-width1-weak)" />
+    <line
+       x1="-256.93182"
+       y1="280.62927"
+       x2="-70.475616"
+       y2="214.04619"
+       class="links width2 from-ontos-news-portal to-dbpedia weak"
+       id="line210"
+       style="fill:#aaaaaa;stroke:#aaaaaa;stroke-width:2;stroke-linecap:square;marker-end:url(#arrowhead-end-width2-weak)" />
+    <line
+       x1="81.750977"
+       y1="101.48706"
+       x2="57.464668"
+       y2="114.26736"
+       class="links width2 from-asjp to-lexvo weak"
+       id="line212"
+       style="fill:#aaaaaa;stroke:#aaaaaa;stroke-width:2;stroke-linecap:square;marker-end:url(#arrowhead-end-width2-weak)" />
+    <line
+       x1="-45.18055"
+       y1="-191.69731"
+       x2="-29.277218"
+       y2="152.62544"
+       class="links width2 from-printed-book-auction-catalogues to-dbpedia weak"
+       id="line214"
+       style="fill:#aaaaaa;stroke:#aaaaaa;stroke-width:2;stroke-linecap:square;marker-end:url(#arrowhead-end-width2-weak)" />
+    <line
+       x1="-65.199532"
+       y1="129.53572"
+       x2="-106.10226"
+       y2="335.03467"
+       class="links width1 from-rkb-explorer-wordnet to-opencyc weak"
+       id="line216"
+       style="fill:#aaaaaa;stroke:#aaaaaa;stroke-width:1;stroke-linecap:square;marker-end:url(#arrowhead-end-width1-weak)" />
+    <line
+       x1="-82.734863"
+       y1="83.68895"
+       x2="-104.08118"
+       y2="67.672462"
+       class="links width1 from-rkb-explorer-wordnet to-lingvoj weak"
+       id="line218"
+       style="fill:#aaaaaa;stroke:#aaaaaa;stroke-width:1;stroke-linecap:square;marker-end:url(#arrowhead-end-width1-weak)" />
+    <line
+       x1="-50.395927"
+       y1="128.61484"
+       x2="-40.71093"
+       y2="157.76918"
+       class="links width1 from-rkb-explorer-wordnet to-dbpedia weak"
+       id="line220"
+       style="fill:#aaaaaa;stroke:#aaaaaa;stroke-width:1;stroke-linecap:square;marker-end:url(#arrowhead-end-width1-weak)" />
+    <line
+       x1="-115.37685"
+       y1="68.910194"
+       x2="-51.343369"
+       y2="163.02486"
+       class="links width1 from-lingvoj to-dbpedia weak"
+       id="line222"
+       style="fill:#aaaaaa;stroke:#aaaaaa;stroke-width:1;stroke-linecap:square;marker-end:url(#arrowhead-end-width1-weak)" />
+    <line
+       x1="-51.56221"
+       y1="19.068254"
+       x2="-33.891273"
+       y2="149.03232"
+       class="links width3 from-zhishi-me to-dbpedia weak"
+       id="line224"
+       style="fill:#aaaaaa;stroke:#aaaaaa;stroke-width:4;stroke-linecap:square;marker-end:url(#arrowhead-end-width3-weak)" />
+    <line
+       x1="-138.64294"
+       y1="238.63918"
+       x2="-74.209045"
+       y2="215.48515"
+       class="links width3 from-yago to-dbpedia bidi weak"
+       id="line226"
+       style="fill:#aaaaaa;stroke:#aaaaaa;stroke-width:4;stroke-linecap:square;marker-start:url(#arrowhead-start-width3-weak);marker-end:url(#arrowhead-end-width3-weak)" />
+    <line
+       x1="12.695677"
+       y1="72.273834"
+       x2="-13.313718"
+       y2="154.70821"
+       class="links width2 from-gemet to-dbpedia weak"
+       id="line228"
+       style="fill:#aaaaaa;stroke:#aaaaaa;stroke-width:2;stroke-linecap:square;marker-end:url(#arrowhead-end-width2-weak)" />
+    <line
+       x1="49.105122"
+       y1="-11.951333"
+       x2="33.122192"
+       y2="92.537712"
+       class="links width3 from-vu-wordnet to-lexvo weak"
+       id="line230"
+       style="fill:#aaaaaa;stroke:#aaaaaa;stroke-width:4;stroke-linecap:square;marker-end:url(#arrowhead-end-width3-weak)" />
+    <line
+       x1="-43.268379"
+       y1="230.76892"
+       x2="-93.883186"
+       y2="331.88995"
+       class="links width3 from-dbpedia to-opencyc weak"
+       id="line232"
+       style="fill:#aaaaaa;stroke:#aaaaaa;stroke-width:4;stroke-linecap:square;marker-end:url(#arrowhead-end-width3-weak)" />
+    <line
+       x1="-84.143913"
+       y1="237.23409"
+       x2="-68.533211"
+       y2="226.64481"
+       class="links width3 from-wiktionary-dbpedia-org to-dbpedia weak"
+       id="line234"
+       style="fill:#aaaaaa;stroke:#aaaaaa;stroke-width:4;stroke-linecap:square;marker-end:url(#arrowhead-end-width3-weak)" />
+    <line
+       x1="304.37848"
+       y1="331.17374"
+       x2="19.269743"
+       y2="217.14404"
+       class="links width3 from-jrc-names to-dbpedia weak"
+       id="line236"
+       style="fill:#aaaaaa;stroke:#aaaaaa;stroke-width:4;stroke-linecap:square;marker-end:url(#arrowhead-end-width3-weak)" />
+    <line
+       x1="137.34996"
+       y1="331.03778"
+       x2="6.3371663"
+       y2="225.54465"
+       class="links width1 from-open-data-thesaurus to-dbpedia weak"
+       id="line238"
+       style="fill:#aaaaaa;stroke:#aaaaaa;stroke-width:1;stroke-linecap:square;marker-end:url(#arrowhead-end-width1-weak)" />
+  </g>
+  <a
+     transform="translate(167.01628,231.66034)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/eurovoc-in-skos"
+     class="dataset thirdparty"
+     id="dataset-eurovoc-in-skos">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="21"
+       sodipodi:rx="21"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="m 21,0 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+       id="circle242"
+       r="21" />
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text244"
+       font-size="9"
+       y="2.75"
+       x="0"
+       class="label">EUROVOC in SKOS</text>
+  </a>
+  <a
+     transform="translate(27.376437,130.10081)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/lexvo"
+     class="dataset thirdparty"
+     id="dataset-lexvo">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="24"
+       sodipodi:rx="24"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="M 24,0 C 24,13.254834 13.254834,24 0,24 -13.254834,24 -24,13.254834 -24,0 c 0,-13.254834 10.745166,-24 24,-24 13.254834,0 24,10.745166 24,24 z"
+       id="circle247"
+       r="24" />
+    <text
+       style="font-size:10px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text249"
+       font-size="10"
+       y="3"
+       x="0"
+       class="label">Lexvo</text>
+  </a>
+  <a
+     transform="translate(-245.94981,201.53214)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/mlsa"
+     class="dataset"
+     id="dataset-mlsa">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="24"
+       sodipodi:rx="24"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="M 24,0 C 24,13.254834 13.254834,24 0,24 -13.254834,24 -24,13.254834 -24,0 c 0,-13.254834 10.745166,-24 24,-24 13.254834,0 24,10.745166 24,24 z"
+       id="circle252"
+       r="24" />
+    <text
+       style="font-size:10px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text254"
+       font-size="10"
+       y="3"
+       x="0"
+       class="label">MLSA</text>
+  </a>
+  <a
+     transform="translate(-383.79962,284.92793)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/french-timebank"
+     class="dataset"
+     id="dataset-french-timebank">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="21"
+       sodipodi:rx="21"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="m 21,0 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+       id="circle257"
+       r="21" />
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text259"
+       font-size="9"
+       y="-2.25"
+       x="0"
+       class="label">French</text>
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text261"
+       font-size="9"
+       y="7.75"
+       x="0"
+       class="label">TimeBank</text>
+  </a>
+  <a
+     transform="translate(-196.5426,-8.9145635)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/de-gaap-ontology-lexicon"
+     class="dataset"
+     id="dataset-de-gaap-ontology-lexicon">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="21"
+       sodipodi:rx="21"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="m 21,0 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+       id="circle264"
+       r="21" />
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text266"
+       font-size="9"
+       y="2.75"
+       x="0"
+       class="label">de-gaap-ontology-lexicon</text>
+  </a>
+  <a
+     transform="translate(240.72816,292.54736)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/openlibrary"
+     class="dataset producer"
+     id="dataset-openlibrary">
+    <circle
+       style="fill:#ffffff;stroke:#2866c4;stroke-width:2"
+       sodipodi:ry="36"
+       sodipodi:rx="36"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="M 36,0 C 36,19.882251 19.882251,36 0,36 -19.882251,36 -36,19.882251 -36,0 c 0,-19.882251 16.117749,-36 36,-36 19.882251,0 36,16.117749 36,36 z"
+       id="circle269"
+       r="36" />
+    <text
+       style="font-size:12px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text271"
+       font-size="12"
+       y="-3"
+       x="0"
+       class="label">The Open</text>
+    <text
+       style="font-size:12px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text273"
+       font-size="12"
+       y="10"
+       x="0"
+       class="label">Library</text>
+  </a>
+  <a
+     transform="translate(86.621379,195.28278)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/gutenberg"
+     class="dataset"
+     id="dataset-gutenberg">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="29"
+       sodipodi:rx="29"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="M 29,0 C 29,16.016258 16.016258,29 0,29 -16.016258,29 -29,16.016258 -29,0 c 0,-16.016258 12.983742,-29 29,-29 16.016258,0 29,12.983742 29,29 z"
+       id="circle276"
+       r="29" />
+    <text
+       style="font-size:11px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text278"
+       font-size="11"
+       y="-2.75"
+       x="0"
+       class="label">Project</text>
+    <text
+       style="font-size:11px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text280"
+       font-size="11"
+       y="9.25"
+       x="0"
+       class="label">Gutenberg</text>
+  </a>
+  <a
+     transform="translate(246.6207,190.3709)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/marc-codes"
+     class="dataset thirdparty"
+     id="dataset-marc-codes">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="24"
+       sodipodi:rx="24"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="M 24,0 C 24,13.254834 13.254834,24 0,24 -13.254834,24 -24,13.254834 -24,0 c 0,-13.254834 10.745166,-24 24,-24 13.254834,0 24,10.745166 24,24 z"
+       id="circle283"
+       r="24" />
+    <text
+       style="font-size:10px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text285"
+       font-size="10"
+       y="-8"
+       x="0"
+       class="label">MARC</text>
+    <text
+       style="font-size:10px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text287"
+       font-size="10"
+       y="3"
+       x="0"
+       class="label">Codes</text>
+    <text
+       style="font-size:10px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text289"
+       font-size="10"
+       y="14"
+       x="0"
+       class="label">List</text>
+  </a>
+  <a
+     transform="translate(-231.81452,-113.12308)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/bluk-bnb"
+     class="dataset producer"
+     id="dataset-bluk-bnb">
+    <circle
+       style="fill:#ffffff;stroke:#2866c4;stroke-width:2"
+       sodipodi:ry="36"
+       sodipodi:rx="36"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="M 36,0 C 36,19.882251 19.882251,36 0,36 -19.882251,36 -36,19.882251 -36,0 c 0,-19.882251 16.117749,-36 36,-36 19.882251,0 36,16.117749 36,36 z"
+       id="circle292"
+       r="36" />
+    <text
+       style="font-size:12px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text294"
+       font-size="12"
+       y="3.5"
+       x="0"
+       class="label">BNB</text>
+  </a>
+  <a
+     transform="translate(174.55672,144.30484)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/dbpedia-pl"
+     class="dataset"
+     id="dataset-dbpedia-pl">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="21"
+       sodipodi:rx="21"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="m 21,0 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+       id="circle297"
+       r="21" />
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text299"
+       font-size="9"
+       y="2.75"
+       x="0"
+       class="label">DBpedia in Polish</text>
+  </a>
+  <a
+     transform="translate(-54.254013,307.98319)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/dbpedia-ja"
+     class="dataset"
+     id="dataset-dbpedia-ja">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="21"
+       sodipodi:rx="21"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="m 21,0 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+       id="circle302"
+       r="21" />
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text304"
+       font-size="9"
+       y="2.75"
+       x="0"
+       class="label">DBpedia in Japanese</text>
+  </a>
+  <a
+     transform="translate(102.32237,286.79739)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/jmdict"
+     class="dataset"
+     id="dataset-jmdict">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="21"
+       sodipodi:rx="21"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="m 21,0 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+       id="circle307"
+       r="21" />
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text309"
+       font-size="9"
+       y="2.75"
+       x="0"
+       class="label">The JMdict (Japanese-Multilingual Dictionary) project</text>
+  </a>
+  <a
+     transform="translate(405.58524,180.56382)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/simple-ontology-lexicon"
+     class="dataset"
+     id="dataset-simple-ontology-lexicon">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="24"
+       sodipodi:rx="24"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="M 24,0 C 24,13.254834 13.254834,24 0,24 -13.254834,24 -24,13.254834 -24,0 c 0,-13.254834 10.745166,-24 24,-24 13.254834,0 24,10.745166 24,24 z"
+       id="circle312"
+       r="24" />
+    <text
+       style="font-size:10px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text314"
+       font-size="10"
+       y="3"
+       x="0"
+       class="label">SIMPLE Ontology, Lexicon</text>
+  </a>
+  <a
+     transform="translate(46.813589,-298.60626)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/apertium"
+     class="dataset"
+     id="dataset-apertium">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="21"
+       sodipodi:rx="21"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="m 21,0 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+       id="circle317"
+       r="21" />
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text319"
+       font-size="9"
+       y="2.75"
+       x="0"
+       class="label">Apertium</text>
+  </a>
+  <a
+     transform="translate(283.71849,5.4477223)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/saldo"
+     class="dataset"
+     id="dataset-saldo">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="21"
+       sodipodi:rx="21"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="m 21,0 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+       id="circle322"
+       r="21" />
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text324"
+       font-size="9"
+       y="2.75"
+       x="0"
+       class="label">SALDO</text>
+  </a>
+  <a
+     transform="translate(275.29147,-139.49283)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/wold"
+     class="dataset producer"
+     id="dataset-wold">
+    <circle
+       style="fill:#ffffff;stroke:#2866c4;stroke-width:2"
+       sodipodi:ry="29"
+       sodipodi:rx="29"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="M 29,0 C 29,16.016258 16.016258,29 0,29 -16.016258,29 -29,16.016258 -29,0 c 0,-16.016258 12.983742,-29 29,-29 16.016258,0 29,12.983742 29,29 z"
+       id="circle327"
+       r="29" />
+    <text
+       style="font-size:10px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text329"
+       font-size="10"
+       y="-8"
+       x="0"
+       class="label">World</text>
+    <text
+       style="font-size:10px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text331"
+       font-size="10"
+       y="3"
+       x="0"
+       class="label">Loanword</text>
+    <text
+       style="font-size:10px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text333"
+       font-size="10"
+       y="14"
+       x="0"
+       class="label">Database</text>
+  </a>
+  <a
+     transform="translate(-145.56316,-175.81671)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/ids"
+     class="dataset producer"
+     id="dataset-ids">
+    <circle
+       style="fill:#ffffff;stroke:#2866c4;stroke-width:2"
+       sodipodi:ry="29"
+       sodipodi:rx="29"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="M 29,0 C 29,16.016258 16.016258,29 0,29 -16.016258,29 -29,16.016258 -29,0 c 0,-16.016258 12.983742,-29 29,-29 16.016258,0 29,12.983742 29,29 z"
+       id="circle336"
+       r="29" />
+    <text
+       style="font-size:11px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text338"
+       font-size="11"
+       y="3.25"
+       x="0"
+       class="label">ids</text>
+  </a>
+  <a
+     transform="translate(375.22144,296.22507)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/omegawiki"
+     class="dataset"
+     id="dataset-omegawiki">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="21"
+       sodipodi:rx="21"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="m 21,0 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+       id="circle341"
+       r="21" />
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text343"
+       font-size="9"
+       y="2.75"
+       x="0"
+       class="label">OmegaWiki</text>
+  </a>
+  <a
+     transform="translate(-43.640961,458.45893)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/gemet-annotated"
+     class="dataset"
+     id="dataset-gemet-annotated">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="21"
+       sodipodi:rx="21"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="m 21,0 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+       id="circle346"
+       r="21" />
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text348"
+       font-size="9"
+       y="-2.25"
+       x="0"
+       class="label">gemet</text>
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text350"
+       font-size="9"
+       y="7.75"
+       x="0"
+       class="label">annotated</text>
+  </a>
+  <a
+     transform="translate(-256.81316,525.41825)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/simple-lexicon-collection-of-instances"
+     class="dataset"
+     id="dataset-simple-lexicon-collection-of-instances">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="24"
+       sodipodi:rx="24"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="M 24,0 C 24,13.254834 13.254834,24 0,24 -13.254834,24 -24,13.254834 -24,0 c 0,-13.254834 10.745166,-24 24,-24 13.254834,0 24,10.745166 24,24 z"
+       id="circle353"
+       r="24" />
+    <text
+       style="font-size:10px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text355"
+       font-size="10"
+       y="3"
+       x="0"
+       class="label">SIMPLE Lexicon Collection of instances</text>
+  </a>
+  <a
+     transform="translate(337.20949,144.69125)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/rosetta-project"
+     class="dataset thirdparty"
+     id="dataset-rosetta-project">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="21"
+       sodipodi:rx="21"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="m 21,0 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+       id="circle358"
+       r="21" />
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text360"
+       font-size="9"
+       y="-7.25"
+       x="0"
+       class="label">The</text>
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text362"
+       font-size="9"
+       y="2.75"
+       x="0"
+       class="label">Rosetta</text>
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text364"
+       font-size="9"
+       y="12.75"
+       x="0"
+       class="label">Project</text>
+  </a>
+  <a
+     transform="translate(-113.12988,370.34206)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/opencyc"
+     class="dataset producer"
+     id="dataset-opencyc">
+    <circle
+       style="fill:#ffffff;stroke:#2866c4;stroke-width:2"
+       sodipodi:ry="29"
+       sodipodi:rx="29"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="M 29,0 C 29,16.016258 16.016258,29 0,29 -16.016258,29 -29,16.016258 -29,0 c 0,-16.016258 12.983742,-29 29,-29 16.016258,0 29,12.983742 29,29 z"
+       id="circle367"
+       r="29" />
+    <text
+       style="font-size:11px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text369"
+       font-size="11"
+       y="3.25"
+       x="0"
+       class="label">OpenCyc</text>
+  </a>
+  <a
+     transform="translate(-463.59518,129.39804)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/wikiword_thesaurus"
+     class="dataset"
+     id="dataset-wikiword_thesaurus">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="21"
+       sodipodi:rx="21"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="m 21,0 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+       id="circle372"
+       r="21" />
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text374"
+       font-size="9"
+       y="2.75"
+       x="0"
+       class="label">WikiWord Thesaurus Data</text>
+  </a>
+  <a
+     transform="translate(62.562023,-186.72686)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/geowordnet"
+     class="dataset producer"
+     id="dataset-geowordnet">
+    <circle
+       style="fill:#ffffff;stroke:#2866c4;stroke-width:2"
+       sodipodi:ry="36"
+       sodipodi:rx="36"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="M 36,0 C 36,19.882251 19.882251,36 0,36 -19.882251,36 -36,19.882251 -36,0 c 0,-19.882251 16.117749,-36 36,-36 19.882251,0 36,16.117749 36,36 z"
+       id="circle377"
+       r="36" />
+    <text
+       style="font-size:10px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text379"
+       font-size="10"
+       y="3"
+       x="0"
+       class="label">GeoWordNet</text>
+  </a>
+  <a
+     transform="translate(-74.187365,-123.72176)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/phoible"
+     class="dataset"
+     id="dataset-phoible">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="21"
+       sodipodi:rx="21"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="m 21,0 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+       id="circle382"
+       r="21" />
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text384"
+       font-size="9"
+       y="2.75"
+       x="0"
+       class="label">phoible</text>
+  </a>
+  <a
+     transform="translate(83.328585,411.34635)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/wals"
+     class="dataset"
+     id="dataset-wals">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="29"
+       sodipodi:rx="29"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="M 29,0 C 29,16.016258 16.016258,29 0,29 -16.016258,29 -29,16.016258 -29,0 c 0,-16.016258 12.983742,-29 29,-29 16.016258,0 29,12.983742 29,29 z"
+       id="circle387"
+       r="29" />
+    <text
+       style="font-size:11px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text389"
+       font-size="11"
+       y="3.25"
+       x="0"
+       class="label">WALS</text>
+  </a>
+  <a
+     transform="translate(2.254134,369.77746)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/dbpedia-pt"
+     class="dataset producer"
+     id="dataset-dbpedia-pt">
+    <circle
+       style="fill:#ffffff;stroke:#2866c4;stroke-width:2"
+       sodipodi:ry="29"
+       sodipodi:rx="29"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="M 29,0 C 29,16.016258 16.016258,29 0,29 -16.016258,29 -29,16.016258 -29,0 c 0,-16.016258 12.983742,-29 29,-29 16.016258,0 29,12.983742 29,29 z"
+       id="circle392"
+       r="29" />
+    <text
+       style="font-size:11px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text394"
+       font-size="11"
+       y="-0.75"
+       x="0"
+       class="label">DBpedia</text>
+    <text
+       style="font-size:7px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text396"
+       font-size="7"
+       y="7.25"
+       x="0"
+       class="label">in Portuguese</text>
+  </a>
+  <a
+     transform="translate(-398.23045,191.83878)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/conceptnet"
+     class="dataset"
+     id="dataset-conceptnet">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="21"
+       sodipodi:rx="21"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="m 21,0 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+       id="circle399"
+       r="21" />
+    <text
+       style="font-size:8px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text401"
+       font-size="8"
+       y="2.5"
+       x="0"
+       class="label">ConceptNet</text>
+  </a>
+  <a
+     transform="translate(-278.60255,126.90911)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/alpino-rdf"
+     class="dataset"
+     id="dataset-alpino-rdf">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="21"
+       sodipodi:rx="21"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="m 21,0 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+       id="circle404"
+       r="21" />
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text406"
+       font-size="9"
+       y="2.75"
+       x="0"
+       class="label">ALPINO RDF Treebank</text>
+  </a>
+  <a
+     transform="translate(196.13044,47.606537)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/cornetto"
+     class="dataset producer"
+     id="dataset-cornetto">
+    <circle
+       style="fill:#ffffff;stroke:#2866c4;stroke-width:2"
+       sodipodi:ry="29"
+       sodipodi:rx="29"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="M 29,0 C 29,16.016258 16.016258,29 0,29 -16.016258,29 -29,16.016258 -29,0 c 0,-16.016258 12.983742,-29 29,-29 16.016258,0 29,12.983742 29,29 z"
+       id="circle409"
+       r="29" />
+    <text
+       style="font-size:11px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text411"
+       font-size="11"
+       y="3.25"
+       x="0"
+       class="label">Cornetto</text>
+  </a>
+  <a
+     transform="translate(359.8351,54.428707)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/wiktionary-en"
+     class="dataset"
+     id="dataset-wiktionary-en">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="21"
+       sodipodi:rx="21"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="m 21,0 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+       id="circle414"
+       r="21" />
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text416"
+       font-size="9"
+       y="2.75"
+       x="0"
+       class="label">Wiktionary - EN</text>
+  </a>
+  <a
+     transform="translate(128.41192,-4.1272554)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/opus"
+     class="dataset"
+     id="dataset-opus">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="21"
+       sodipodi:rx="21"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="m 21,0 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+       id="circle419"
+       r="21" />
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text421"
+       font-size="9"
+       y="2.75"
+       x="0"
+       class="label">OPUS</text>
+  </a>
+  <a
+     transform="translate(162.99328,-265.18413)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/pali-english-lexicon"
+     class="dataset thirdparty"
+     id="dataset-pali-english-lexicon">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="24"
+       sodipodi:rx="24"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="M 24,0 C 24,13.254834 13.254834,24 0,24 -13.254834,24 -24,13.254834 -24,0 c 0,-13.254834 10.745166,-24 24,-24 13.254834,0 24,10.745166 24,24 z"
+       id="circle424"
+       r="24" />
+    <text
+       style="font-size:10px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text426"
+       font-size="10"
+       y="-8"
+       x="0"
+       class="label">Pali</text>
+    <text
+       style="font-size:10px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text428"
+       font-size="10"
+       y="3"
+       x="0"
+       class="label">English</text>
+    <text
+       style="font-size:10px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text430"
+       font-size="10"
+       y="14"
+       x="0"
+       class="label">Lexicon</text>
+  </a>
+  <a
+     transform="translate(209.13071,-61.093527)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/core"
+     class="dataset producer"
+     id="dataset-core">
+    <circle
+       style="fill:#ffffff;stroke:#2866c4;stroke-width:2"
+       sodipodi:ry="36"
+       sodipodi:rx="36"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="M 36,0 C 36,19.882251 19.882251,36 0,36 -19.882251,36 -36,19.882251 -36,0 c 0,-19.882251 16.117749,-36 36,-36 19.882251,0 36,16.117749 36,36 z"
+       id="circle433"
+       r="36" />
+    <text
+       style="font-size:12px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text435"
+       font-size="12"
+       y="3.5"
+       x="0"
+       class="label">CORE</text>
+  </a>
+  <a
+     transform="translate(118.48442,-103.42432)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/o-anc"
+     class="dataset"
+     id="dataset-o-anc">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="21"
+       sodipodi:rx="21"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="m 21,0 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+       id="circle438"
+       r="21" />
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text440"
+       font-size="9"
+       y="2.75"
+       x="0"
+       class="label">ANC</text>
+  </a>
+  <a
+     transform="translate(-126.467,511.03853)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/heartfailure"
+     class="dataset"
+     id="dataset-heartfailure">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="21"
+       sodipodi:rx="21"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="m 21,0 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+       id="circle443"
+       r="21" />
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text445"
+       font-size="9"
+       y="2.75"
+       x="0"
+       class="label">heartfailure</text>
+  </a>
+  <a
+     transform="translate(24.299727,277.45473)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/bible-ontology"
+     class="dataset thirdparty"
+     id="dataset-bible-ontology">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="24"
+       sodipodi:rx="24"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="M 24,0 C 24,13.254834 13.254834,24 0,24 -13.254834,24 -24,13.254834 -24,0 c 0,-13.254834 10.745166,-24 24,-24 13.254834,0 24,10.745166 24,24 z"
+       id="circle448"
+       r="24" />
+    <text
+       style="font-size:10px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text450"
+       font-size="10"
+       y="-2.5"
+       x="0"
+       class="label">Bible</text>
+    <text
+       style="font-size:10px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text452"
+       font-size="10"
+       y="8.5"
+       x="0"
+       class="label">Ontology</text>
+  </a>
+  <a
+     transform="translate(95.534591,-255.49458)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/multext-east"
+     class="dataset"
+     id="dataset-multext-east">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="21"
+       sodipodi:rx="21"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="m 21,0 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+       id="circle455"
+       r="21" />
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text457"
+       font-size="9"
+       y="2.75"
+       x="0"
+       class="label">Multext-East</text>
+  </a>
+  <a
+     transform="translate(-372.90213,19.971277)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/fao-geopolitical-ontology"
+     class="dataset producer"
+     id="dataset-fao-geopolitical-ontology">
+    <circle
+       style="fill:#ffffff;stroke:#2866c4;stroke-width:2"
+       sodipodi:ry="24"
+       sodipodi:rx="24"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="M 24,0 C 24,13.254834 13.254834,24 0,24 -13.254834,24 -24,13.254834 -24,0 c 0,-13.254834 10.745166,-24 24,-24 13.254834,0 24,10.745166 24,24 z"
+       id="circle460"
+       r="24" />
+    <text
+       style="font-size:8px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text462"
+       font-size="8"
+       y="-6.5"
+       x="0"
+       class="label">FAO</text>
+    <text
+       style="font-size:8px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text464"
+       font-size="8"
+       y="2.5"
+       x="0"
+       class="label">geopolitical</text>
+    <text
+       style="font-size:8px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text466"
+       font-size="8"
+       y="11.5"
+       x="0"
+       class="label">ontology</text>
+  </a>
+  <a
+     transform="translate(250.28162,403.65687)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/glottolog-langdoc"
+     class="dataset producer"
+     id="dataset-glottolog-langdoc">
+    <circle
+       style="fill:#ffffff;stroke:#2866c4;stroke-width:2"
+       sodipodi:ry="29"
+       sodipodi:rx="29"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="M 29,0 C 29,16.016258 16.016258,29 0,29 -16.016258,29 -29,16.016258 -29,0 c 0,-16.016258 12.983742,-29 29,-29 16.016258,0 29,12.983742 29,29 z"
+       id="circle469"
+       r="29" />
+    <text
+       style="font-size:11px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text471"
+       font-size="11"
+       y="-2.75"
+       x="0"
+       class="label">Glottolog</text>
+    <text
+       style="font-size:11px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text473"
+       font-size="11"
+       y="9.25"
+       x="0"
+       class="label">Langdoc</text>
+  </a>
+  <a
+     transform="translate(-398.89884,394.45102)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/talkbank"
+     class="dataset"
+     id="dataset-talkbank">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="21"
+       sodipodi:rx="21"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="m 21,0 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+       id="circle476"
+       r="21" />
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text478"
+       font-size="9"
+       y="2.75"
+       x="0"
+       class="label">TalkBank</text>
+  </a>
+  <a
+     transform="translate(467.15192,2.594452)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/lemonwiktionary"
+     class="dataset"
+     id="dataset-lemonwiktionary">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="29"
+       sodipodi:rx="29"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="M 29,0 C 29,16.016258 16.016258,29 0,29 -16.016258,29 -29,16.016258 -29,0 c 0,-16.016258 12.983742,-29 29,-29 16.016258,0 29,12.983742 29,29 z"
+       id="circle481"
+       r="29" />
+    <text
+       style="font-size:11px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text483"
+       font-size="11"
+       y="-2.75"
+       x="0"
+       class="label">Lemon</text>
+    <text
+       style="font-size:11px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text485"
+       font-size="11"
+       y="9.25"
+       x="0"
+       class="label">Wiktionary</text>
+  </a>
+  <a
+     transform="translate(-489.52712,275.79224)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/eu-dgt-tm"
+     class="dataset"
+     id="dataset-eu-dgt-tm">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="21"
+       sodipodi:rx="21"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="m 21,0 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+       id="circle488"
+       r="21" />
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text490"
+       font-size="9"
+       y="2.75"
+       x="0"
+       class="label">DGT</text>
+  </a>
+  <a
+     transform="translate(429.48786,122.56172)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/sentiws"
+     class="dataset"
+     id="dataset-sentiws">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="24"
+       sodipodi:rx="24"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="M 24,0 C 24,13.254834 13.254834,24 0,24 -13.254834,24 -24,13.254834 -24,0 c 0,-13.254834 10.745166,-24 24,-24 13.254834,0 24,10.745166 24,24 z"
+       id="circle493"
+       r="24" />
+    <text
+       style="font-size:10px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text495"
+       font-size="10"
+       y="-2.5"
+       x="0"
+       class="label">Sentiment</text>
+    <text
+       style="font-size:10px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text497"
+       font-size="10"
+       y="8.5"
+       x="0"
+       class="label">Wortschatz</text>
+  </a>
+  <a
+     transform="translate(-133.63777,165.7817)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/dbpedia-el"
+     class="dataset producer"
+     id="dataset-dbpedia-el">
+    <circle
+       style="fill:#ffffff;stroke:#2866c4;stroke-width:2"
+       sodipodi:ry="29"
+       sodipodi:rx="29"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="M 29,0 C 29,16.016258 16.016258,29 0,29 -16.016258,29 -29,16.016258 -29,0 c 0,-16.016258 12.983742,-29 29,-29 16.016258,0 29,12.983742 29,29 z"
+       id="circle500"
+       r="29" />
+    <text
+       style="font-size:11px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text502"
+       font-size="11"
+       y="-2.75"
+       x="0"
+       class="label">DBpedia</text>
+    <text
+       style="font-size:11px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text504"
+       font-size="11"
+       y="9.25"
+       x="0"
+       class="label">in Greek</text>
+  </a>
+  <a
+     transform="translate(479.95496,209.56347)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/dbpedia-spotlight"
+     class="dataset"
+     id="dataset-dbpedia-spotlight">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="21"
+       sodipodi:rx="21"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="m 21,0 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+       id="circle507"
+       r="21" />
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text509"
+       font-size="9"
+       y="-2.25"
+       x="0"
+       class="label">DBpedia</text>
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text511"
+       font-size="9"
+       y="7.75"
+       x="0"
+       class="label">Spotlight</text>
+  </a>
+  <a
+     transform="translate(358.83712,-40.986687)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/isocat"
+     class="dataset"
+     id="dataset-isocat">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="21"
+       sodipodi:rx="21"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="m 21,0 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+       id="circle514"
+       r="21" />
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text516"
+       font-size="9"
+       y="2.75"
+       x="0"
+       class="label">ISOcat</text>
+  </a>
+  <a
+     transform="translate(-256.16236,-235.99411)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/simple-lexicon-collection-of-lemon-instances"
+     class="dataset"
+     id="dataset-simple-lexicon-collection-of-lemon-instances">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="24"
+       sodipodi:rx="24"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="M 24,0 C 24,13.254834 13.254834,24 0,24 -13.254834,24 -24,13.254834 -24,0 c 0,-13.254834 10.745166,-24 24,-24 13.254834,0 24,10.745166 24,24 z"
+       id="circle519"
+       r="24" />
+    <text
+       style="font-size:10px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text521"
+       font-size="10"
+       y="3"
+       x="0"
+       class="label">SIMPLE Lexicon Collection of Lemon instances</text>
+  </a>
+  <a
+     transform="translate(-273.97057,35.323519)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/sanskrit-english-lexicon"
+     class="dataset thirdparty"
+     id="dataset-sanskrit-english-lexicon">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="29"
+       sodipodi:rx="29"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="M 29,0 C 29,16.016258 16.016258,29 0,29 -16.016258,29 -29,16.016258 -29,0 c 0,-16.016258 12.983742,-29 29,-29 16.016258,0 29,12.983742 29,29 z"
+       id="circle524"
+       r="29" />
+    <text
+       style="font-size:11px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text526"
+       font-size="11"
+       y="-2.75"
+       x="0"
+       class="label">Sanskrit</text>
+    <text
+       style="font-size:11px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text528"
+       font-size="11"
+       y="9.25"
+       x="0"
+       class="label">English Lexicon</text>
+  </a>
+  <a
+     transform="translate(-288.39897,396.73995)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/olia"
+     class="dataset"
+     id="dataset-olia">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="24"
+       sodipodi:rx="24"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="M 24,0 C 24,13.254834 13.254834,24 0,24 -13.254834,24 -24,13.254834 -24,0 c 0,-13.254834 10.745166,-24 24,-24 13.254834,0 24,10.745166 24,24 z"
+       id="circle531"
+       r="24" />
+    <text
+       style="font-size:10px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text533"
+       font-size="10"
+       y="3"
+       x="0"
+       class="label">OLiA</text>
+  </a>
+  <a
+     transform="translate(-284.24272,290.38194)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/ontos-news-portal"
+     class="dataset producer"
+     id="dataset-ontos-news-portal">
+    <circle
+       style="fill:#ffffff;stroke:#2866c4;stroke-width:2"
+       sodipodi:ry="29"
+       sodipodi:rx="29"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="M 29,0 C 29,16.016258 16.016258,29 0,29 -16.016258,29 -29,16.016258 -29,0 c 0,-16.016258 12.983742,-29 29,-29 16.016258,0 29,12.983742 29,29 z"
+       id="circle536"
+       r="29" />
+    <text
+       style="font-size:11px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text538"
+       font-size="11"
+       y="3.25"
+       x="0"
+       class="label">Ontos News Portal</text>
+  </a>
+  <a
+     transform="translate(107.41447,87.982055)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/asjp"
+     class="dataset producer"
+     id="dataset-asjp">
+    <circle
+       style="fill:#ffffff;stroke:#2866c4;stroke-width:2"
+       sodipodi:ry="29"
+       sodipodi:rx="29"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="M 29,0 C 29,16.016258 16.016258,29 0,29 -16.016258,29 -29,16.016258 -29,0 c 0,-16.016258 12.983742,-29 29,-29 16.016258,0 29,12.983742 29,29 z"
+       id="circle541"
+       r="29" />
+    <text
+       style="font-size:11px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text543"
+       font-size="11"
+       y="3.25"
+       x="0"
+       class="label">ASJP</text>
+  </a>
+  <a
+     transform="translate(-46.287863,-215.67176)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/printed-book-auction-catalogues"
+     class="dataset thirdparty"
+     id="dataset-printed-book-auction-catalogues">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="24"
+       sodipodi:rx="24"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="M 24,0 C 24,13.254834 13.254834,24 0,24 -13.254834,24 -24,13.254834 -24,0 c 0,-13.254834 10.745166,-24 24,-24 13.254834,0 24,10.745166 24,24 z"
+       id="circle546"
+       r="24" />
+    <text
+       style="font-size:10px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text548"
+       font-size="10"
+       y="-8"
+       x="0"
+       class="label">Printed</text>
+    <text
+       style="font-size:10px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text550"
+       font-size="10"
+       y="3"
+       x="0"
+       class="label">Book Action</text>
+    <text
+       style="font-size:10px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text552"
+       font-size="10"
+       y="14"
+       x="0"
+       class="label">Catalogues</text>
+  </a>
+  <a
+     transform="translate(-59.538391,101.09365)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/rkb-explorer-wordnet"
+     class="dataset thirdparty"
+     id="dataset-rkb-explorer-wordnet">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="29"
+       sodipodi:rx="29"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="M 29,0 C 29,16.016258 16.016258,29 0,29 -16.016258,29 -29,16.016258 -29,0 c 0,-16.016258 12.983742,-29 29,-29 16.016258,0 29,12.983742 29,29 z"
+       id="circle555"
+       r="29" />
+    <text
+       style="font-size:11px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text557"
+       font-size="11"
+       y="-2.75"
+       x="0"
+       class="label">WordNet</text>
+    <text
+       style="font-size:11px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text559"
+       font-size="11"
+       y="9.25"
+       x="0"
+       class="label">(RKBExplorer)</text>
+  </a>
+  <a
+     transform="translate(-128.87741,49.067436)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/lingvoj"
+     class="dataset producer"
+     id="dataset-lingvoj">
+    <circle
+       style="fill:#ffffff;stroke:#2866c4;stroke-width:2"
+       sodipodi:ry="24"
+       sodipodi:rx="24"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="M 24,0 C 24,13.254834 13.254834,24 0,24 -13.254834,24 -24,13.254834 -24,0 c 0,-13.254834 10.745166,-24 24,-24 13.254834,0 24,10.745166 24,24 z"
+       id="circle562"
+       r="24" />
+    <text
+       style="font-size:10px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text564"
+       font-size="10"
+       y="-0.5"
+       x="0"
+       class="label">lingvoj</text>
+    <text
+       style="font-size:6px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text566"
+       font-size="6"
+       y="6.5"
+       x="0"
+       class="label">Languages of the World</text>
+  </a>
+  <a
+     transform="translate(-56.412425,-16.603519)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/zhishi-me"
+     class="dataset"
+     id="dataset-zhishi-me">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="36"
+       sodipodi:rx="36"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="M 36,0 C 36,19.882251 19.882251,36 0,36 -19.882251,36 -36,19.882251 -36,0 c 0,-19.882251 16.117749,-36 36,-36 19.882251,0 36,16.117749 36,36 z"
+       id="circle569"
+       r="36" />
+    <text
+       style="font-size:12px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text571"
+       font-size="12"
+       y="3.5"
+       x="0"
+       class="label">Zhishi.me</text>
+  </a>
+  <a
+     transform="translate(-427.71779,-71.505744)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/dbpedia-es"
+     class="dataset"
+     id="dataset-dbpedia-es">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="21"
+       sodipodi:rx="21"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="m 21,0 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+       id="circle574"
+       r="21" />
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text576"
+       font-size="9"
+       y="2.75"
+       x="0"
+       class="label">DBpedia in Spanish</text>
+  </a>
+  <a
+     transform="translate(-201.50577,341.37835)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/wiktionary"
+     class="dataset"
+     id="dataset-wiktionary">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="21"
+       sodipodi:rx="21"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="m 21,0 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+       id="circle579"
+       r="21" />
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text581"
+       font-size="9"
+       y="2.75"
+       x="0"
+       class="label">Wiktionary</text>
+  </a>
+  <a
+     transform="translate(-138.99484,-68.594432)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/dbpedia-cs"
+     class="dataset"
+     id="dataset-dbpedia-cs">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="21"
+       sodipodi:rx="21"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="m 21,0 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+       id="circle584"
+       r="21" />
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text586"
+       font-size="9"
+       y="2.75"
+       x="0"
+       class="label">DBpedia in Czech</text>
+  </a>
+  <a
+     transform="translate(-335.82434,-150.49187)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/masc"
+     class="dataset"
+     id="dataset-masc">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="21"
+       sodipodi:rx="21"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="m 21,0 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+       id="circle589"
+       r="21" />
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text591"
+       font-size="9"
+       y="2.75"
+       x="0"
+       class="label">MASC</text>
+  </a>
+  <a
+     transform="translate(-179.10955,253.18066)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/yago"
+     class="dataset producer"
+     id="dataset-yago">
+    <circle
+       style="fill:#ffffff;stroke:#2866c4;stroke-width:2"
+       sodipodi:ry="29"
+       sodipodi:rx="29"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="M 29,0 C 29,16.016258 16.016258,29 0,29 -16.016258,29 -29,16.016258 -29,0 c 0,-16.016258 12.983742,-29 29,-29 16.016258,0 29,12.983742 29,29 z"
+       id="circle594"
+       r="29" />
+    <text
+       style="font-size:11px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text596"
+       font-size="11"
+       y="3.25"
+       x="0"
+       class="label">YAGO</text>
+  </a>
+  <a
+     transform="translate(169.80531,436.39837)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/lemonwordnet"
+     class="dataset"
+     id="dataset-lemonwordnet">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="21"
+       sodipodi:rx="21"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="m 21,0 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+       id="circle599"
+       r="21" />
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text601"
+       font-size="9"
+       y="-2.25"
+       x="0"
+       class="label">Lemon</text>
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text603"
+       font-size="9"
+       y="7.75"
+       x="0"
+       class="label">WordNet</text>
+  </a>
+  <a
+     transform="translate(-437.28257,-181.16165)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/dbpedia-ru"
+     class="dataset"
+     id="dataset-dbpedia-ru">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="21"
+       sodipodi:rx="21"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="m 21,0 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+       id="circle606"
+       r="21" />
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text608"
+       font-size="9"
+       y="2.75"
+       x="0"
+       class="label">DBpedia in Russian</text>
+  </a>
+  <a
+     transform="translate(361.53704,-98.098708)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/simple-lexicon-sense-collection"
+     class="dataset"
+     id="dataset-simple-lexicon-sense-collection">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="21"
+       sodipodi:rx="21"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="m 21,0 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+       id="circle611"
+       r="21" />
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text613"
+       font-size="9"
+       y="2.75"
+       x="0"
+       class="label">SIMPLE Lexicon sense collection</text>
+  </a>
+  <a
+     transform="translate(-196.80267,436.79488)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/framenet"
+     class="dataset"
+     id="dataset-framenet">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="21"
+       sodipodi:rx="21"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="m 21,0 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+       id="circle616"
+       r="21" />
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text618"
+       font-size="9"
+       y="2.75"
+       x="0"
+       class="label">FrameNet</text>
+  </a>
+  <a
+     transform="translate(-313.33851,-53.753613)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/dbpedia-ko"
+     class="dataset"
+     id="dataset-dbpedia-ko">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="21"
+       sodipodi:rx="21"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="m 21,0 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+       id="circle621"
+       r="21" />
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text623"
+       font-size="9"
+       y="2.75"
+       x="0"
+       class="label">DBpedia in Korean</text>
+  </a>
+  <a
+     transform="translate(21.421618,44.617769)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/gemet"
+     class="dataset thirdparty"
+     id="dataset-gemet">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="29"
+       sodipodi:rx="29"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="M 29,0 C 29,16.016258 16.016258,29 0,29 -16.016258,29 -29,16.016258 -29,0 c 0,-16.016258 12.983742,-29 29,-29 16.016258,0 29,12.983742 29,29 z"
+       id="circle626"
+       r="29" />
+    <text
+       style="font-size:8px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text628"
+       font-size="8"
+       y="-6.5"
+       x="0"
+       class="label">GEneral</text>
+    <text
+       style="font-size:8px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text630"
+       font-size="8"
+       y="2.5"
+       x="0"
+       class="label">Multilingual Environmental</text>
+    <text
+       style="font-size:8px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text632"
+       font-size="8"
+       y="11.5"
+       x="0"
+       class="label">Thesaurus</text>
+  </a>
+  <a
+     transform="translate(533.24306,106.45525)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/lexinfo"
+     class="dataset"
+     id="dataset-lexinfo">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="21"
+       sodipodi:rx="21"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="m 21,0 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+       id="circle635"
+       r="21" />
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text637"
+       font-size="9"
+       y="2.75"
+       x="0"
+       class="label">lexinfo</text>
+  </a>
+  <a
+     transform="translate(-360.95553,111.29313)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/dbpedia-live"
+     class="dataset producer"
+     id="dataset-dbpedia-live">
+    <circle
+       style="fill:#ffffff;stroke:#2866c4;stroke-width:2"
+       sodipodi:ry="21"
+       sodipodi:rx="21"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="m 21,0 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+       id="circle640"
+       r="21" />
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text642"
+       font-size="9"
+       y="-2.25"
+       x="0"
+       class="label">DBpedia</text>
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text644"
+       font-size="9"
+       y="7.75"
+       x="0"
+       class="label">Live</text>
+  </a>
+  <a
+     transform="translate(53.490039,-40.617908)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/vu-wordnet"
+     class="dataset thirdparty"
+     id="dataset-vu-wordnet">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="29"
+       sodipodi:rx="29"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="M 29,0 C 29,16.016258 16.016258,29 0,29 -16.016258,29 -29,16.016258 -29,0 c 0,-16.016258 12.983742,-29 29,-29 16.016258,0 29,12.983742 29,29 z"
+       id="circle647"
+       r="29" />
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text649"
+       font-size="9"
+       y="-1.25"
+       x="0"
+       class="label">WordNet 3.0</text>
+    <text
+       style="font-size:7px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text651"
+       font-size="7"
+       y="6.75"
+       x="0"
+       class="label">(VU Amsterdam)</text>
+  </a>
+  <a
+     transform="translate(432.46457,292.80412)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/asit"
+     class="dataset"
+     id="dataset-asit">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="21"
+       sodipodi:rx="21"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="m 21,0 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+       id="circle654"
+       r="21" />
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text656"
+       font-size="9"
+       y="2.75"
+       x="0"
+       class="label">ASIt</text>
+  </a>
+  <a
+     transform="translate(38.25616,518.55207)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/gold"
+     class="dataset"
+     id="dataset-gold">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="21"
+       sodipodi:rx="21"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="m 21,0 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+       id="circle659"
+       r="21" />
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text661"
+       font-size="9"
+       y="2.75"
+       x="0"
+       class="label">gold</text>
+  </a>
+  <a
+     transform="translate(-27.154866,198.57645)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/dbpedia"
+     class="dataset producer"
+     id="dataset-dbpedia">
+    <circle
+       style="fill:#ffffff;stroke:#2866c4;stroke-width:2"
+       sodipodi:ry="36"
+       sodipodi:rx="36"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="M 36,0 C 36,19.882251 19.882251,36 0,36 -19.882251,36 -36,19.882251 -36,0 c 0,-19.882251 16.117749,-36 36,-36 19.882251,0 36,16.117749 36,36 z"
+       id="circle664"
+       r="36" />
+    <text
+       style="font-size:12px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text666"
+       font-size="12"
+       y="3.5"
+       x="0"
+       class="label">DBpedia</text>
+  </a>
+  <a
+     transform="translate(-101.52281,249.02279)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/wiktionary-dbpedia-org"
+     class="dataset"
+     id="dataset-wiktionary-dbpedia-org">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="21"
+       sodipodi:rx="21"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="m 21,0 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+       id="circle669"
+       r="21" />
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text671"
+       font-size="9"
+       y="-2.25"
+       x="0"
+       class="label">wiktionary</text>
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text673"
+       font-size="9"
+       y="7.75"
+       x="0"
+       class="label">dbpedia.org</text>
+  </a>
+  <a
+     transform="translate(118.16676,487.3654)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/wordnet"
+     class="dataset"
+     id="dataset-wordnet">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="21"
+       sodipodi:rx="21"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="m 21,0 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+       id="circle676"
+       r="21" />
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text678"
+       font-size="9"
+       y="2.75"
+       x="0"
+       class="label">Wordnet</text>
+  </a>
+  <a
+     transform="translate(343.84729,236.2964)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/data-bnf-fr"
+     class="dataset producer"
+     id="dataset-data-bnf-fr">
+    <circle
+       style="fill:#ffffff;stroke:#2866c4;stroke-width:2"
+       sodipodi:ry="29"
+       sodipodi:rx="29"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="M 29,0 C 29,16.016258 16.016258,29 0,29 -16.016258,29 -29,16.016258 -29,0 c 0,-16.016258 12.983742,-29 29,-29 16.016258,0 29,12.983742 29,29 z"
+       id="circle681"
+       r="29" />
+    <text
+       style="font-size:11px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text683"
+       font-size="11"
+       y="3.25"
+       x="0"
+       class="label">data.bnf.fr</text>
+  </a>
+  <a
+     transform="translate(179.42095,-171.21767)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/dbpedia-it"
+     class="dataset"
+     id="dataset-dbpedia-it">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="21"
+       sodipodi:rx="21"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="m 21,0 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+       id="circle686"
+       r="21" />
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text688"
+       font-size="9"
+       y="2.75"
+       x="0"
+       class="label">DBpedia in Italian</text>
+  </a>
+  <a
+     transform="translate(331.30476,341.94295)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/jrc-names"
+     class="dataset"
+     id="dataset-jrc-names">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="29"
+       sodipodi:rx="29"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="M 29,0 C 29,16.016258 16.016258,29 0,29 -16.016258,29 -29,16.016258 -29,0 c 0,-16.016258 12.983742,-29 29,-29 16.016258,0 29,12.983742 29,29 z"
+       id="circle691"
+       r="29" />
+    <text
+       style="font-size:11px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text693"
+       font-size="11"
+       y="-2.75"
+       x="0"
+       class="label">JRC</text>
+    <text
+       style="font-size:11px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text695"
+       font-size="11"
+       y="9.25"
+       x="0"
+       class="label">Names</text>
+  </a>
+  <a
+     transform="translate(2.8890494,-109.5604)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/dbpedia-de"
+     class="dataset"
+     id="dataset-dbpedia-de">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="21"
+       sodipodi:rx="21"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="m 21,0 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+       id="circle698"
+       r="21" />
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text700"
+       font-size="9"
+       y="2.75"
+       x="0"
+       class="label">DBpedia in German</text>
+  </a>
+  <a
+     transform="translate(-476.11041,34.317625)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/multilingualeulaw"
+     class="dataset"
+     id="dataset-multilingualeulaw">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="21"
+       sodipodi:rx="21"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="m 21,0 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+       id="circle703"
+       r="21" />
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text705"
+       font-size="9"
+       y="2.75"
+       x="0"
+       class="label">DGT</text>
+  </a>
+  <a
+     transform="translate(-197.24052,100.38907)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/lcc"
+     class="dataset"
+     id="dataset-lcc">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="21"
+       sodipodi:rx="21"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="m 21,0 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+       id="circle708"
+       r="21" />
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text710"
+       font-size="9"
+       y="2.75"
+       x="0"
+       class="label">Leipzig Corpora Collection (LCC)</text>
+  </a>
+  <a
+     transform="translate(-116.39712,-286.58373)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/ietflang"
+     class="dataset"
+     id="dataset-ietflang">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="21"
+       sodipodi:rx="21"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="m 21,0 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+       id="circle713"
+       r="21" />
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text715"
+       font-size="9"
+       y="2.75"
+       x="0"
+       class="label">ietflang</text>
+  </a>
+  <a
+     transform="translate(156.04319,346.0898)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/open-data-thesaurus"
+     class="dataset producer"
+     id="dataset-open-data-thesaurus">
+    <circle
+       style="fill:#ffffff;stroke:#2866c4;stroke-width:2"
+       sodipodi:ry="24"
+       sodipodi:rx="24"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="M 24,0 C 24,13.254834 13.254834,24 0,24 -13.254834,24 -24,13.254834 -24,0 c 0,-13.254834 10.745166,-24 24,-24 13.254834,0 24,10.745166 24,24 z"
+       id="circle718"
+       r="24" />
+    <text
+       style="font-size:10px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text720"
+       font-size="10"
+       y="-2.5"
+       x="0"
+       class="label">Open Data</text>
+    <text
+       style="font-size:10px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text722"
+       font-size="10"
+       y="8.5"
+       x="0"
+       class="label">Thesaurus</text>
+  </a>
+  <a
+     transform="translate(265.53347,101.76115)"
+     target="_blank"
+     xlink:href="http://thedatahub.org/dataset/dbpedia-in-french"
+     class="dataset"
+     id="dataset-dbpedia-in-french">
+    <circle
+       style="fill:#ffffff;stroke:#2f5cd0;stroke-width:2"
+       sodipodi:ry="21"
+       sodipodi:rx="21"
+       sodipodi:cy="0"
+       sodipodi:cx="0"
+       cy="0"
+       cx="0"
+       d="m 21,0 c 0,11.59798 -9.40202,21 -21,21 -11.59798,0 -21,-9.40202 -21,-21 0,-11.59798 9.40202,-21 21,-21 11.59798,0 21,9.40202 21,21 z"
+       id="circle725"
+       r="21" />
+    <text
+       style="font-size:9px;font-weight:bold;text-anchor:middle;font-family:'Helvetica, sans-serif'"
+       id="text727"
+       font-size="9"
+       y="2.75"
+       x="0"
+       class="label">DBpedia in French</text>
+  </a>
+  <g
+     id="layer-legend"
+     transform="translate(562.24306,557.41825)">
+    <!--    <g class="dataset legal">
+      <text x="-46" y="-254" font-size="12">Published by LATC</text>
+      <circle cx="-22" cy="-257" r="13"/>
+    </g>
+    <g class="dataset producer">
+      <text x="-46" y="-222" font-size="12">Published by EU</text>
+      <circle cx="-22" cy="-225" r="13"/>
+    </g>
+    <g class="dataset thirdparty">
+      <text x="-46" y="-190" font-size="12">Published by 3rd parties</text>
+      <circle cx="-22" cy="-193" r="13"/>
+    </g>
+    <g class="dataset non-eu">
+      <text x="-46" y="-158" font-size="12">Non-EU dataset</text>
+      <circle cx="-22" cy="-161" r="13"/>
+    </g>
+-->
+  </g>
+  <g
+     id="layer-latc-logo"
+     transform="translate(-450,420)">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="793.75769"
+       y="115.49442"
+       id="text3718"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3720"
+         x="795.82703"
+         y="115.49442"
+         style="font-size:13px;text-align:center;text-anchor:middle">This image was produced automatically from http://thedatahub.org/en/group/linguistics </tspan><tspan
+         sodipodi:role="line"
+         x="793.75769"
+         y="129.75093"
+         style="font-size:11px;text-align:center;text-anchor:middle"
+         id="tspan4090">The software was provided by Richard Cyganiak</tspan></text>
+  </g>
+  <a
+     transform="matrix(1.25,0,0,-1.25,-296.07334,701.25688)"
+     id="a4333"
+     xlink:href="http://linguistics.okfn.org/llod">
+    <text
+       transform="scale(1,-1)"
+       sodipodi:linespacing="125%"
+       id="text9311"
+       y="-203.58498"
+       x="596.54578"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:16px"
+         id="tspan9317"
+         y="-203.58498"
+         x="596.54578"
+         sodipodi:role="line">Open Linguistics Working Group</tspan><tspan
+         style="font-size:16px"
+         id="tspan9315"
+         y="-183.58498"
+         x="596.54578"
+         sodipodi:role="line">http://linguistics.okfn.org/llod</tspan></text>
+  </a>
+  <a
+     transform="matrix(1.25,0,0,-1.25,-205.13333,742.50802)"
+     id="a4315"
+     xlink:href="http://creativecommons.org/licenses/by/3.0/">
+    <g
+       inkscape:export-ydpi="300.23013"
+       inkscape:export-xdpi="300.23013"
+       inkscape:export-filename="/mnt/hgfs/Bov/Documents/Work/2007/cc/identity/srr buttons/big/by.png"
+       id="g260"
+       transform="matrix(0.41226133,0,0,0.4275827,529.49193,183.4017)">
+      <path
+         style="fill:#aab2ab"
+         d="m 181.96579,0.51074 114.06396,0.20264 c 1.59375,0 3.01758,-0.23633 3.01758,3.18066 l -0.13965,37.56689 -119.82031,0 0,-37.70654 c 0,-1.68505 0.16309,-3.24365 2.87842,-3.24365 z"
+         nodetypes="ccccccc"
+         id="path3817_1_"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path263"
+         d="m 297.29636,0 -116.229,0 c -1.24658,0 -2.26123,1.01416 -2.26123,2.26074 l 0,39.49658 c 0,0.28174 0.229,0.51025 0.51074,0.51025 l 119.73047,0 c 0.28174,0 0.51074,-0.22852 0.51074,-0.51025 l 0,-39.49658 C 299.55807,1.01416 298.54343,0 297.29636,0 z m -116.22901,1.02148 116.229,0 c 0.68408,0 1.24023,0.55566 1.24023,1.23926 0,0 0,15.94824 0,27.44971 l -83.34424,0 c -3.04492,5.50586 -8.91113,9.24414 -15.64355,9.24414 -6.73535,0 -12.6001,-3.73486 -15.64355,-9.24414 l -4.07764,0 c 0,-11.50146 0,-27.44971 0,-27.44971 1e-5,-0.68359 0.55616,-1.23926 1.23975,-1.23926 z"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g265"
+         enable-background="new    ">
+        <path
+           style="fill:#ffffff"
+           id="path267"
+           d="m 253.07761,32.95605 c 0.31738,0 0.60742,0.02832 0.87012,0.08398 0.26172,0.05566 0.48535,0.14746 0.67285,0.27539 0.18652,0.12695 0.33203,0.29688 0.43457,0.50781 0.10254,0.21191 0.1543,0.47266 0.1543,0.78418 0,0.33594 -0.0762,0.61523 -0.22949,0.83887 -0.15234,0.22461 -0.37891,0.40723 -0.67773,0.55078 0.41211,0.11816 0.71973,0.3252 0.92285,0.62109 0.20312,0.29589 0.30469,0.65234 0.30469,1.06934 0,0.33594 -0.0654,0.62695 -0.19629,0.87305 -0.13086,0.24512 -0.30762,0.44629 -0.52832,0.60156 -0.22168,0.15625 -0.47461,0.27148 -0.75781,0.3457 -0.28418,0.0752 -0.5752,0.1123 -0.875,0.1123 l -3.23635,0 0,-6.66406 3.14161,0 0,10e-6 z m -0.1875,2.69532 c 0.26172,0 0.47656,-0.0625 0.64551,-0.18652 0.16797,-0.12402 0.25195,-0.3252 0.25195,-0.60449 0,-0.15527 -0.0283,-0.2832 -0.084,-0.38184 -0.0566,-0.09961 -0.13086,-0.17676 -0.22461,-0.2334 -0.0937,-0.05566 -0.20117,-0.09473 -0.32227,-0.11621 -0.1211,-0.02148 -0.24805,-0.03223 -0.37793,-0.03223 l -1.37402,0 0,1.55469 1.48535,0 z m 0.0859,2.82812 c 0.14355,0 0.28027,-0.01367 0.41113,-0.04199 0.13086,-0.02832 0.24609,-0.0752 0.34668,-0.13965 0.0996,-0.06543 0.17871,-0.1543 0.23828,-0.2666 0.0596,-0.11133 0.0889,-0.25488 0.0889,-0.42871 0,-0.3418 -0.0967,-0.58594 -0.29004,-0.73242 -0.19336,-0.14551 -0.44922,-0.21875 -0.7666,-0.21875 l -1.59961,0 0,1.82812 1.57129,0 z"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#ffffff"
+           id="path269"
+           d="m 255.78854,32.95605 1.64355,0 1.56055,2.63184 1.55078,-2.63184 1.63379,0 -2.47363,4.10645 0,2.55762 -1.46875,0 0,-2.59473 -2.44629,-4.06934 z"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(0.872921,0,0,0.872921,50.12536,143.2144)"
+         id="g5908_1_">
+        <path
+           style="fill:#ffffff"
+           d="m 186.90065,-141.46002 c 0.006,8.68079 -7.02786,15.7215 -15.70808,15.72711 -8.68022,0.006 -15.72206,-7.02734 -15.7271,-15.70807 0,-0.006 0,-0.0123 0,-0.019 -0.005,-8.68079 7.02786,-15.7215 15.70808,-15.72656 8.68135,-0.006 15.72206,7.02734 15.7271,15.70813 0,0.006 0,0.0123 0,0.0184 z"
+           rx="22.939548"
+           type="arc"
+           cy="264.3577"
+           ry="22.939548"
+           cx="296.35416"
+           id="path5906_1_"
+           inkscape:connector-curvature="0" />
+        <g
+           transform="translate(-289.6157,99.0653)"
+           id="g5706_1_">
+          <path
+             d="m 473.57574,-253.32751 c 3.48541,3.48541 5.22839,7.75391 5.22839,12.80219 0,5.04938 -1.71277,9.27203 -5.13831,12.66791 -3.63531,3.5766 -7.93182,5.36432 -12.88947,5.36432 -4.89777,0 -9.11987,-1.77319 -12.66513,-5.31952 -3.54581,-3.54584 -5.31845,-7.78302 -5.31845,-12.71271 0,-4.92859 1.77264,-9.19598 5.31845,-12.80219 3.4552,-3.48651 7.67728,-5.22949 12.66513,-5.22949 5.0483,-10e-6 9.31404,1.74297 12.79939,5.22949 z m -23.11798,2.34484 c -2.94672,2.97638 -4.41953,6.46289 -4.41953,10.46234 0,3.99835 1.45828,7.45526 4.37424,10.37067 2.9165,2.9165 6.38849,4.37421 10.41705,4.37421 4.02856,0 7.53015,-1.47223 10.50653,-4.4184 2.82593,-2.73645 4.23944,-6.17706 4.23944,-10.32648 0,-4.11804 -1.43646,-7.61346 -4.30768,-10.48468 -2.87067,-2.87067 -6.34991,-4.30658 -10.43829,-4.30658 -4.0884,1e-5 -7.54638,1.44318 -10.37176,4.32892 z m 7.75449,8.70319 c -0.45029,-0.98169 -1.1243,-1.47284 -2.02322,-1.47284 -1.58917,0 -2.38345,1.07007 -2.38345,3.20911 0,2.13953 0.79428,3.2085 2.38345,3.2085 1.04938,0 1.79892,-0.52075 2.24866,-1.56451 l 2.20276,1.17297 c -1.04993,1.86548 -2.62509,2.79846 -4.72549,2.79846 -1.6199,0 -2.91763,-0.4967 -3.89206,-1.48901 -0.9761,-0.99341 -1.46274,-2.36273 -1.46274,-4.10852 0,-1.71503 0.50229,-3.07654 1.50748,-4.08502 1.00519,-1.00854 2.25702,-1.51257 3.75781,-1.51257 2.22012,0 3.80981,0.87488 4.77081,2.62286 l -2.38401,1.22057 z m 10.36337,0 c -0.45087,-0.98169 -1.11145,-1.47284 -1.98242,-1.47284 -1.62103,0 -2.43213,1.07007 -2.43213,3.20911 0,2.13953 0.8111,3.2085 2.43213,3.2085 1.05109,0 1.78717,-0.52075 2.20728,-1.56451 l 2.25201,1.17297 c -1.04828,1.86548 -2.62122,2.79846 -4.71771,2.79846 -1.61768,0 -2.9126,-0.4967 -3.88647,-1.48901 -0.97217,-0.99341 -1.45935,-2.36273 -1.45935,-4.10852 0,-1.71503 0.49445,-3.07654 1.48285,-4.08502 0.98785,-1.00854 2.2453,-1.51257 3.7735,-1.51257 2.21619,0 3.80365,0.87488 4.76129,2.62286 l -2.43098,1.22057 z"
+             id="path5708_1_"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+      <g
+         id="g275">
+        <circle
+           d="m 266.35788,15.31348 c 0,5.968343 -4.8383,10.80664 -10.80664,10.80664 -5.96834,0 -10.80664,-4.838297 -10.80664,-10.80664 0,-5.9683419 4.8383,-10.8066393 10.80664,-10.8066393 5.96834,0 10.80664,4.8382974 10.80664,10.8066393 z"
+           style="fill:#ffffff"
+           sodipodi:ry="10.80664"
+           sodipodi:rx="10.80664"
+           sodipodi:cy="15.31348"
+           sodipodi:cx="255.55124"
+           id="circle277"
+           r="10.80664"
+           cy="15.31348"
+           cx="255.55124" />
+        <g
+           id="g279">
+          <path
+             id="path281"
+             d="m 258.67819,12.18701 c 0,-0.4165 -0.33789,-0.75391 -0.75293,-0.75391 l -4.77344,0 c -0.41504,0 -0.75293,0.3374 -0.75293,0.75391 l 0,4.77295 1.33105,0 0,5.65186 3.61719,0 0,-5.65186 1.33105,0 0,-4.77295 10e-6,0 z"
+             inkscape:connector-curvature="0" />
+          <circle
+             d="m 257.17135,9.1723604 c 0,0.9017756 -0.73103,1.6328096 -1.63281,1.6328096 -0.90177,0 -1.63281,-0.731034 -1.63281,-1.6328096 0,-0.901776 0.73104,-1.63281 1.63281,-1.63281 0.90178,0 1.63281,0.731034 1.63281,1.63281 z"
+             sodipodi:ry="1.63281"
+             sodipodi:rx="1.63281"
+             sodipodi:cy="9.1723604"
+             sodipodi:cx="255.53854"
+             id="circle283-4"
+             r="1.63281"
+             cy="9.1723604"
+             cx="255.53854" />
+        </g>
+        <path
+           style="fill-rule:evenodd"
+           id="path285"
+           d="m 255.5239,3.40723 c -3.23242,0 -5.96875,1.12793 -8.20801,3.38379 -2.29785,2.3335 -3.44629,5.0957 -3.44629,8.28467 0,3.18897 1.14844,5.93164 3.44629,8.22656 2.29785,2.29443 5.03418,3.44189 8.20801,3.44189 3.21289,0 5.99805,-1.15625 8.35352,-3.47119 2.21973,-2.19727 3.33008,-4.92969 3.33008,-8.19727 0,-3.26758 -1.12988,-6.02881 -3.3877,-8.28467 -2.25977,-2.25585 -5.02442,-3.38378 -8.2959,-3.38378 z m 0.0293,2.09961 c 2.64844,0 4.89746,0.93408 6.74707,2.80127 1.86914,1.84717 2.80371,4.10303 2.80371,6.76758 0,2.68359 -0.91504,4.91064 -2.74512,6.68018 -1.92871,1.90625 -4.19629,2.85889 -6.80566,2.85889 -2.61035,0 -4.85938,-0.94287 -6.74707,-2.82959 -1.88965,-1.88672 -2.83301,-4.12305 -2.83301,-6.70947 0,-2.58691 0.9541,-4.84229 2.8623,-6.76758 1.83009,-1.8672 4.06934,-2.80128 6.71778,-2.80128 z"
+           clip-rule="evenodd"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </a>
+  <text
+     xml:space="preserve"
+     style="font-size:24px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="405.12555"
+     y="-288.91776"
+     id="text4074"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4076"
+       x="408.94586"
+       y="-288.91776">Snapshot of the </tspan><tspan
+       sodipodi:role="line"
+       x="408.94586"
+       y="-258.91776"
+       id="tspan4078">Linguistic Linked Open Data Cloud </tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="874.71173"
+     y="87.189941"
+     id="text4080"
+     sodipodi:linespacing="125%"
+     transform="translate(-523.53354,-327.60626)"><tspan
+       sodipodi:role="line"
+       id="tspan4082"
+       x="874.71173"
+       y="87.189941" /></text>
+  <text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="402.46155"
+     y="-230.66621"
+     id="text4084"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4086"
+       x="402.46155"
+       y="-230.66621"
+       style="font-size:16px;text-align:center;text-anchor:middle">as a result of the MLODE workshop Sept. 2012 in Leipzig</tspan><tspan
+       sodipodi:role="line"
+       x="402.46155"
+       y="-210.66621"
+       style="font-size:16px;text-align:center;text-anchor:middle"
+       id="tspan4088">http://sabre2012.infai.org/mlode</tspan></text>
+</svg>
