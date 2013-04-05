@@ -4,7 +4,7 @@ select 'Disabling indexing...';
 DB.DBA.VT_BATCH_UPDATE ('DB.DBA.RDF_OBJ', 'ON', NULL);
 
 select 'Clearing existing data...';
--- Add here all the graphs we use for a clean update (RDF_GLOBAL_RESET deletes them all)
+--Add here all the graphs we use for a clean update (RDF_GLOBAL_RESET deletes them all)
 --SPARQL CLEAR GRAPH <http://mlode.nlp2rdf.org>;
 RDF_GLOBAL_RESET();
 
